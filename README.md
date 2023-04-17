@@ -14,9 +14,9 @@ The Ad Product Taxonomy establishes a standardized nomenclature for describing t
 
 ## Versioning Policy
 
-IAB Tech Lab Taxonimies can be updated as often as once a month if there are non-breaking improvements to be released such as new rows that do not require updates to the taxonomy's hierarchical structure. Errata, such as clarifications or corrections to descriptions not materially impacting the specification itself, are also addressed during monthly updates.
+Updates to IAB Tech Lab Taxonimies are considered by the Taxonomy and Mapping Working Group as new proposals are submitted. Errata, such as clarifications or corrections to descriptions not materially impacting the specification itself, are addressed in the release following when the error or inconsistency was found.
 
-The format for version numbering includes major and minor versions where major version numbers represent breaking changes and minor version numbers represent non-breaking changes. For example, Audience Taxonomy 1.1 is a non-breaking update to Audience Taxonomy 1.0 whereas Content Taxonomy 3.0 may not be used alongside earlier versions (i.e. Content Taxonomy 1.0 through Content Taxonomy 2.2).
+The format for version numbering includes major and minor versions where major version numbers represent breaking changes and minor version numbers represent improvements such as new rows that do not change the taxonomy's hierarchical structure. For example, Audience Taxonomy 1.1 is a non-breaking update to Audience Taxonomy 1.0 whereas Content Taxonomy 3.0 may not be used alongside earlier versions (i.e. Content Taxonomy 1.0 through Content Taxonomy 2.2).
 
 #### Contributors and Technical Governance
 
