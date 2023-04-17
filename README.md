@@ -6,7 +6,7 @@ Easy access to IAB Tech Lab taxonomies, as listed below
 The Content Taxonomy provides a common language that can be used when describing content or the aboutness of a webpage, applicaiton, or video. Typical uses of the content taxonomy are contextual targeting and brand safety.
 
 ### Audience Taxonomy 
-Provide common nomenclature for audience segment names to improve comparability of data across different providers. It is a key element in IAB Tech Lab’s Data Transparency Standard (datalabel.org), which facilitates consistent labeling of audience data by first-party and third-party sources. The Audience Taxonomy also provides a mechanism to make segmentation approaches much clearer (categorically) by introducing Tier 1 level labelling that designates whether the segment describes attribution that are demographic, interest-based, or purchase-intent based. 
+Provide common nomenclature for audience segment names to improve comparability of data across different providers. It is a key element in IAB Tech Lab’s Data Transparency Standard, which facilitates consistent labeling of audience data by first-party and third-party sources. The Audience Taxonomy also provides a mechanism to make segmentation approaches much clearer (categorically) by introducing Tier 1 level labelling that designates whether the segment describes attribution that are demographic, interest-based, or purchase-intent based. 
 
 ### Ad Product Taxonomy
 The Ad Product Taxonomy establishes a standardized nomenclature for describing the product or service being advertised within a creative unit. It aims to provide publishers with stronger signals to, 1) control the types of ads that are delivered via automated channels and, 2) measure the performance of those ads against internal KPIs.
