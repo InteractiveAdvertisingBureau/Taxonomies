@@ -1,0 +1,353 @@
+New Taxonomy ID	OLD RTB ID	OLD SUBJECT (v1)	New subject (v2)			NOT MAPPED (deprecated)	
+603	IAB19-1	3-D Graphics	3-D Graphics			Architects	IAB21-2
+193	IAB6-1	Adoption	Adoption and Fostering			Art History	IAB5-3
+133	IAB5-2	Adult Education	Adult Education			Arts/Ent	IAB1
+665	IAB20-1	Adventure travel	Adventure Travel			College	IAB4-2
+656	IAB20-2	Africa	Africa Travel			College Admin	IAB5-4
+454	IAB23-2	Atheism/Agnosticism	Agnosticism			Commentary	IAB11-5
+102	IAB3-2	Agriculture	Agriculture			Comparison	IAB22-3
+672	IAB20-3	Air Travel	Air Travel			Computer certification	IAB19-7
+211	IAB8-5	Cocktails/Beer	Alcoholic Beverages			Computer Reviews	IAB19-10
+211	IAB8-18	Wine	Alcoholic Beverages			Copyright Infringement	IAB26-4
+288	IAB7-4	Allergies	Allergies			Desktop Video	IAB19-14
+233	IAB7-5	Alternative Medicine	Alternative Medicine			Diesel	IAB2-9
+484	IAB17-12	Football	American Football			Distance Learing	IAB5-6
+608	IAB19-3	Antivirus Software	Antivirus Software			Engines	IAB22-4
+442	IAB21-1	Apartments	Apartments			Entertainment	IAB19-29
+248	IAB9-2	Arts & Crafts	Arts and Crafts			ESL	IAB5-7
+456	IAB15-1	Astrology	Astrology			Ethnic Specific	IAB14-8
+265	IAB9-17	Home Recording	Audio Production			Extreme Graphic/Explicit Violence	IAB25-2
+658	IAB20-4	Australia & NZ	Australia and Oceania Travel			Forestry	IAB3-6
+30	IAB2-3	Buying/Selling Cars	Auto Buying and Selling			Game & fish	IAB17-14
+32	IAB2-1	Auto Parts	Auto Parts			Gay life	IAB14-3
+518	IAB17-1	Auto racing	Auto Racing			Hate Content	IAB25-5
+34	IAB2-2	Auto Repair	Auto Repair			Illegal Content	IAB26
+1	IAB2	Automotive	Automotive			Illegal Content	IAB26-1
+215	IAB8-2	Barbecues & Grilling	Barbecues and Grilling			Incentivized	IAB25-7
+545	IAB17-2	Baseball	Baseball			Incest/Abuse Support	IAB7-28
+547	IAB17-26	Pro Basketball	Basketball			Investors & patents	IAB9-18
+249	IAB9-3	Beadwork	Beadwork			Mac Support	IAB19-21
+553	IAB18-1	Beauty	Beauty			National Parks	IAB20-22
+674	IAB20-5	Bed & Breakfasts	Bed & Breakfasts			Non-Standard Content	IAB25
+465	IAB15-2	Biology	Biological Sciences			Nursing	IAB4-7
+119	IAB3-3	Biotech/Biomedical	Biotech and Biomedical Industry			PC Support	IAB19-27
+423	IAB16-2	Birds	Birds			Pornography	IAB25-3
+259	IAB9-4	Birdwatching	Birdwatching			Portable	IAB19-28
+270	IAB9-5	Board Games/Puzzles	Board Games and Puzzles			Profane Content	IAB25-4
+574	IAB18-2	Body Art	Body Art			Senior living	IAB14-5
+549	IAB17-4	Bodybuilding	Bodybuilding			Society	IAB14
+312	IAB7-33	Orthopedics	Bone and Joint Conditions			Studying Business	IAB5-15
+42	IAB1-1	Books & Lit	Books and Literature			Teens	IAB14-6
+485	IAB17-5	Boxing	Boxing			U.S. Govt Resources	IAB11-3
+458	IAB23-3	Buddhism	Buddhism			U.S. Military	IAB4-10
+675	IAB20-6	Budget Travel	Budget Travel			Uncategorized	IAB24
+53	IAB3	Business	Business			Under Construction	IAB25-6
+676	IAB20-7	Business travel	Business Travel			Unix	IAB19-31
+633	IAB19-5	Cameras & camcorders	Cameras and Camcorders			Unmoderated UGC	IAB25-1
+677	IAB20-9	Camping	Camping			Warez	IAB26-2
+250	IAB9-6	Candle & Soap Making	Candle and Soap Making			Web Clip Art	IAB19-33
+499	IAB17-6	Canoeing/Kayaking	Canoeing and Kayaking			Windows	IAB19-36
+25	IAB2-4	Car Culture	Car Culture				
+271	IAB9-7	Card Games	Card Games				
+125	IAB4-11	Career Advice	Career Advice				
+126	IAB4-1	Career Planning	Career Planning				
+123	IAB4	Careers	Careers				
+424	IAB16-3	Cats	Cats				
+18	IAB2-5	Certified	Certified Pre-Owned Cars				
+486	IAB17-7	Cheerleading	Cheerleading				
+466	IAB15-3	Chemistry	Chemistry				
+459	IAB23-5	Christianity	Christianity				
+260	IAB9-9	Cigars	Cigars				
+19	IAB2-22	Vintage Cars	Classic Cars				
+500	IAB17-8	Climbing	Climbing				
+261	IAB9-10	Collecting	Collecting				
+137	IAB5-5	College Life	College Education				
+262	IAB9-11	Comic Books	Comic Books				
+3	IAB2-21	Trucks & Accessories	Commercial Trucks				
+610	IAB19-2	Animation	Computer Animation				
+600	IAB19-8	Computer Networking	Computer Networking				
+601	IAB19-9	Computer Peripherals	Computer Peripherals				
+121	IAB3-5	Construction	Construction Industry				
+264	IAB9-15	Getting Published	Content Production				
+8	IAB2-6	Convertible	Convertible				
+9	IAB2-7	Coupe	Coupe				
+474	IAB22-2	Couponing	Coupons and Discounts				
+491	IAB17-9	Cricket	Cricket				
+10	IAB2-8	Crossover	Crossover				
+678	IAB20-12	Cruises	Cruises				
+492	IAB17-3	Bicycling	Cycling				
+611	IAB19-12	Databases	Databases				
+188	IAB14-1	Dating	Dating				
+194	IAB6-3	Daycare/Pre School	Daycare and Pre-School				
+316	IAB7-17	Dental Care	Dental Health				
+612	IAB19-13	Desktop Publishing	Desktop Publishing				
+217	IAB8-8	Desserts/Baking	Desserts and Baking				
+205	IAB9-1	Art/Technology	Digital Arts				
+613	IAB19-22	MP3/MIDI	Digital Audio				
+218	IAB8-9	Dining Out	Dining Out				
+189	IAB14-2	Divorce support	Divorce				
+425	IAB16-4	Dogs	Dogs				
+251	IAB9-12	Drawing/Sketching	Drawing and Sketching				
+132	IAB5	Education	Education				
+190	IAB6-9	Eldercare	Eldercare				
+623	IAB19-15	Email	Email				
+496	IAB17-17	Horses	Equine Sports				
+659	IAB20-14	Europe	Europe Travel				
+186	IAB6	Family & Parenting	Family and Relationships				
+666	IAB20-26	Traveling with Kids	Family Travel				
+510	IAB17-10	Figure skating	Figure Skating				
+396	IAB13-4	Financial Planning	Financial Planning				
+201	IAB1-3	Fine Art	Fine Art				
+426	IAB16-1	Aquariums	Fish and Aquariums				
+511	IAB17-11	Fly Fishing	Fishing Sports				
+511	IAB17-13	Freshwater fishing	Fishing Sports				
+511	IAB17-32	Saltwater Fishing	Fishing Sports				
+225	IAB7-1	Exercise	Fitness and Exercise				
+210	IAB8	Food & Drink	Food & Drink				
+219	IAB8-10	Food Allergies	Food Allergies				
+266	IAB9-13	Freelance Writing	Freelance Writing				
+275	IAB10-4	Gardening	Gardening				
+273	IAB9-14	Genealogy	Genealogy and Ancestry				
+469	IAB15-8	Geography	Geography				
+470	IAB15-4	Geology	Geology				
+512	IAB17-15	Golf	Golf				
+77	IAB3-7	Government	Government Business				
+614	IAB19-16	Graphics Software	Graphics Software				
+78	IAB3-8	Green Solutions	Green Solutions				
+22	IAB2-10	Electric Vehicle	Green Vehicles				
+22	IAB2-12	Hybrid	Green Vehicles				
+11	IAB2-11	Hatchback	Hatchback				
+221	IAB8-12	Health/Lowfat Cooking	Healthy Cooking and Eating				
+223	IAB7-35	Pediatrics	Healthy Living				
+223	IAB7-38	Senor Health	Healthy Living				
+296	IAB7-24	Heart Disease	Heart and Cardiovascular Diseases				
+411	IAB13-5	Hedge Fund	Hedge Funds				
+234	IAB7-25	Herbs for Herbs	Herbs and Supplements				
+460	IAB23-6	Hinduism	Hinduism				
+239	IAB9	Hobbies & Interests	Hobbies & Interests				
+235	IAB7-26	Holistic Healing	Holistic Health				
+274	IAB10	Home & Garden	Home & Garden				
+278	IAB10-1	Appliances	Home Appliances				
+279	IAB10-2	Entertaining	Home Entertaining				
+634	IAB19-17	Home Video/DVD	Home Entertainment Systems				
+280	IAB10-5	Home Repair	Home Improvement				
+145	IAB5-10	Homeschooling	Homeschooling				
+146	IAB5-11	Homework/Study Tips	Homework and Study				
+667	IAB20-17	Honeymoons/Getaways	Honeymoons and Getaways				
+497	IAB17-16	Horse racing	Horse Racing				
+668	IAB20-18	Hotels	Hotels and Motels				
+55	IAB3-9	Human Resources	Human Resources				
+440	IAB1-4	Humor	Humor and Satire				
+514	IAB17-18	Hunting/Shooting	Hunting and Shooting				
+515	IAB17-27	Pro ice hockey	Ice Hockey				
+282	IAB10-3	Environmental Safety	Indoor Environmental Quality				
+618	IAB19-25	Network security	Information and Network Security				
+516	IAB17-19	Inline Skating	Inline Skating				
+398	IAB13-6	Insurance	Insurance				
+283	IAB10-7	Interior Decorating	Interior Decorating				
+382	IAB12-1	International News	International News				
+624	IAB19-24	Net for Beginners	Internet for Beginners				
+195	IAB6-4	Family Internet	Internet Safety				
+461	IAB23-7	Islam	Islam				
+252	IAB9-19	Jewelry Making	Jewelry Making				
+128	IAB4-4	Job Fairs	Job Fairs				
+127	IAB4-5	Job Search	Job Search				
+462	IAB23-8	Judaism	Judaism				
+284	IAB10-8	Landscaping	Landscaping				
+147	IAB5-8	Language Learning	Language Learning				
+427	IAB16-5	Large Animals	Large Animals				
+383	IAB11-2	Legal Issues	Law				
+384	IAB12-3	Local News	Local News				
+57	IAB3-10	Logistics	Logistics				
+23	IAB2-13	Luxury	Luxury Cars				
+241	IAB9-20	Magic & Illusion	Magic and Illusion				
+58	IAB3-1	Advertising	Marketing and Advertising				
+58	IAB3-11	Marketing	Marketing and Advertising				
+191	IAB14-4	Marriage	Marriage and Civil Unions				
+520	IAB17-20	Martial Arts	Martial Arts				
+228	IAB7-31	Men's health	Men's Health				
+301	IAB7-37	Psychology/Psychiatry	Mental Health				
+107	IAB3-12	Metals	Metals Industry				
+13	IAB2-14	MiniVan	Minivan				
+519	IAB17-25	Power & Motorcycles	Motorcycle Sports				
+27	IAB2-15	Mororcycles	Motorcycles				
+324	IAB1-5	Movies	Movies				
+338	IAB1-6	Music	Music and Audio				
+243	IAB9-16	Guitar	Musical Instruments				
+412	IAB13-8	Mutual Funds	Mutual Funds				
+385	IAB12-2	National News	National News				
+253	IAB9-21	Needlework	Needlework				
+222	IAB8-6	Coffee/Tea	Non-Alcoholic Beverages				
+229	IAB7-32	Nutrition	Nutrition				
+14	IAB2-16	Off-Road Vehicles	Off-Road Vehicles				
+521	IAB17-23	Olympics	Olympic Sports				
+413	IAB13-9	Options	Options				
+501	IAB17-24	Paintball	Paintball				
+254	IAB9-22	Painting	Painting				
+244	IAB15-5	Paranormal Phenomena	Paranormal Phenomena				
+196	IAB6-2	Babies & Toddlers	Parenting Babies and Toddlers				
+197	IAB6-5	Parenting - K-6 Kids	Parenting Children Aged 4-11				
+198	IAB6-6	Parenting Teens	Parenting Teens				
+24	IAB2-17	Performance Vehicles	Performance Cars				
+405	IAB13-2	Credit/Debt & Loans	Personal Debt				
+391	IAB13	Personal Finance	Personal Finance				
+410	IAB13-7	Investing	Personal Investing				
+415	IAB13-12	Tax planning	Personal Taxes				
+422	IAB16	Pets	Pets				
+255	IAB9-23	Photography	Photography				
+236	IAB7-36	Physical Therapy	Physical Therapy				
+471	IAB15-6	Physics	Physics				
+15	IAB2-18	Pickup	Pickup Trucks				
+386	IAB11-4	Politics	Politics				
+432	IAB1-2	Celebrity Fan/Gossip	Pop Culture				
+139	IAB5-9	Graduate School	Postgraduate Education				
+305	IAB6-7	Pregnancy	Pregnancy				
+149	IAB5-12	K-6 Educators	Primary Education				
+134	IAB5-13	Private School	Private School				
+631	IAB19-4	C/C++	Programming Languages				
+631	IAB19-19	Java	Programming Languages				
+631	IAB19-20	JavaScript	Programming Languages				
+631	IAB19-32	Visual Basic	Programming Languages				
+245	IAB9-24	Radio	Radio Control				
+441	IAB21	Real Estate	Real Estate				
+451	IAB21-3	Buying/Selling Homes	Real Estate Buying and Selling				
+453	IAB23	Religion & Spirituality	Religion & Spirituality				
+276	IAB10-9	Remodeling & Construction	Remodeling & Construction				
+130	IAB4-9	Telecommuting	Remote Working				
+429	IAB16-6	Reptiles	Reptiles				
+129	IAB4-6	Resume Writing/Advice	Resume Writing and Advice				
+416	IAB13-10	Retirement planning	Retirement Planning				
+28	IAB2-19	Road-Side Assistance	Road-Side Assistance				
+525	IAB17-28	Rodeo	Rodeo				
+272	IAB9-25	Roleplaying Games	Roleplaying Games				
+527	IAB17-29	Rugby	Rugby				
+227	IAB17-30	Running/Jogging	Running and Jogging				
+530	IAB17-31	Sailing	Sailing				
+481	IAB22-1	Contests & freebies	Sales and Promotions				
+464	IAB15	Science	Science				
+246	IAB9-26	Sci-Fi/Fantasy	Sci-fi and Fantasy				
+256	IAB9-27	Scrapbooking	Scrapbooking				
+267	IAB9-28	Screenwriting	Screenwriting				
+502	IAB17-33	Scuba Diving	Scuba Diving				
+627	IAB19-35	Web Search	Search				
+4	IAB2-20	Sedan	Sedan				
+307	IAB7-39	Sexuality	Sexual Health				
+605	IAB19-30	Shareware/Freeware	Shareware and Freeware				
+473	IAB22	Shopping	Shopping				
+503	IAB17-34	Skateboarding	Skateboarding				
+531	IAB17-35	Skiing	Skiing				
+309	IAB7-19	Dermatology	Skin and Dermatology				
+310	IAB7-40	Sleep Disorders	Sleep Disorders				
+635	IAB19-6	Cell phones	Smartphones				
+237	IAB7-41	Smoking Cessation	Smoking Cessation				
+504	IAB17-36	Snowboarding	Snowboarding				
+533	IAB17-44	World Soccer	Soccer				
+662	IAB20-23	South America	South America Travel				
+472	IAB15-7	Space/Astronomy	Space and Astronomy				
+671	IAB20-24	Spas	Spas				
+136	IAB5-14	Special Ed	Special Education				
+199	IAB6-8	Special Needs Kids	Special Needs Kids				
+483	IAB17	Sports	Sports				
+263	IAB9-29	Stamps & Coins	Stamps and Coins				
+5	IAB2-23	Wagon	Station Wagon				
+414	IAB13-11	Stocks	Stocks and Bonds				
+395	IAB4-3	Financial Aid	Student Financial Aid				
+552	IAB18	Style & fashion	Style & Fashion				
+311	IAB7-42	Substance Abuse	Substance Abuse				
+505	IAB17-37	Surfing/Bodyboarding	Surfing and Bodyboarding				
+537	IAB17-38	Swimming	Swimming				
+538	IAB17-39	Table Tennis/Ping-pong	Table Tennis				
+636	IAB19-26	Palmtops/PDAs	Tablets and E-readers				
+596	IAB19	Technology & Computing	Technology & Computing				
+640	IAB1-7	Television	Television				
+539	IAB17-40	Tennis	Tennis				
+293	IAB7-43	Thyroid Disease	Thyroid Disorders				
+653	IAB20	Travel	Travel				
+212	IAB8-16	Vegan	Vegan Diets				
+213	IAB8-17	Vegetarian	Vegetarian Diets				
+430	IAB16-7	Veterinary medicine	Veterinary Medicine				
+680	IAB9-30	Video & Computer Games	Video Gaming				
+541	IAB17-41	Volleyball	Volleyball				
+542	IAB17-42	Walking	Walking				
+506	IAB17-43	Waterski/Wakeboard	Waterskiing and Wakeboarding				
+390	IAB15-10	Weather	Weather				
+607	IAB19-23	Net Conferencing	Web Conferencing				
+629	IAB19-34	Web Design/HTML	Web Design and HTML				
+165	IAB14-7	Weddings	Wedding				
+231	IAB7-44	Weight Loss	Weight Loss				
+238	IAB7-45	Women's Health	Women's Health				
+257	IAB9-31	Woodworking	Woodworking				
+135	IAB5-1	7-12 Education	Secondary Education				
+							
+301	IAB7-2	A.D.D.	Mental Health				
+561	IAB18-6	Accessories	Women's Accessories				
+580	IAB18-6	Accessories	Men's Accessories				
+297	IAB7-3	AIDS/HIV	Infectious Diseases				
+453	IAB23-1	Alternative Religions	Religion & Spirituality				
+214	IAB8-1	American Cuisine	World Cuisines				
+312	IAB7-6	Arthritis	Bone and Joint Conditions				
+300	IAB7-7	Asthma	Lung and Respiratory Health				
+301	IAB7-8	Autism/PDD	Mental Health				
+410	IAB13-1	Beginning Investing	Personal Investing				
+301	IAB7-9	Bipolar Disorder	Mental Health				
+465	IAB15-9	Botany	Biological Sciences				
+313	IAB7-10	Brain Tumor	Brain and Nervous System Disorders				
+602	IAB3-4	Business Software	Computer Software and Applications				
+660	IAB20-8	By US Locale	North America Travel				
+214	IAB8-3	Cajun/Creole	World Cuisines				
+660	IAB20-10	Canada	North America Travel				
+314	IAB7-11	Cancer	Cancer				
+660	IAB20-11	Caribbean	North America Travel				
+459	IAB23-4	Catholicism	Christianity				
+270	IAB9-8	Chess	Board Games and Puzzles				
+214	IAB8-4	Chinese Cuisine	World Cuisines				
+306	IAB7-12	Cholesterol	Blood Disorders				
+313	IAB7-13	Chronic Fatigue Syndrome	Brain and Nervous System Disorders				
+287	IAB7-14	Chronic pain	Diseases and Conditions				
+566	IAB18-5	Clothing	Women's Clothing				
+582	IAB18-5	Clothing	Men's Clothing				
+576	IAB18-5	Clothing	Designer Clothing				
+575	IAB18-5	Clothing	Children's Clothing				
+315	IAB7-15	Cold/Flu	Cold and Flu				
+214	IAB8-7	Cuisine-Specific	World Cuisines				
+616	IAB19-11	Data Centers	Data Storage and Warehousing				
+289	IAB7-16	Deafness	Ear, Nose and Throat Conditions				
+301	IAB7-18	Depression	Mental health				
+290	IAB7-20	Diabetes	Endocrine and Metabolic Diseases				
+659	IAB20-13	Eastern Europe	Europe Travel				
+313	IAB7-21	Epilepsy	Brain and Nervous System Disorders				
+560	IAB18-3	Fashion	Women's Fashion				
+579	IAB18-3	Fashion	Men's Fashion				
+52	IAB13-3	Financial News	Business and Finance				
+659	IAB20-15	France	Europe Travel				
+214	IAB8-11	French Cuisine	World Cuisines				
+318	IAB7-22	GERD/Acid Reflux	Digestive Disorders				
+659	IAB20-16	Greece	Europe Travel				
+313	IAB7-23	Headaches/Migraines	Brain and Nervous System Disorders				
+286	IAB7	Health & Fitness	Medical Health				
+223	IAB7	Health & Fitness	Healthy Living				
+634	IAB10-6	Home Theater	Home Entertainment Systems				
+318	IAB7-27	IBS/Crohn's Disease	Digestive Disorders				
+388	IAB11-1	Immigration	Political Issues				
+318	IAB7-29	Incontinence	Digestive Disorders				
+304	IAB7-30	Infertility	Infertility				
+619	IAB19-18	Internet Technology	Internet				
+214	IAB8-13	Italian Cuisine	World Cuisines				
+659	IAB20-19	Italy	Europe Travel				
+657	IAB20-20	Japan	Asia Travel				
+214	IAB8-14	Japanese Cuisine	World Cuisines				
+581	IAB18-4	Jewelry	Men's Jewelry and Watches				
+565	IAB18-4	Jewelry	Women's Jewelry and Watches				
+459	IAB23-9	Latter-Day Saints	Christianity				
+379	IAB11	Law, Govt and Pol.	News and Politics				
+214	IAB8-15	Mexican Cuisine	World Cuisines				
+662	IAB20-21	Mexico & Central America	South America Travel				
+492	IAB17-21	Mountain Biking	Cycling				
+518	IAB17-22	NASCAR Racing	Auto Racing				
+379	IAB12	News	News and Politics				
+453	IAB23-10	Pagan/Wiccan	Religion & Spirituality				
+301	IAB7-34	Panic/Anxiety Disorders	Mental Health				
+395	IAB4-8	Scholarships	Student Financial Aid				
+608	IAB26-3	Spyware/Malware	Antivirus Software				
+151	IAB20-25	Theme Parks	Amusement and Theme Parks				
+659	IAB20-27	United Kingdom	Europe Travel				
