@@ -693,7 +693,7 @@ Unique ID	Parent ID	Condensed Name (1st, 2nd, Last Tier)	Tier 1	Tier 2	Tier 3	Ti
 749	738	Interest | Video Gaming | MMOs |	Interest	Video Gaming	Video Game Genres	MMOs			
 750	738	Interest | Video Gaming | Music and Party Video Games |	Interest	Video Gaming	Video Game Genres	Music and Party Video Games			
 751	738	Interest | Video Gaming | Puzzle Video Games |	Interest	Video Gaming	Video Game Genres	Puzzle Video Games			
-752		Purchase Intent*	Purchase Intent*						See "Purchase Intent Classification" Extension
+752		Purchase Intent* |	Purchase Intent* |						See "Purchase Intent Classification" Extension
 753	752	Purchase Intent* | Apps	Purchase Intent*	Apps					See "Purchase Intent Classification" Extension
 754	753	Purchase Intent* | Apps | Auto and Vehicles Apps |	Purchase Intent*	Apps	Auto and Vehicles Apps				See "Purchase Intent Classification" Extension
 755	753	Purchase Intent* | Apps | Books Apps |	Purchase Intent*	Apps	Books Apps				See "Purchase Intent Classification" Extension
