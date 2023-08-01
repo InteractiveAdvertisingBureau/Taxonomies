@@ -1,0 +1,864 @@
+Unique ID	Parent ID	Name	Tier 1	Tier 2	Tier 3	Tier 4	Tier 5
+1		Apps	Apps				
+2	1	Auto and Vehicles Apps	Apps	Auto and Vehicles Apps			
+3	1	Books Apps	Apps	Books Apps			
+4	1	Business Apps	Apps	Business Apps			
+5	1	Education Apps	Apps	Education Apps			
+6	1	Entertainment Apps	Apps	Entertainment Apps			
+7	1	Finance Apps	Apps	Finance Apps			
+8	1	Food and Drink Apps	Apps	Food and Drink Apps			
+9	1	Games Apps	Apps	Games Apps			
+0	1	Health and Fitness Apps	Apps	Health and Fitness Apps			
+11	1	Lifestyle Apps	Apps	Lifestyle Apps			
+12	1	Magazine and Newspapers Apps	Apps	Magazine and Newspapers Apps			
+13	1	Medical Apps	Apps	Medical Apps			
+14	1	Music Apps	Apps	Music Apps			
+15	1	Navigation Apps	Apps	Navigation Apps			
+16	1	News Apps	Apps	News Apps			
+17	1	Photo and Video Apps	Apps	Photo and Video Apps			
+18	1	Productivity Apps	Apps	Productivity Apps			
+19	1	Reference Apps	Apps	Reference Apps			
+20	1	Search Engine Apps	Apps	Search Engine Apps			
+21	1	Shopping Apps	Apps	Shopping Apps			
+22	1	Social Networking Apps	Apps	Social Networking Apps			
+23	1	Sports Apps	Apps	Sports Apps			
+24	1	Travel Apps	Apps	Travel Apps			
+25	1	Utilities Apps	Apps	Utilities Apps			
+26	1	Weather Apps	Apps	Weather Apps			
+27		Arts and Entertainment	Arts and Entertainment				
+28	27	Blogs/Forums/Social Networks	Arts and Entertainment	Blogs/Forums/Social Networks			
+29	27	Culture and Fine Arts	Arts and Entertainment	Culture and Fine Arts			
+30	27	Experiences and Events	Arts and Entertainment	Experiences and Events			
+31	30	Concerts	Arts and Entertainment	Experiences and Events	Concerts		
+32	30	Theatre and Musicals	Arts and Entertainment	Experiences and Events	Theatre and Musicals		
+33	30	Museums and Galleries	Arts and Entertainment	Experiences and Events	Museums and Galleries		
+34	30	Sporting Events	Arts and Entertainment	Experiences and Events	Sporting Events		
+35	30	Cinemas and Movie Events	Arts and Entertainment	Experiences and Events	Cinemas and Movie Events		
+36	30	Aviation Shows	Arts and Entertainment	Experiences and Events	Aviation Shows		
+37	30	Fairs and Farmer's Markets	Arts and Entertainment	Experiences and Events	Fairs and Farmer's Markets		
+38	30	Exhibitions	Arts and Entertainment	Experiences and Events	Exhibitions		
+39	30	Theme and Amusement Parks	Arts and Entertainment	Experiences and Events	Theme and Amusement Parks		
+40	30	Parks and Wildlife	Arts and Entertainment	Experiences and Events	Parks and Wildlife		
+41	30	Auto Shows	Arts and Entertainment	Experiences and Events	Auto Shows		
+42	30	Nightclubs	Arts and Entertainment	Experiences and Events	Nightclubs		
+43	30	Fashion Events	Arts and Entertainment	Experiences and Events	Fashion Events		
+44	30	Comedy Events	Arts and Entertainment	Experiences and Events	Comedy Events		
+45	30	Zoos and Aquariums	Arts and Entertainment	Experiences and Events	Zoos and Aquariums		
+46	30	Fan Conventions	Arts and Entertainment	Experiences and Events	Fan Conventions		
+47	27	Fantasy Sports	Arts and Entertainment	Fantasy Sports			
+48	27	Music and Video Streaming Services	Arts and Entertainment	Music and Video Streaming Services			
+49	27	Online Entertainment	Arts and Entertainment	Online Entertainment			
+50	27	Radio and Podcasts	Arts and Entertainment	Radio and Podcasts			
+51	27	Ticket Services	Arts and Entertainment	Ticket Services			
+52	27	TV	Arts and Entertainment	TV			
+53		Automotive Ownership	Automotive Ownership				
+54	53	New Vehicles	Automotive Ownership	New Vehicles			
+55	54	Commercial Trucks	Automotive Ownership	New Vehicles	Commercial Trucks		
+56	54	Sedan	Automotive Ownership	New Vehicles	Sedan		
+57	54	Station Wagon	Automotive Ownership	New Vehicles	Station Wagon		
+58	54	SUV	Automotive Ownership	New Vehicles	SUV		
+59	54	Van	Automotive Ownership	New Vehicles	Van		
+60	54	Convertible	Automotive Ownership	New Vehicles	Convertible		
+51	54	Coupe	Automotive Ownership	New Vehicles	Coupe		
+62	54	Crossover	Automotive Ownership	New Vehicles	Crossover		
+63	54	Hatchback	Automotive Ownership	New Vehicles	Hatchback		
+64	54	Microcar	Automotive Ownership	New Vehicles	Microcar		
+65	54	Minivan	Automotive Ownership	New Vehicles	Minivan		
+66	54	Off-Road Vehicles	Automotive Ownership	New Vehicles	Off-Road Vehicles		
+67	54	Pickup Trucks	Automotive Ownership	New Vehicles	Pickup Trucks		
+68	54	Budget Cars	Automotive Ownership	New Vehicles	Budget Cars		
+69	54	Classic Cars	Automotive Ownership	New Vehicles	Classic Cars		
+70	54	Concept Cars	Automotive Ownership	New Vehicles	Concept Cars		
+71	54	Driverless Cars	Automotive Ownership	New Vehicles	Driverless Cars		
+72	54	Green Vehicles	Automotive Ownership	New Vehicles	Green Vehicles		
+73	54	Luxury Cars	Automotive Ownership	New Vehicles	Luxury Cars		
+74	54	Performance Cars	Automotive Ownership	New Vehicles	Performance Cars		
+75	54	Motorbikes	Automotive Ownership	New Vehicles	Motorbikes		
+76	54	Other Vehicles	Automotive Ownership	New Vehicles	Other Vehicles		
+77	53	Pre-Owned Vehicles	Automotive Ownership	Pre-Owned Vehicles			
+78	77	Commercial Trucks	Automotive Ownership	Pre-Owned Vehicles	Commercial Trucks		
+79	77	Sedan	Automotive Ownership	Pre-Owned Vehicles	Sedan		
+80	77	Station Wagon	Automotive Ownership	Pre-Owned Vehicles	Station Wagon		
+81	77	SUV	Automotive Ownership	Pre-Owned Vehicles	SUV		
+82	77	Van	Automotive Ownership	Pre-Owned Vehicles	Van		
+83	77	Convertible	Automotive Ownership	Pre-Owned Vehicles	Convertible		
+84	77	Coupe	Automotive Ownership	Pre-Owned Vehicles	Coupe		
+85	77	Crossover	Automotive Ownership	Pre-Owned Vehicles	Crossover		
+86	77	Hatchback	Automotive Ownership	Pre-Owned Vehicles	Hatchback		
+87	77	Microcar	Automotive Ownership	Pre-Owned Vehicles	Microcar		
+88	77	Minivan	Automotive Ownership	Pre-Owned Vehicles	Minivan		
+89	77	Off-Road Vehicles	Automotive Ownership	Pre-Owned Vehicles	Off-Road Vehicles		
+90	77	Pickup Trucks	Automotive Ownership	Pre-Owned Vehicles	Pickup Trucks		
+91	77	Budget Cars	Automotive Ownership	Pre-Owned Vehicles	Budget Cars		
+92	77	Classic Cars	Automotive Ownership	Pre-Owned Vehicles	Classic Cars		
+93	77	Concept Cars	Automotive Ownership	Pre-Owned Vehicles	Concept Cars		
+94	77	Driverless Cars	Automotive Ownership	Pre-Owned Vehicles	Driverless Cars		
+95	77	Green Vehicles	Automotive Ownership	Pre-Owned Vehicles	Green Vehicles		
+96	77	Luxury Cars	Automotive Ownership	Pre-Owned Vehicles	Luxury Cars		
+97	77	Performance Cars	Automotive Ownership	Pre-Owned Vehicles	Performance Cars		
+98	77	Motorbikes	Automotive Ownership	Pre-Owned Vehicles	Motorbikes		
+99	77	Other Vehicles	Automotive Ownership	Pre-Owned Vehicles	Other Vehicles		
+100		Automotive Products	Automotive Products				
+101	100	Automotive Care Products	Automotive Products	Automotive Care Products			
+102	100	Automotive Parts and Accessories	Automotive Products	Automotive Parts and Accessories			
+103	102	Car Alarms	Automotive Products	Automotive Parts and Accessories	Car Alarms		
+104	102	Car Amplifiers	Automotive Products	Automotive Parts and Accessories	Car Amplifiers		
+105	102	Car Seats	Automotive Products	Automotive Parts and Accessories	Car Seats		
+106	102	Car Speakers	Automotive Products	Automotive Parts and Accessories	Car Speakers		
+107	102	Car Navigation Equipment	Automotive Products	Automotive Parts and Accessories	Car Navigation Equipment		
+108	102	Automotive Tires	Automotive Products	Automotive Parts and Accessories	Automotive Tires		
+109		Automotive Services	Automotive Services				
+110	109	Auto Rental	Automotive Services	Auto Rental			
+111	109	Auto Towing and Repair	Automotive Services	Auto Towing and Repair			
+112	109	Car Wash	Automotive Services	Car Wash			
+113		Beauty Services	Beauty Services				
+114	113	Beauty Salons and Tanning	Beauty Services	Beauty Salons and Tanning			
+115	113	Hair Salons	Beauty Services	Hair Salons			
+116	113	Nail Salons	Beauty Services	Nail Salons			
+117	113	Piercing and Tattooing	Beauty Services	Piercing and Tattooing			
+118	113	Spas	Beauty Services	Spas			
+119		Business and Industrial	Business and Industrial				
+120	119	Advertising and Marketing	Business and Industrial	Advertising and Marketing			
+121	119	Auctions	Business and Industrial	Auctions			
+122	119	Conferences/Events/Seminars	Business and Industrial	Conferences/Events/Seminars			
+123	119	Construction	Business and Industrial	Construction			
+124	119	Energy Industry	Business and Industrial	Energy Industry			
+125	124	Energy Services	Business and Industrial	Energy Industry	Energy Services		
+126	124	Oil, Gas and Consumable Fuels	Business and Industrial	Energy Industry	Oil, Gas and Consumable Fuels		
+127	124	Electric Power Industry	Business and Industrial	Energy Industry	Electric Power Industry		
+128	119	Forestry and Logging	Business and Industrial	Forestry and Logging			
+129	119	Government	Business and Industrial	Government			
+130	119	Human Resources	Business and Industrial	Human Resources			
+131	119	Industrial Storage	Business and Industrial	Industrial Storage			
+132	119	Industrials	Business and Industrial	Industrials			
+133	132	Aerospace and Defense	Business and Industrial	Industrials	Aerospace and Defense		
+134	132	Construction and Engineering	Business and Industrial	Industrials	Construction and Engineering		
+135	132	Industrial Conglomerates	Business and Industrial	Industrials	Industrial Conglomerates		
+136	132	Trading Companies and Distributors	Business and Industrial	Industrials	Trading Companies and Distributors		
+137	132	Transportation	Business and Industrial	Industrials	Transportation		
+138	119	Laundry and Dry Cleaning Services	Business and Industrial	Laundry and Dry Cleaning Services			
+139	119	Law Enforcement	Business and Industrial	Law Enforcement			
+140	119	Manufacturing	Business and Industrial	Manufacturing			
+141	119	Material Handling	Business and Industrial	Material Handling			
+142	119	Medical and Biotechnology	Business and Industrial	Medical and Biotechnology			
+143	119	Mining and Quarrying	Business and Industrial	Mining and Quarrying			
+144	119	Photographers	Business and Industrial	Photographers			
+145	119	Printing/Fax/WiFi Services	Business and Industrial	Printing/Fax/WiFi Services			
+146	119	Public Relations and Strategic Communication	Business and Industrial	Public Relations and Strategic Communication			
+147	119	Retail	Business and Industrial	Retail			
+148	147	Cell Phone Stores	Business and Industrial	Retail	Cell Phone Stores		
+149	147	Music Stores	Business and Industrial	Retail	Music Stores		
+150	147	Grocery Stores and Supermarkets	Business and Industrial	Retail	Grocery Stores and Supermarkets		
+151	147	Shopping Malls	Business and Industrial	Retail	Shopping Malls		
+152	147	Department Stores	Business and Industrial	Retail	Department Stores		
+153	147	Specialty Stores	Business and Industrial	Retail	Specialty Stores		
+154	147	Pawn Shops	Business and Industrial	Retail	Pawn Shops		
+155	147	Factory Outlet Stores	Business and Industrial	Retail	Factory Outlet Stores		
+156	119	Science and Laboratory	Business and Industrial	Science and Laboratory			
+157	119	Signage	Business and Industrial	Signage			
+158	119	Small Business	Business and Industrial	Small Business			
+159	119	Telecom Services	Business and Industrial	Telecom Services			
+160	159	Home Internet Services	Business and Industrial	Telecom Services	Home Internet Services		
+161	159	Home Television Services	Business and Industrial	Telecom Services	Home Television Services		
+162	159	Home Phone Services	Business and Industrial	Telecom Services	Home Phone Services		
+163	159	Mobile Phone Plans	Business and Industrial	Telecom Services	Mobile Phone Plans		
+164	159	Prepaid International Phone Services	Business and Industrial	Telecom Services	Prepaid International Phone Services		
+165	159	Business Telecom Services	Business and Industrial	Telecom Services	Business Telecom Services		
+166	119	Waste Disposal and Recycling	Business and Industrial	Waste Disposal and Recycling			
+167		Clothing and Accessories	Clothing and Accessories				
+168	167	Clothing	Clothing and Accessories	Clothing			
+169	168	Children's Clothing	Clothing and Accessories	Clothing	Children's Clothing		
+170	168	Men's Clothing	Clothing and Accessories	Clothing	Men's Clothing		
+171	168	Women's Clothing	Clothing and Accessories	Clothing	Women's Clothing		
+172	168	Wedding Dresses/Bridal Wear/Tuxedos	Clothing and Accessories	Clothing	Wedding Dresses/Bridal Wear/Tuxedos		
+173	168	Maternity Clothing	Clothing and Accessories	Clothing	Maternity Clothing		
+174	168	Underwear and Lingerie	Clothing and Accessories	Clothing	Underwear and Lingerie		
+175	168	Sportswear	Clothing and Accessories	Clothing	Sportswear		
+176	167	Clothing Accessories	Clothing and Accessories	Clothing Accessories			
+177	167	Costumes and Accessories	Clothing and Accessories	Costumes and Accessories			
+178	167	Footwear	Clothing and Accessories	Footwear			
+179	167	Footwear Accessories	Clothing and Accessories	Footwear Accessories			
+180	167	Handbags and Wallets	Clothing and Accessories	Handbags and Wallets			
+181	167	Jewelry and Watches	Clothing and Accessories	Jewelry and Watches			
+182	167	Sunglasses	Clothing and Accessories	Sunglasses			
+183		Collectables and Antiques	Collectables and Antiques				
+184	183	Antiques	Collectables and Antiques	Antiques			
+185	183	Coins and Paper Money	Collectables and Antiques	Coins and Paper Money			
+186	183	Collectibles	Collectables and Antiques	Collectibles			
+187	183	Entertainment Memorabilia	Collectables and Antiques	Entertainment Memorabilia			
+188	183	Sports Memorabilia and Trading Cards	Collectables and Antiques	Sports Memorabilia and Trading Cards			
+189	183	Stamps	Collectables and Antiques	Stamps			
+190		Consumer Electronics	Consumer Electronics				
+191	190	Arcade Equipment	Consumer Electronics	Arcade Equipment			
+192	190	Audio	Consumer Electronics	Audio			
+193	192	CD Players	Consumer Electronics	Audio	CD Players		
+194	192	Headphones	Consumer Electronics	Audio	Headphones		
+195	190	Cameras and Photo	Consumer Electronics	Cameras and Photo			
+196	195	Camera and Photo Accessories	Consumer Electronics	Cameras and Photo	Camera and Photo Accessories		
+197	195	Cameras	Consumer Electronics	Cameras and Photo	Cameras		
+198	190	Circuit Boards and Components	Consumer Electronics	Circuit Boards and Components			
+199	190	Communications Electronics	Consumer Electronics	Communications Electronics			
+200	190	Components	Consumer Electronics	Components			
+201	190	Computers	Consumer Electronics	Computers			
+202	201	Laptops	Consumer Electronics	Computers	Laptops		
+203	201	Desktops	Consumer Electronics	Computers	Desktops		
+204	190	E-Readers	Consumer Electronics	E-Readers			
+205	190	Electronics Accessories	Consumer Electronics	Electronics Accessories			
+206	190	Home Theater Systems	Consumer Electronics	Home Theater Systems			
+207	190	Marine Electronics	Consumer Electronics	Marine Electronics			
+208	190	Mobile Phone Plans	Consumer Electronics	Mobile Phone Plans			
+209	190	Mobile Phones and Accessories	Consumer Electronics	Mobile Phones and Accessories			
+210	190	Networking	Consumer Electronics	Networking			
+211	190	Printers/Copiers/Scanners/Fax	Consumer Electronics	Printers/Copiers/Scanners/Fax			
+212	190	Security Devices	Consumer Electronics	Security Devices			
+213	190	Tablets	Consumer Electronics	Tablets			
+214	190	Televisions	Consumer Electronics	Televisions			
+215	190	Video	Consumer Electronics	Video			
+216	215	Blu-Ray Disc Players	Consumer Electronics	Video	Blu-Ray Disc Players		
+217	215	Camcorders	Consumer Electronics	Video	Camcorders		
+218	190	Video Game Console Accessories	Consumer Electronics	Video Game Console Accessories			
+219	190	Video Games and Consoles	Consumer Electronics	Video Games and Consoles			
+220		Consumer Packaged Goods	Consumer Packaged Goods				
+221	220	Edible	Consumer Packaged Goods	Edible			
+222	221	Beverages	Consumer Packaged Goods	Edible	Beverages		
+223	222	Carbonated Soft Drinks	Consumer Packaged Goods	Edible	Beverages	Carbonated Soft Drinks	
+224	222	Coffee & Tea	Consumer Packaged Goods	Edible	Beverages	Coffee & Tea	
+225	224	Coffee	Consumer Packaged Goods	Edible	Beverages	Coffee & Tea	Coffee
+226	224	Coffee Creamer	Consumer Packaged Goods	Edible	Beverages	Coffee & Tea	Coffee Creamer
+227	224	Coffee Filters	Consumer Packaged Goods	Edible	Beverages	Coffee & Tea	Coffee Filters
+228	224	Tea - Bags/loose	Consumer Packaged Goods	Edible	Beverages	Coffee & Tea	Tea - Bags/loose
+229	224	Tea - Instant Tea Mixes	Consumer Packaged Goods	Edible	Beverages	Coffee & Tea	Tea - Instant Tea Mixes
+230	224	Tea/Coffee - Ready-to-Drink	Consumer Packaged Goods	Edible	Beverages	Coffee & Tea	Tea/Coffee - Ready-to-Drink
+231	222	Drink Mixes	Consumer Packaged Goods	Edible	Beverages	Drink Mixes	
+232	231	Cocktail Mixes	Consumer Packaged Goods	Edible	Beverages	Drink Mixes	Cocktail Mixes
+233	231	Drink Mixes	Consumer Packaged Goods	Edible	Beverages	Drink Mixes	Drink Mixes
+234	231	Liquid Drink Enhancers	Consumer Packaged Goods	Edible	Beverages	Drink Mixes	Liquid Drink Enhancers
+235	231	Milk Flavoring Cocoa Mixes	Consumer Packaged Goods	Edible	Beverages	Drink Mixes	Milk Flavoring Cocoa Mixes
+236	222	Juices	Consumer Packaged Goods	Edible	Beverages	Juices	
+237	236	Aseptic Juices	Consumer Packaged Goods	Edible	Beverages	Juices	Aseptic Juices
+238	236	Bottled Juices	Consumer Packaged Goods	Edible	Beverages	Juices	Bottled Juices
+239	236	Canned Juices	Consumer Packaged Goods	Edible	Beverages	Juices	Canned Juices
+240	236	Juice/Drink Concentrate	Consumer Packaged Goods	Edible	Beverages	Juices	Juice/Drink Concentrate
+241	222	Non-Fruit Drinks	Consumer Packaged Goods	Edible	Beverages	Non-Fruit Drinks	
+242	241	Non-Fruit Drinks	Consumer Packaged Goods	Edible	Beverages	Non-Fruit Drinks	Non-Fruit Drinks
+243	241	Powdered Milk	Consumer Packaged Goods	Edible	Beverages	Non-Fruit Drinks	Powdered Milk
+244	222	Sports/Energy Drinks	Consumer Packaged Goods	Edible	Beverages	Sports/Energy Drinks	
+245	244	Energy Drinks	Consumer Packaged Goods	Edible	Beverages	Sports/Energy Drinks	Energy Drinks
+246	244	Sports Drinks	Consumer Packaged Goods	Edible	Beverages	Sports/Energy Drinks	Sports Drinks
+247	222	Water	Consumer Packaged Goods	Edible	Beverages	Water	
+248	247	Bottled Water	Consumer Packaged Goods	Edible	Beverages	Water	Bottled Water
+249	221	Frozen	Consumer Packaged Goods	Edible	Frozen		
+250	249	Frozen Baked Goods	Consumer Packaged Goods	Edible	Frozen	Frozen Baked Goods	
+251	250	Bread/Dough	Consumer Packaged Goods	Edible	Frozen	Frozen Baked Goods	Bread/Dough
+252	250	Cookies	Consumer Packaged Goods	Edible	Frozen	Frozen Baked Goods	Cookies
+253	250	Pies	Consumer Packaged Goods	Edible	Frozen	Frozen Baked Goods	Pies
+254	249	Frozen Beverages	Consumer Packaged Goods	Edible	Frozen	Frozen Beverages	
+255	254	Coffee Creamer	Consumer Packaged Goods	Edible	Frozen	Frozen Beverages	Coffee Creamer
+256	254	Juices	Consumer Packaged Goods	Edible	Frozen	Frozen Beverages	Juices
+257	249	Frozen Desserts	Consumer Packaged Goods	Edible	Frozen	Frozen Desserts	
+258	257	Desserts/Toppings	Consumer Packaged Goods	Edible	Frozen	Frozen Desserts	Desserts/Toppings
+259	257	Ice Cream/Sherbet	Consumer Packaged Goods	Edible	Frozen	Frozen Desserts	Ice Cream/Sherbet
+260	257	Novelties	Consumer Packaged Goods	Edible	Frozen	Frozen Desserts	Novelties
+261	249	Frozen Fruits & Vegetables	Consumer Packaged Goods	Edible	Frozen	Frozen Fruits & Vegetables	
+262	261	Corn on the Cob	Consumer Packaged Goods	Edible	Frozen	Frozen Fruits & Vegetables	Corn on the Cob
+263	261	Fruit	Consumer Packaged Goods	Edible	Frozen	Frozen Fruits & Vegetables	Fruit
+264	261	Plain Vegetables	Consumer Packaged Goods	Edible	Frozen	Frozen Fruits & Vegetables	Plain Vegetables
+265	261	Potatoes/Onions	Consumer Packaged Goods	Edible	Frozen	Frozen Fruits & Vegetables	Potatoes/Onions
+266	261	Prepared Vegetables	Consumer Packaged Goods	Edible	Frozen	Frozen Fruits & Vegetables	Prepared Vegetables
+267	249	Frozen Meals	Consumer Packaged Goods	Edible	Frozen	Frozen Meals	
+268	267	Breakfast Food	Consumer Packaged Goods	Edible	Frozen	Frozen Meals	Breakfast Food
+269	267	Dinners/Entrees	Consumer Packaged Goods	Edible	Frozen	Frozen Meals	Dinners/Entrees
+270	267	Pasta	Consumer Packaged Goods	Edible	Frozen	Frozen Meals	Pasta
+271	267	Pizza	Consumer Packaged Goods	Edible	Frozen	Frozen Meals	Pizza
+272	267	Soups/Sides/Other	Consumer Packaged Goods	Edible	Frozen	Frozen Meals	Soups/Sides/Other
+273	349	Frozen Meat/Poultry/Seafood	Consumer Packaged Goods	Edible	Frozen	Frozen Meat/Poultry/Seafood	
+274	273	Meat	Consumer Packaged Goods	Edible	Frozen	Frozen Meat/Poultry/Seafood	Meat
+275	273	Poultry	Consumer Packaged Goods	Edible	Frozen	Frozen Meat/Poultry/Seafood	Poultry
+276	273	Processed Poultry	Consumer Packaged Goods	Edible	Frozen	Frozen Meat/Poultry/Seafood	Processed Poultry
+277	273	Seafood	Consumer Packaged Goods	Edible	Frozen	Frozen Meat/Poultry/Seafood	Seafood
+278	249	Frozen Snacks	Consumer Packaged Goods	Edible	Frozen	Frozen Snacks	
+279	278	Appetizers/Snack Rolls	Consumer Packaged Goods	Edible	Frozen	Frozen Snacks	Appetizers/Snack Rolls
+280	278	Other Snacks	Consumer Packaged Goods	Edible	Frozen	Frozen Snacks	Other Snacks
+281	249	Other Frozen	Consumer Packaged Goods	Edible	Frozen	Other Frozen	
+282	281	Baby Food	Consumer Packaged Goods	Edible	Frozen	Other Frozen	Baby Food
+283	281	Other Food	Consumer Packaged Goods	Edible	Frozen	Other Frozen	Other Food
+284	221	General Food	Consumer Packaged Goods	Edible	General Food		
+285	284	Baby Food	Consumer Packaged Goods	Edible	General Food	Baby Food	
+286	285	Baby Food	Consumer Packaged Goods	Edible	General Food	Baby Food	Baby Food
+287	285	Baby Formula/Electrolytes	Consumer Packaged Goods	Edible	General Food	Baby Food	Baby Formula/Electrolytes
+288	284	Bakery	Consumer Packaged Goods	Edible	General Food	Bakery	
+289	288	Bagels/Bialys	Consumer Packaged Goods	Edible	General Food	Bakery	Bagels/Bialys
+290	288	Bakery Snacks	Consumer Packaged Goods	Edible	General Food	Bakery	Bakery Snacks
+291	288	English Muffins	Consumer Packaged Goods	Edible	General Food	Bakery	English Muffins
+292	288	Fresh Bread & Rolls	Consumer Packaged Goods	Edible	General Food	Bakery	Fresh Bread & Rolls
+293	288	Pastry/Doughnuts	Consumer Packaged Goods	Edible	General Food	Bakery	Pastry/Doughnuts
+294	288	Pies & Cakes	Consumer Packaged Goods	Edible	General Food	Bakery	Pies & Cakes
+295	284	Baking	Consumer Packaged Goods	Edible	General Food	Baking	
+296	295	Baking Cups/Paper	Consumer Packaged Goods	Edible	General Food	Baking	Baking Cups/Paper
+297	295	Baking Mixes	Consumer Packaged Goods	Edible	General Food	Baking	Baking Mixes
+298	295	Baking Needs	Consumer Packaged Goods	Edible	General Food	Baking	Baking Needs
+299	295	Baking Nuts	Consumer Packaged Goods	Edible	General Food	Baking	Baking Nuts
+300	295	Baking Syrum/Molasses	Consumer Packaged Goods	Edible	General Food	Baking	Baking Syrum/Molasses
+301	295	Dessert Toppings	Consumer Packaged Goods	Edible	General Food	Baking	Dessert Toppings
+302	295	Egg Substitute	Consumer Packaged Goods	Edible	General Food	Baking	Egg Substitute
+303	295	Evaporated/Condensed Milk	Consumer Packaged Goods	Edible	General Food	Baking	Evaporated/Condensed Milk
+304	295	Flour/Meal	Consumer Packaged Goods	Edible	General Food	Baking	Flour/Meal
+305	295	Frosting	Consumer Packaged Goods	Edible	General Food	Baking	Frosting
+306	295	Frt & Veg Preservative/Pectin	Consumer Packaged Goods	Edible	General Food	Baking	Frt & Veg Preservative/Pectin
+307	295	Gelatin/Pudding PRD and Mixes	Consumer Packaged Goods	Edible	General Food	Baking	Gelatin/Pudding PRD and Mixes
+308	295	Glazed Fruits	Consumer Packaged Goods	Edible	General Food	Baking	Glazed Fruits
+309	295	Ice Cream Cones/Mixes	Consumer Packaged Goods	Edible	General Food	Baking	Ice Cream Cones/Mixes
+310	295	Marshmallows	Consumer Packaged Goods	Edible	General Food	Baking	Marshmallows
+311	295	Shortening & Oil	Consumer Packaged Goods	Edible	General Food	Baking	Shortening & Oil
+312	295	Spices/Seasonings	Consumer Packaged Goods	Edible	General Food	Baking	Spices/Seasonings
+313	295	Sugar	Consumer Packaged Goods	Edible	General Food	Baking	Sugar
+314	295	Sugar Substitutes	Consumer Packaged Goods	Edible	General Food	Baking	Sugar Substitutes
+315	284	Breakfast	Consumer Packaged Goods	Edible	General Food	Breakfast	
+316	315	Cold cereal	Consumer Packaged Goods	Edible	General Food	Breakfast	Cold cereal
+317	315	Hot Cereal	Consumer Packaged Goods	Edible	General Food	Breakfast	Hot Cereal
+318	315	Other Breakfast Foods	Consumer Packaged Goods	Edible	General Food	Breakfast	Other Breakfast Foods
+319	315	Pancake Mixes	Consumer Packaged Goods	Edible	General Food	Breakfast	Pancake Mixes
+320	315	Syrup	Consumer Packaged Goods	Edible	General Food	Breakfast	Syrup
+321	315	Toaster Pastries/Tarts	Consumer Packaged Goods	Edible	General Food	Breakfast	Toaster Pastries/Tarts
+322	284	Candy	Consumer Packaged Goods	Edible	General Food	Candy	
+323	322	Breath Fresheners	Consumer Packaged Goods	Edible	General Food	Candy	Breath Fresheners
+324	322	Chocolate Candy	Consumer Packaged Goods	Edible	General Food	Candy	Chocolate Candy
+325	322	Gum	Consumer Packaged Goods	Edible	General Food	Candy	Gum
+326	322	Non-Chocolate Candy	Consumer Packaged Goods	Edible	General Food	Candy	Non-Chocolate Candy
+327	284	Condiments & Sauces	Consumer Packaged Goods	Edible	General Food	Condiments & Sauces	
+328	327	Barbeque Sauce	Consumer Packaged Goods	Edible	General Food	Condiments & Sauces	Barbeque Sauce
+329	327	Gravy/Sauce Mixes	Consumer Packaged Goods	Edible	General Food	Condiments & Sauces	Gravy/Sauce Mixes
+330	327	Jellies/Jam/Honey	Consumer Packaged Goods	Edible	General Food	Condiments & Sauces	Jellies/Jam/Honey
+331	327	Mayonnaise	Consumer Packaged Goods	Edible	General Food	Condiments & Sauces	Mayonnaise
+332	327	Mustard & Ketchup	Consumer Packaged Goods	Edible	General Food	Condiments & Sauces	Mustard & Ketchup
+333	327	Nut Butter	Consumer Packaged Goods	Edible	General Food	Condiments & Sauces	Nut Butter
+334	327	Other Sauces	Consumer Packaged Goods	Edible	General Food	Condiments & Sauces	Other Sauces
+335	327	Pickles/Relish/Olives	Consumer Packaged Goods	Edible	General Food	Condiments & Sauces	Pickles/Relish/Olives
+336	327	Salad Dressing	Consumer Packaged Goods	Edible	General Food	Condiments & Sauces	Salad Dressing
+337	327	Salad Toppings and Croutons	Consumer Packaged Goods	Edible	General Food	Condiments & Sauces	Salad Toppings and Croutons
+338	327	Steak/Worcestershire Sauce	Consumer Packaged Goods	Edible	General Food	Condiments & Sauces	Steak/Worcestershire Sauce
+339	327	Vinegar	Consumer Packaged Goods	Edible	General Food	Condiments & Sauces	Vinegar
+340	284	Cookies & Crackers	Consumer Packaged Goods	Edible	General Food	Cookies & Crackers	
+341	340	Cookies	Consumer Packaged Goods	Edible	General Food	Cookies & Crackers	Cookies
+342	340	Crackers	Consumer Packaged Goods	Edible	General Food	Cookies & Crackers	Crackers
+343	284	Ethnic	Consumer Packaged Goods	Edible	General Food	Ethnic	
+344	343	Asian food	Consumer Packaged Goods	Edible	General Food	Ethnic	Asian food
+345	343	Matzoh Food	Consumer Packaged Goods	Edible	General Food	Ethnic	Matzoh Food
+346	343	Mexican Foods	Consumer Packaged Goods	Edible	General Food	Ethnic	Mexican Foods
+347	343	Mexican Sauce	Consumer Packaged Goods	Edible	General Food	Ethnic	Mexican Sauce
+348	284	Meals	Consumer Packaged Goods	Edible	General Food	Meals	
+349	348	Baked Beans/Canned Bread	Consumer Packaged Goods	Edible	General Food	Meals	Baked Beans/Canned Bread
+350	348	Breadcrumbs/Batters	Consumer Packaged Goods	Edible	General Food	Meals	Breadcrumbs/Batters
+351	348	Dinners	Consumer Packaged Goods	Edible	General Food	Meals	Dinners
+352	348	Dry Packaged Dinner Mixes	Consumer Packaged Goods	Edible	General Food	Meals	Dry Packaged Dinner Mixes
+353	348	Grated Cheese	Consumer Packaged Goods	Edible	General Food	Meals	Grated Cheese
+354	348	Instant Potatoes	Consumer Packaged Goods	Edible	General Food	Meals	Instant Potatoes
+355	348	Meat	Consumer Packaged Goods	Edible	General Food	Meals	Meat
+356	348	Pasta	Consumer Packaged Goods	Edible	General Food	Meals	Pasta
+357	348	Pizza Products	Consumer Packaged Goods	Edible	General Food	Meals	Pizza Products
+358	348	Rice	Consumer Packaged Goods	Edible	General Food	Meals	Rice
+359	348	Seafood	Consumer Packaged Goods	Edible	General Food	Meals	Seafood
+360	348	Soup	Consumer Packaged Goods	Edible	General Food	Meals	Soup
+361	348	Spaghetti/Italian Sauce	Consumer Packaged Goods	Edible	General Food	Meals	Spaghetti/Italian Sauce
+362	348	Stuffing Mixes	Consumer Packaged Goods	Edible	General Food	Meals	Stuffing Mixes
+363	284	Snacks	Consumer Packaged Goods	Edible	General Food	Snacks	
+364	363	Dip/Dip Mixes	Consumer Packaged Goods	Edible	General Food	Snacks	Dip/Dip Mixes
+365	363	Dried Meat Snacks	Consumer Packaged Goods	Edible	General Food	Snacks	Dried Meat Snacks
+366	363	Dry Fruit Snacks	Consumer Packaged Goods	Edible	General Food	Snacks	Dry Fruit Snacks
+367	363	Other Snacks	Consumer Packaged Goods	Edible	General Food	Snacks	Other Snacks
+368	363	Popcorn/Popcorn Oil	Consumer Packaged Goods	Edible	General Food	Snacks	Popcorn/Popcorn Oil
+369	363	Rice/Popcorn Cakes	Consumer Packaged Goods	Edible	General Food	Snacks	Rice/Popcorn Cakes
+370	363	Salty Snacks	Consumer Packaged Goods	Edible	General Food	Snacks	Salty Snacks
+371	363	Snack Bars/Granola Bars	Consumer Packaged Goods	Edible	General Food	Snacks	Snack Bars/Granola Bars
+372	363	Snack Nuts/Seeds/Corn Nuts	Consumer Packaged Goods	Edible	General Food	Snacks	Snack Nuts/Seeds/Corn Nuts
+373	284	Fruit	Consumer Packaged Goods	Edible	General Food	Fruit	
+374	373	Canned/Bottled Fruit	Consumer Packaged Goods	Edible	General Food	Fruit	Canned/Bottled Fruit
+375	373	Dried Fruit	Consumer Packaged Goods	Edible	General Food	Fruit	Dried Fruit
+376	284	Vegetables	Consumer Packaged Goods	Edible	General Food	Vegetables	
+377	376	Dry Beans/Vegetables	Consumer Packaged Goods	Edible	General Food	Vegetables	Dry Beans/Vegetables
+378	376	Tomato Products	Consumer Packaged Goods	Edible	General Food	Vegetables	Tomato Products
+379	376	Vegetables	Consumer Packaged Goods	Edible	General Food	Vegetables	Vegetables
+380	221	Refrigerated	Consumer Packaged Goods	Edible	Refrigerated		
+381	380	Dairy	Consumer Packaged Goods	Edible	Refrigerated	Dairy	
+382	381	Butter/Butter Blends	Consumer Packaged Goods	Edible	Refrigerated	Dairy	Butter/Butter Blends
+383	381	Cottage Cheese	Consumer Packaged Goods	Edible	Refrigerated	Dairy	Cottage Cheese
+384	381	Cream Cheese/Cr Spread	Consumer Packaged Goods	Edible	Refrigerated	Dairy	Cream Cheese/Cr Spread
+385	381	Creams/Creamers	Consumer Packaged Goods	Edible	Refrigerated	Dairy	Creams/Creamers
+386	381	Fresh Eggs	Consumer Packaged Goods	Edible	Refrigerated	Dairy	Fresh Eggs
+387	381	Margarine/Spreads	Consumer Packaged Goods	Edible	Refrigerated	Dairy	Margarine/Spreads
+388	381	Milk	Consumer Packaged Goods	Edible	Refrigerated	Dairy	Milk
+389	381	Natural Cheese	Consumer Packaged Goods	Edible	Refrigerated	Dairy	Natural Cheese
+390	381	Processed Cheese	Consumer Packaged Goods	Edible	Refrigerated	Dairy	Processed Cheese
+391	381	Sour Cream	Consumer Packaged Goods	Edible	Refrigerated	Dairy	Sour Cream
+392	381	Whipped Toppings	Consumer Packaged Goods	Edible	Refrigerated	Dairy	Whipped Toppings
+393	381	Yogurt	Consumer Packaged Goods	Edible	Refrigerated	Dairy	Yogurt
+394	380	Other Refrigerated	Consumer Packaged Goods	Edible	Refrigerated	Other Refrigerated	
+395	394	Lard	Consumer Packaged Goods	Edible	Refrigerated	Other Refrigerated	Lard
+396	394	Tortilla/Eggroll/Wonton Wrap	Consumer Packaged Goods	Edible	Refrigerated	Other Refrigerated	Tortilla/Eggroll/Wonton Wrap
+397	380	Refrigerated Baked Goods	Consumer Packaged Goods	Edible	Refrigerated	Refrigerated Baked Goods	
+398	397	Baked Goods	Consumer Packaged Goods	Edible	Refrigerated	Refrigerated Baked Goods	Baked Goods
+399	380	Refrigerated Beverages	Consumer Packaged Goods	Edible	Refrigerated	Refrigerated Beverages	
+400	399	Juices/Drinks	Consumer Packaged Goods	Edible	Refrigerated	Refrigerated Beverages	Juices/Drinks
+401	399	Tea/Coffee	Consumer Packaged Goods	Edible	Refrigerated	Refrigerated Beverages	Tea/Coffee
+402	380	Refrigerated Condiments	Consumer Packaged Goods	Edible	Refrigerated	Refrigerated Condiments	
+403	402	Dips	Consumer Packaged Goods	Edible	Refrigerated	Refrigerated Condiments	Dips
+404	402	Other Condiments	Consumer Packaged Goods	Edible	Refrigerated	Refrigerated Condiments	Other Condiments
+405	402	Pickles/Relish	Consumer Packaged Goods	Edible	Refrigerated	Refrigerated Condiments	Pickles/Relish
+406	402	Salad Dressing	Consumer Packaged Goods	Edible	Refrigerated	Refrigerated Condiments	Salad Dressing
+407	402	Spreads	Consumer Packaged Goods	Edible	Refrigerated	Refrigerated Condiments	Spreads
+408	380	Refrigerated Desserts	Consumer Packaged Goods	Edible	Refrigerated	Refrigerated Desserts	
+409	408	Cheesecakes	Consumer Packaged Goods	Edible	Refrigerated	Refrigerated Desserts	Cheesecakes
+410	408	Desserts	Consumer Packaged Goods	Edible	Refrigerated	Refrigerated Desserts	Desserts
+411	380	Refrigerated Dough	Consumer Packaged Goods	Edible	Refrigerated	Refrigerated Dough	
+412	411	Dough/Biscuit Dough	Consumer Packaged Goods	Edible	Refrigerated	Refrigerated Dough	Dough/Biscuit Dough
+413	411	Pizza	Consumer Packaged Goods	Edible	Refrigerated	Refrigerated Dough	Pizza
+414	380	Refrigerated Meals	Consumer Packaged Goods	Edible	Refrigerated	Refrigerated Meals	
+415	414	Entrees	Consumer Packaged Goods	Edible	Refrigerated	Refrigerated Meals	Entrees
+416	414	Lunches	Consumer Packaged Goods	Edible	Refrigerated	Refrigerated Meals	Lunches
+417	414	Meat Pies	Consumer Packaged Goods	Edible	Refrigerated	Refrigerated Meals	Meat Pies
+418	414	Pasta	Consumer Packaged Goods	Edible	Refrigerated	Refrigerated Meals	Pasta
+419	414	Side Dishes	Consumer Packaged Goods	Edible	Refrigerated	Refrigerated Meals	Side Dishes
+420	414	Breakfast Meats	Consumer Packaged Goods	Edible	Refrigerated	Refrigerated Meats	Breakfast Meats
+421	414	Dinner Sausage	Consumer Packaged Goods	Edible	Refrigerated	Refrigerated Meats	Dinner Sausage
+422	414	Frankfurters	Consumer Packaged Goods	Edible	Refrigerated	Refrigerated Meats	Frankfurters
+423	414	Ham	Consumer Packaged Goods	Edible	Refrigerated	Refrigerated Meats	Ham
+424	414	Luncheon Meats	Consumer Packaged Goods	Edible	Refrigerated	Refrigerated Meats	Luncheon Meats
+425	414	Meat	Consumer Packaged Goods	Edible	Refrigerated	Refrigerated Meats	Meat
+426	414	Seafood	Consumer Packaged Goods	Edible	Refrigerated	Refrigerated Meats	Seafood
+427	220	Non-edible	Consumer Packaged Goods	Non-edible			
+428	427	Beauty	Consumer Packaged Goods	Non-edible	Beauty		
+429	428	Cosmetics	Consumer Packaged Goods	Non-edible	Beauty	Cosmetics	
+430	429	Storage	Consumer Packaged Goods	Non-edible	Beauty	Cosmetics	Storage
+431	429	Eye	Consumer Packaged Goods	Non-edible	Beauty	Cosmetics	Eye
+432	429	Facial	Consumer Packaged Goods	Non-edible	Beauty	Cosmetics	Facial
+433	429	Lip	Consumer Packaged Goods	Non-edible	Beauty	Cosmetics	Lip
+434	429	Cosmetics-Nail	Consumer Packaged Goods	Non-edible	Beauty	Cosmetics	Cosmetics-Nail
+435	429	Cosmetics Accessories	Consumer Packaged Goods	Non-edible	Beauty	Cosmetics	Cosmetics Accessories
+436	428	Fragrance	Consumer Packaged Goods	Non-edible	Beauty	Fragrance	
+437	436	Fragrances - Women's	Consumer Packaged Goods	Non-edible	Beauty	Fragrance	Fragrances - Women's
+438	436	Shaving Lotion/Men's Fragrance	Consumer Packaged Goods	Non-edible	Beauty	Fragrance	Shaving Lotion/Men's Fragrance
+439	428	Grooming Supplies	Consumer Packaged Goods	Non-edible	Beauty	Grooming Supplies	
+440	439	Cotton Balls/Swabs	Consumer Packaged Goods	Non-edible	Beauty	Grooming Supplies	Cotton Balls/Swabs
+441	439	Electric Shaver Groomer	Consumer Packaged Goods	Non-edible	Beauty	Grooming Supplies	Electric Shaver Groomer
+442	439	Hair Appliances	Consumer Packaged Goods	Non-edible	Beauty	Grooming Supplies	Hair Appliances
+443	439	Other Grooming Supplies	Consumer Packaged Goods	Non-edible	Beauty	Grooming Supplies	Other Grooming Supplies
+444	428	Hair Care	Consumer Packaged Goods	Non-edible	Beauty	Hair Care	
+445	444	Hair Accessories	Consumer Packaged Goods	Non-edible	Beauty	Hair Care	Hair Accessories
+446	444	Hair Coloring	Consumer Packaged Goods	Non-edible	Beauty	Hair Care	Hair Coloring
+447	444	Hair Conditioner	Consumer Packaged Goods	Non-edible	Beauty	Hair Care	Hair Conditioner
+448	444	Hair Growth Products	Consumer Packaged Goods	Non-edible	Beauty	Hair Care	Hair Growth Products
+449	444	Hair Spray/Spritz	Consumer Packaged Goods	Non-edible	Beauty	Hair Care	Hair Spray/Spritz
+450	444	Hair Styling Gel/Mousse	Consumer Packaged Goods	Non-edible	Beauty	Hair Care	Hair Styling Gel/Mousse
+451	444	Home Permanent/Relaxer Kits	Consumer Packaged Goods	Non-edible	Beauty	Hair Care	Home Permanent/Relaxer Kits
+452	444	Shampoo	Consumer Packaged Goods	Non-edible	Beauty	Hair Care	Shampoo
+453	428	Personal Cleansing	Consumer Packaged Goods	Non-edible	Beauty	Personal Cleansing	
+454	453	Bath Products	Consumer Packaged Goods	Non-edible	Beauty	Personal Cleansing	Bath Products
+455	453	Bath/Body Scrubbers/Massagers	Consumer Packaged Goods	Non-edible	Beauty	Personal Cleansing	Bath/Body Scrubbers/Massagers
+456	453	Deodorant	Consumer Packaged Goods	Non-edible	Beauty	Personal Cleansing	Deodorant
+457	453	Moist Towelettes	Consumer Packaged Goods	Non-edible	Beauty	Personal Cleansing	Moist Towelettes
+458	453	Soap	Consumer Packaged Goods	Non-edible	Beauty	Personal Cleansing	Soap
+459	428	Shaving	Consumer Packaged Goods	Non-edible	Beauty	Shaving	
+460	459	Blades	Consumer Packaged Goods	Non-edible	Beauty	Shaving	Blades
+461	459	Razors	Consumer Packaged Goods	Non-edible	Beauty	Shaving	Razors
+462	459	Shaving Cream	Consumer Packaged Goods	Non-edible	Beauty	Shaving	Shaving Cream
+463	428	Skin Care	Consumer Packaged Goods	Non-edible	Beauty	Skin Care	
+464	463	Hand & Body Lotion	Consumer Packaged Goods	Non-edible	Beauty	Skin Care	Hand & Body Lotion
+465	463	Skin Care	Consumer Packaged Goods	Non-edible	Beauty	Skin Care	Skin Care
+466	463	Suntan Products	Consumer Packaged Goods	Non-edible	Beauty	Skin Care	Suntan Products
+467	427	General Merchandise	Consumer Packaged Goods	Non-edible	General Merchandise		
+468	467	Automotive	Consumer Packaged Goods	Non-edible	General Merchandise	Automotive	
+469	468	Automobile Fluids/Antifreeze	Consumer Packaged Goods	Non-edible	General Merchandise	Automotive	Automobile Fluids/Antifreeze
+470	468	Automobile Waxes/Polishes	Consumer Packaged Goods	Non-edible	General Merchandise	Automotive	Automobile Waxes/Polishes
+471	468	Motor Oil	Consumer Packaged Goods	Non-edible	General Merchandise	Automotive	Motor Oil
+472	467	Barbeque	Consumer Packaged Goods	Non-edible	General Merchandise	Barbeque	
+473	472	Charcoal	Consumer Packaged Goods	Non-edible	General Merchandise	Barbeque	Charcoal
+474	472	Charcoal Lighter Fluids	Consumer Packaged Goods	Non-edible	General Merchandise	Barbeque	Charcoal Lighter Fluids
+475	467	Disposable Tableware	Consumer Packaged Goods	Non-edible	General Merchandise	Disposable Tableware	
+476	475	Cups & Plates	Consumer Packaged Goods	Non-edible	General Merchandise	Disposable Tableware	Cups & Plates
+477	475	Disposable Tableware	Consumer Packaged Goods	Non-edible	General Merchandise	Disposable Tableware	Disposable Tableware
+478	467	Electronics/Photography	Consumer Packaged Goods	Non-edible	General Merchandise	Electronics/Photography	
+479	478	Batteries	Consumer Packaged Goods	Non-edible	General Merchandise	Electronics/Photography	Batteries
+480	478	Blank Audio/Video Media	Consumer Packaged Goods	Non-edible	General Merchandise	Electronics/Photography	Blank Audio/Video Media
+481	478	Photography Supplies	Consumer Packaged Goods	Non-edible	General Merchandise	Electronics/Photography	Photography Supplies
+482	467	Foils, Wraps, & Bags	Consumer Packaged Goods	Non-edible	General Merchandise	Foils, Wraps, & Bags	
+483	482	Foil Pans	Consumer Packaged Goods	Non-edible	General Merchandise	Foils, Wraps, & Bags	Foil Pans
+484	482	Foils & Wraps	Consumer Packaged Goods	Non-edible	General Merchandise	Foils, Wraps, & Bags	Foils & Wraps
+485	482	Food & Trash Bags	Consumer Packaged Goods	Non-edible	General Merchandise	Foils, Wraps, & Bags	Food & Trash Bags
+486	467	Hosiery	Consumer Packaged Goods	Non-edible	General Merchandise	Hosiery	
+487	486	Pantyhose/Nylons	Consumer Packaged Goods	Non-edible	General Merchandise	Hosiery	Pantyhose/Nylons
+488	486	Socks	Consumer Packaged Goods	Non-edible	General Merchandise	Hosiery	Socks
+489	486	Tights	Consumer Packaged Goods	Non-edible	General Merchandise	Hosiery	Tights
+490	467	Household/Plastics/Storage	Consumer Packaged Goods	Non-edible	General Merchandise	Household/Plastics/Storage	
+491	490	Bottles	Consumer Packaged Goods	Non-edible	General Merchandise	Household/Plastics/Storage	Bottles
+492	490	Drinkware	Consumer Packaged Goods	Non-edible	General Merchandise	Household/Plastics/Storage	Drinkware
+493	490	Household Plastics	Consumer Packaged Goods	Non-edible	General Merchandise	Household/Plastics/Storage	Household Plastics
+494	490	Kitchen Storage	Consumer Packaged Goods	Non-edible	General Merchandise	Household/Plastics/Storage	Kitchen Storage
+495	490	Soap Dishes	Consumer Packaged Goods	Non-edible	General Merchandise	Household/Plastics/Storage	Soap Dishes
+496	467	Miscellaneous General Merch	Consumer Packaged Goods	Non-edible	General Merchandise	Miscellaneous General Merch	
+497	496	Candles	Consumer Packaged Goods	Non-edible	General Merchandise	Miscellaneous General Merch	Candles
+498	496	Cloth Dye	Consumer Packaged Goods	Non-edible	General Merchandise	Miscellaneous General Merch	Cloth Dye
+499	496	Culinary	Consumer Packaged Goods	Non-edible	General Merchandise	Miscellaneous General Merch	Culinary
+500	496	Firelog/Firestarter/Firewood	Consumer Packaged Goods	Non-edible	General Merchandise	Miscellaneous General Merch	Firelog/Firestarter/Firewood
+501	496	Flashlights	Consumer Packaged Goods	Non-edible	General Merchandise	Miscellaneous General Merch	Flashlights
+502	496	Frozen & Dry Ice	Consumer Packaged Goods	Non-edible	General Merchandise	Miscellaneous General Merch	Frozen & Dry Ice
+503	496	Gloves	Consumer Packaged Goods	Non-edible	General Merchandise	Miscellaneous General Merch	Gloves
+504	496	Household Lubricants	Consumer Packaged Goods	Non-edible	General Merchandise	Miscellaneous General Merch	Household Lubricants
+505	496	Ice Substitute	Consumer Packaged Goods	Non-edible	General Merchandise	Miscellaneous General Merch	Ice Substitute
+506	496	Light Bulbs	Consumer Packaged Goods	Non-edible	General Merchandise	Miscellaneous General Merch	Light Bulbs
+507	496	Lighters	Consumer Packaged Goods	Non-edible	General Merchandise	Miscellaneous General Merch	Lighters
+508	496	Matches	Consumer Packaged Goods	Non-edible	General Merchandise	Miscellaneous General Merch	Matches
+509	496	Outdoor/Lawn Fertilizer/Weed Killer	Consumer Packaged Goods	Non-edible	General Merchandise	Miscellaneous General Merch	Outdoor/Lawn Fertilizer/Weed Killer
+510	496	Playing Cards	Consumer Packaged Goods	Non-edible	General Merchandise	Miscellaneous General Merch	Playing Cards
+511	496	Pool/Spa Chemicals	Consumer Packaged Goods	Non-edible	General Merchandise	Miscellaneous General Merch	Pool/Spa Chemicals
+512	496	Shoe Polish & Accessories	Consumer Packaged Goods	Non-edible	General Merchandise	Miscellaneous General Merch	Shoe Polish & Accessories
+513	496	Vacuum Bags/Belts	Consumer Packaged Goods	Non-edible	General Merchandise	Miscellaneous General Merch	Vacuum Bags/Belts
+514	467	Office/School Supplies	Consumer Packaged Goods	Non-edible	General Merchandise	Office/School Supplies	
+515	514	Children's Art Supplies	Consumer Packaged Goods	Non-edible	General Merchandise	Office/School Supplies	Children's Art Supplies
+516	514	Computer Disks Frmtd/UnFrmtd	Consumer Packaged Goods	Non-edible	General Merchandise	Office/School Supplies	Computer Disks Frmtd/UnFrmtd
+517	514	Office Products	Consumer Packaged Goods	Non-edible	General Merchandise	Office/School Supplies	Office Products
+518	514	Writing Instruments	Consumer Packaged Goods	Non-edible	General Merchandise	Office/School Supplies	Writing Instruments
+519	467	Paper Products	Consumer Packaged Goods	Non-edible	General Merchandise	Paper Products	
+520	519	Facial Tissue	Consumer Packaged Goods	Non-edible	General Merchandise	Paper Products	Facial Tissue
+521	519	Paper Napkins	Consumer Packaged Goods	Non-edible	General Merchandise	Paper Products	Paper Napkins
+522	519	Paper Towels	Consumer Packaged Goods	Non-edible	General Merchandise	Paper Products	Paper Towels
+523	519	Toilet Tissue	Consumer Packaged Goods	Non-edible	General Merchandise	Paper Products	Toilet Tissue
+524	467	Pest Control	Consumer Packaged Goods	Non-edible	General Merchandise	Pest Control	
+525	524	Outdoor Insect/Rodent Control Chem	Consumer Packaged Goods	Non-edible	General Merchandise	Pest Control	Outdoor Insect/Rodent Control Chem
+526	524	Pest Control	Consumer Packaged Goods	Non-edible	General Merchandise	Pest Control	Pest Control
+527	467	Pet Care	Consumer Packaged Goods	Non-edible	General Merchandise	Pet Care	
+528	527	Cat/Dog Litter	Consumer Packaged Goods	Non-edible	General Merchandise	Pet Care	Cat/Dog Litter
+529	527	Pet Food	Consumer Packaged Goods	Non-edible	General Merchandise	Pet Care	Pet Food
+530	527	Pet Supplies	Consumer Packaged Goods	Non-edible	General Merchandise	Pet Care	Pet Supplies
+531	527	Pet Treats	Consumer Packaged Goods	Non-edible	General Merchandise	Pet Care	Pet Treats
+532	467	Water Treatment	Consumer Packaged Goods	Non-edible	General Merchandise	Water Treatment	
+533	532	Water Filter/Devices	Consumer Packaged Goods	Non-edible	General Merchandise	Water Treatment	Water Filter/Devices
+534	532	Water Softeners/Treatment	Consumer Packaged Goods	Non-edible	General Merchandise	Water Treatment	Water Softeners/Treatment
+535	427	Household Appliances	Consumer Packaged Goods	Non-edible	Household Appliances		
+536	535	Air Conditioners	Consumer Packaged Goods	Non-edible	Household Appliances	Air Conditioners	
+537	535	Air Purifiers	Consumer Packaged Goods	Non-edible	Household Appliances	Air Purifiers	
+538	535	Blenders	Consumer Packaged Goods	Non-edible	Household Appliances	Blenders	
+539	535	Breadmakers	Consumer Packaged Goods	Non-edible	Household Appliances	Breadmakers	
+540	535	Coffee Grinders	Consumer Packaged Goods	Non-edible	Household Appliances	Coffee Grinders	
+541	535	Coffee Makers	Consumer Packaged Goods	Non-edible	Household Appliances	Coffee Makers	
+542	535	Deep Fryers	Consumer Packaged Goods	Non-edible	Household Appliances	Deep Fryers	
+543	535	Dehumidifiers	Consumer Packaged Goods	Non-edible	Household Appliances	Dehumidifiers	
+544	535	Dishwashers	Consumer Packaged Goods	Non-edible	Household Appliances	Dishwashers	
+545	535	Espresso Machines	Consumer Packaged Goods	Non-edible	Household Appliances	Espresso Machines	
+546	535	Fans	Consumer Packaged Goods	Non-edible	Household Appliances	Fans	
+547	535	Food Processors	Consumer Packaged Goods	Non-edible	Household Appliances	Food Processors	
+548	535	Freezers	Consumer Packaged Goods	Non-edible	Household Appliances	Freezers	
+549	535	Heaters	Consumer Packaged Goods	Non-edible	Household Appliances	Heaters	
+550	535	Humidifiers	Consumer Packaged Goods	Non-edible	Household Appliances	Humidifiers	
+551	535	Ice Cream Makers	Consumer Packaged Goods	Non-edible	Household Appliances	Ice Cream Makers	
+552	535	Juicers	Consumer Packaged Goods	Non-edible	Household Appliances	Juicers	
+553	535	Microwave Ovens	Consumer Packaged Goods	Non-edible	Household Appliances	Microwave Ovens	
+554	535	Mixers	Consumer Packaged Goods	Non-edible	Household Appliances	Mixers	
+555	535	Ovens	Consumer Packaged Goods	Non-edible	Household Appliances	Ovens	
+556	535	Ranges	Consumer Packaged Goods	Non-edible	Household Appliances	Ranges	
+557	535	Refrigerators	Consumer Packaged Goods	Non-edible	Household Appliances	Refrigerators	
+558	535	Sandwich Makers	Consumer Packaged Goods	Non-edible	Household Appliances	Sandwich Makers	
+559	535	Tea Kettles	Consumer Packaged Goods	Non-edible	Household Appliances	Tea Kettles	
+560	535	Toasters	Consumer Packaged Goods	Non-edible	Household Appliances	Toasters	
+561	535	Vacuums	Consumer Packaged Goods	Non-edible	Household Appliances	Vacuums	
+562	535	Washers and Dryers	Consumer Packaged Goods	Non-edible	Household Appliances	Washers and Dryers	
+563	427	Home Care	Consumer Packaged Goods	Non-edible	Home Care		
+564	563	Air Fresheners	Consumer Packaged Goods	Non-edible	Home Care	Air Fresheners	
+565	563	Household Cleaning	Consumer Packaged Goods	Non-edible	Home Care	Household Cleaning	
+566	565	Cleaning Tools/Mops/Brooms	Consumer Packaged Goods	Non-edible	Home Care	Household Cleaning	Cleaning Tools/Mops/Brooms
+567	565	Dish Detergent	Consumer Packaged Goods	Non-edible	Home Care	Household Cleaning	Dish Detergent
+568	565	Floor Cleaners/Wax Removers	Consumer Packaged Goods	Non-edible	Home Care	Household Cleaning	Floor Cleaners/Wax Removers
+569	565	Furniture Polish	Consumer Packaged Goods	Non-edible	Home Care	Household Cleaning	Furniture Polish
+570	565	Household Cleaner	Consumer Packaged Goods	Non-edible	Home Care	Household Cleaning	Household Cleaner
+571	565	Household Cleaner Cloths	Consumer Packaged Goods	Non-edible	Home Care	Household Cleaning	Household Cleaner Cloths
+572	565	Multi Task Sheets	Consumer Packaged Goods	Non-edible	Home Care	Household Cleaning	Multi Task Sheets
+573	565	Rug/Upholstery/Fabric Treatment	Consumer Packaged Goods	Non-edible	Home Care	Household Cleaning	Rug/Upholstery/Fabric Treatment
+574	565	Sponges & Scouring Pads	Consumer Packaged Goods	Non-edible	Home Care	Household Cleaning	Sponges & Scouring Pads
+575	563	Laundry	Consumer Packaged Goods	Non-edible	Home Care	Laundry	
+576	575	Bleach	Consumer Packaged Goods	Non-edible	Home Care	Laundry	Bleach
+577	575	Fabric Softener	Consumer Packaged Goods	Non-edible	Home Care	Laundry	Fabric Softener
+578	575	Laundry Care	Consumer Packaged Goods	Non-edible	Home Care	Laundry	Laundry Care
+579	575	Laundry Detergent	Consumer Packaged Goods	Non-edible	Home Care	Laundry	Laundry Detergent
+580	427	Home and Garden Products	Consumer Packaged Goods	Non-edible	Home and Garden Products		
+581	580	Bathroom Accessories	Consumer Packaged Goods	Non-edible	Home and Garden Products	Bathroom Accessories	
+582	580	Home Decor	Consumer Packaged Goods	Non-edible	Home and Garden Products	Home Decor	
+583	580	Bedroom Furniture and Accessories	Consumer Packaged Goods	Non-edible	Home and Garden Products	Bedroom Furniture and Accessories	
+584	580	Fireplaces	Consumer Packaged Goods	Non-edible	Home and Garden Products	Fireplaces	
+585	580	Kitchen and Dining Products	Consumer Packaged Goods	Non-edible	Home and Garden Products	Kitchen and Dining Products	
+586	580	Lawn and Garden Products	Consumer Packaged Goods	Non-edible	Home and Garden Products	Lawn and Garden Products	
+587	580	Lighting	Consumer Packaged Goods	Non-edible	Home and Garden Products	Lighting	
+588	580	Linens and Bedding	Consumer Packaged Goods	Non-edible	Home and Garden Products	Linens and Bedding	
+589	580	Plants	Consumer Packaged Goods	Non-edible	Home and Garden Products	Plants	
+590	580	Housewares	Consumer Packaged Goods	Non-edible	Home and Garden Products	Housewares	
+591	580	Carpets and Rugs	Consumer Packaged Goods	Non-edible	Home and Garden Products	Carpets and Rugs	
+592	427	Religious Items	Consumer Packaged Goods	Non-edible	Religious Items		
+593	427	Back to School Supplies	Consumer Packaged Goods	Non-edible	Back to School Supplies		
+594	427	Baby and Toddler Products	Consumer Packaged Goods	Non-edible	Baby and Toddler Products		
+595	594	Baby Bath and Potty Products	Consumer Packaged Goods	Non-edible	Baby and Toddler Products	Baby Bath and Potty Products	
+596	594	Baby Gift Sets	Consumer Packaged Goods	Non-edible	Baby and Toddler Products	Baby Gift Sets	
+597	594	Baby Toys and Activity Equipment	Consumer Packaged Goods	Non-edible	Baby and Toddler Products	Baby Toys and Activity Equipment	
+598	594	Diapers	Consumer Packaged Goods	Non-edible	Baby and Toddler Products	Diapers	
+599	594	Baby Safety Products	Consumer Packaged Goods	Non-edible	Baby and Toddler Products	Baby Safety Products	
+600	594	Nursing and Feeding Products	Consumer Packaged Goods	Non-edible	Baby and Toddler Products	Nursing and Feeding Products	
+601	594	Baby Bouncers and Rockers	Consumer Packaged Goods	Non-edible	Baby and Toddler Products	Baby Bouncers and Rockers	
+602	594	Baby Carriers	Consumer Packaged Goods	Non-edible	Baby and Toddler Products	Baby Carriers	
+603	594	High Chairs and Boosters	Consumer Packaged Goods	Non-edible	Baby and Toddler Products	High Chairs and Boosters	
+604	594	Strollers and Joggers	Consumer Packaged Goods	Non-edible	Baby and Toddler Products	Strollers and Joggers	
+605	427	Media	Consumer Packaged Goods	Non-edible	Media		
+606	605	Magazines and Newspapers	Consumer Packaged Goods	Non-edible	Media	Magazines and Newspapers	
+607	605	DVDs	Consumer Packaged Goods	Non-edible	Media	DVDs	
+608	605	Books and Audio Books	Consumer Packaged Goods	Non-edible	Media	Books and Audio Books	
+609	605	CDs and Vinyl Records	Consumer Packaged Goods	Non-edible	Media	CDs and Vinyl Records	
+610	427	Toys and Games	Consumer Packaged Goods	Non-edible	Toys and Games		
+611	610	Games	Consumer Packaged Goods	Non-edible	Toys and Games	Games	
+612	610	Outdoor Play Equipment	Consumer Packaged Goods	Non-edible	Toys and Games	Outdoor Play Equipment	
+613	610	Puzzles	Consumer Packaged Goods	Non-edible	Toys and Games	Puzzles	
+614	610	Toys	Consumer Packaged Goods	Non-edible	Toys and Games	Toys	
+615	427	Luggage and Bags	Consumer Packaged Goods	Non-edible	Luggage and Bags		
+616		Education and Careers	Education and Careers				
+617	616	Adult Education	Education and Careers	Adult Education			
+618	616	Career Improvement and Advice	Education and Careers	Career Improvement and Advice			
+619	616	Colleges and Universities	Education and Careers	Colleges and Universities			
+620	616	Employment Agencies	Education and Careers	Employment Agencies			
+621	616	Language Learning	Education and Careers	Language Learning			
+622	616	Online Education	Education and Careers	Online Education			
+623	616	Study Skills	Education and Careers	Study Skills			
+624	616	Teaching Resources	Education and Careers	Teaching Resources			
+625		Family and Parenting	Family and Parenting				
+626	625	Childcare	Family and Parenting	Childcare			
+627	626	Day Care Centers	Family and Parenting	Childcare	Day Care Centers		
+628	626	Nanny Services	Family and Parenting	Childcare	Nanny Services		
+629	625	Genealogy and Family Trees	Family and Parenting	Genealogy and Family Trees			
+630	625	Kids Activities	Family and Parenting	Kids Activities			
+631		Finance and Insurance	Finance and Insurance				
+632	631	Accountants	Finance and Insurance	Accountants			
+633	631	Banking	Finance and Insurance	Banking			
+634	631	Bookkeepers	Finance and Insurance	Bookkeepers			
+635	631	Credit and Debt Repair/Credit Reporting	Finance and Insurance	Credit and Debt Repair/Credit Reporting			
+636	631	Credit Cards	Finance and Insurance	Credit Cards			
+637	631	Insurance	Finance and Insurance	Insurance			
+638	637	Auto Insurance	Finance and Insurance	Insurance	Auto Insurance		
+639	637	Home Insurance	Finance and Insurance	Insurance	Home Insurance		
+640	637	Life Insurance	Finance and Insurance	Insurance	Life Insurance		
+641	637	Medical Insurance	Finance and Insurance	Insurance	Medical Insurance		
+642	631	Mortgage Lenders and Brokers	Finance and Insurance	Mortgage Lenders and Brokers			
+643	631	Payday and Emergency Loans	Finance and Insurance	Payday and Emergency Loans			
+644	631	Retirement Planning	Finance and Insurance	Retirement Planning			
+645	631	Stocks and Investments	Finance and Insurance	Stocks and Investments			
+646	631	Student Financial Aid	Finance and Insurance	Student Financial Aid			
+647	631	Tax Preparation Services	Finance and Insurance	Tax Preparation Services			
+648		Food and Beverage Services	Food and Beverage Services				
+649	648	Bakeries	Food and Beverage Services	Bakeries			
+650	648	Bars	Food and Beverage Services	Bars			
+651	648	Catering	Food and Beverage Services	Catering			
+652	648	Fast Food	Food and Beverage Services	Fast Food			
+653	648	Food Delivery Services	Food and Beverage Services	Food Delivery Services			
+654	648	Restaurants	Food and Beverage Services	Restaurants			
+655		Furniture	Furniture				
+656	655	Baby and Toddler Furniture	Furniture	Baby and Toddler Furniture			
+657	655	BBQ/Grills/Outdoor Dining	Furniture	BBQ/Grills/Outdoor Dining			
+658	655	Beds and Accessories	Furniture	Beds and Accessories			
+659	655	Benches	Furniture	Benches			
+660	655	Cabinets and Storage	Furniture	Cabinets and Storage			
+661	655	Chairs	Furniture	Chairs			
+662	655	Entertainment Centers and TV Stands	Furniture	Entertainment Centers and TV Stands			
+663	655	Furniture Sets	Furniture	Furniture Sets			
+664	655	Outdoor Furniture	Furniture	Outdoor Furniture			
+665	655	Shelving	Furniture	Shelving			
+666	655	Sofas	Furniture	Sofas			
+667	655	Tables	Furniture	Tables			
+668		Gifts and Holiday Items	Gifts and Holiday Items				
+669	668	Flowers	Gifts and Holiday Items	Flowers			
+670	668	Gift Baskets	Gifts and Holiday Items	Gift Baskets			
+671	668	Gift Cards and Coupons	Gifts and Holiday Items	Gift Cards and Coupons			
+672	668	Gift Certificates	Gifts and Holiday Items	Gift Certificates			
+673	668	Greeting Cards	Gifts and Holiday Items	Greeting Cards			
+674	668	Holiday and Ethnic Items	Gifts and Holiday Items	Holiday and Ethnic Items			
+675	668	Party Goods	Gifts and Holiday Items	Party Goods			
+676		Hardware Supplies	Hardware Supplies				
+677	676	Agriculture and Farming Equipment	Hardware Supplies	Agriculture and Farming Equipment			
+678	676	Building Materials	Hardware Supplies	Building Materials			
+679	676	Building Products	Hardware Supplies	Building Products			
+680	676	Building Supplies	Hardware Supplies	Building Supplies			
+681	676	Carpentry Supplies	Hardware Supplies	Carpentry Supplies			
+682	676	Electrical Equipment	Hardware Supplies	Electrical Equipment			
+683	676	Fencing and Barriers	Hardware Supplies	Fencing and Barriers			
+684	676	Fuel Containers and Tanks	Hardware Supplies	Fuel Containers and Tanks			
+685	676	Hardware Accessories	Hardware Supplies	Hardware Accessories			
+686	676	Hardware Pumps	Hardware Supplies	Hardware Pumps			
+687	676	Heating/Ventilation/Air Conditioning	Hardware Supplies	Heating/Ventilation/Air Conditioning			
+688	676	Locks and Keys	Hardware Supplies	Locks and Keys			
+689	676	Machinery	Hardware Supplies	Machinery			
+690	676	Plumbing Supplies	Hardware Supplies	Plumbing Supplies			
+691	676	Power and Electrical Supplies	Hardware Supplies	Power and Electrical Supplies			
+692	676	Small Engines	Hardware Supplies	Small Engines			
+693	676	Storage Tanks	Hardware Supplies	Storage Tanks			
+694	676	Tools	Hardware Supplies	Tools			
+695	676	Work Safety Protective Gear	Hardware Supplies	Work Safety Protective Gear			
+696		Health and Medical Services	Health and Medical Services				
+697	696	Alternative and Natural Medicine	Health and Medical Services	Alternative and Natural Medicine			
+698	696	Chiropractors	Health and Medical Services	Chiropractors			
+699	696	Clinical Research	Health and Medical Services	Clinical Research			
+700	696	Cosmetic Medical Services	Health and Medical Services	Cosmetic Medical Services			
+701	696	Dental Care	Health and Medical Services	Dental Care			
+702	696	Drugstores and Pharmacies	Health and Medical Services	Drugstores and Pharmacies			
+703	696	Elder Care	Health and Medical Services	Elder Care			
+704	696	Hair Loss Treatments	Health and Medical Services	Hair Loss Treatments			
+705	696	Health Care and Physicians	Health and Medical Services	Health Care and Physicians			
+706	696	Health Services	Health and Medical Services	Health Services			
+707	696	Hospitals	Health and Medical Services	Hospitals			
+708	696	Massage Therapists	Health and Medical Services	Massage Therapists			
+709	696	Physical Therapists	Health and Medical Services	Physical Therapists			
+710	696	Skin Care Treatments	Health and Medical Services	Skin Care Treatments			
+711	696	Smoking Cessation	Health and Medical Services	Smoking Cessation			
+712	696	Vaccines	Health and Medical Services	Vaccines			
+713	696	Vision Care	Health and Medical Services	Vision Care			
+714		Hobbies and Interests	Hobbies and Interests				
+715	714	Arts and Crafts	Hobbies and Interests	Arts and Crafts			
+716	714	Musical Instruments and Accessories	Hobbies and Interests	Musical Instruments and Accessories			
+717	714	Psychics and Astrology	Hobbies and Interests	Psychics and Astrology			
+718	714	Workshops and Classes	Hobbies and Interests	Workshops and Classes			
+719		Home and Garden Services	Home and Garden Services				
+720	719	Appliance Repair	Home and Garden Services	Appliance Repair			
+721	719	Business and Home Security Services	Home and Garden Services	Business and Home Security Services			
+722	719	Carpeting and Flooring Services	Home and Garden Services	Carpeting and Flooring Services			
+723	719	Emergency Preparedness	Home and Garden Services	Emergency Preparedness			
+724	719	Flood, Fire and Gas Safety	Home and Garden Services	Flood, Fire and Gas Safety			
+725	719	Gas and Electric Services	Home and Garden Services	Gas and Electric Services			
+726	719	Home Improvement and Repair	Home and Garden Services	Home Improvement and Repair			
+727	719	Housekeeping Services	Home and Garden Services	Housekeeping Services			
+728	719	Landscaping Services	Home and Garden Services	Landscaping Services			
+729	719	Lawn and Garden Services	Home and Garden Services	Lawn and Garden Services			
+730	719	Pest Exterminators	Home and Garden Services	Pest Exterminators			
+731	719	Plumbers	Home and Garden Services	Plumbers			
+732	719	Pool and Spa Installation and Maintenance	Home and Garden Services	Pool and Spa Installation and Maintenance			
+733	719	Remodeling and Construction	Home and Garden Services	Remodeling and Construction			
+734	719	Water Services	Home and Garden Services	Water Services			
+735	719	Window Installation and Treatments	Home and Garden Services	Window Installation and Treatments			
+736		Legal Services	Legal Services				
+737	736	Attorneys	Legal Services	Attorneys			
+738	736	Bail Bonds	Legal Services	Bail Bonds			
+739		Life Events	Life Events				
+740	739	Anniversary	Life Events	Anniversary			
+741	739	Baby Showers	Life Events	Baby Showers			
+742	739	Bachelor and Bachelorette Parties	Life Events	Bachelor and Bachelorette Parties			
+743	739	Birthdays	Life Events	Birthdays			
+744	739	Births	Life Events	Births			
+745	739	Funeral Supplies and Services	Life Events	Funeral Supplies and Services			
+746	739	Graduations	Life Events	Graduations			
+747	739	Proms	Life Events	Proms			
+748	739	Wedding Services and Supplies	Life Events	Wedding Services and Supplies			
+749		Logistics and Delivery	Logistics and Delivery				
+750	749	Shipping Services	Logistics and Delivery	Shipping Services			
+751	749	Storage Facilities	Logistics and Delivery	Storage Facilities			
+752		Non-Profits	Non-Profits				
+753	752	Charities and Donations	Non-Profits	Charities and Donations			
+754	752	Civic Organizations	Non-Profits	Civic Organizations			
+755	752	Federations and Professional Associations	Non-Profits	Federations and Professional Associations			
+756	752	Military Organizations	Non-Profits	Military Organizations			
+757	752	NGOs	Non-Profits	NGOs			
+758	752	PSAs	Non-Profits	PSAs			
+759		Office Equipment and Supplies	Office Equipment and Supplies				
+760	759	Office Furniture	Office Equipment and Supplies	Office Furniture			
+761	759	Stationery	Office Equipment and Supplies	Stationery			
+762		Pet Services	Pet Services				
+763	762	Pet Breeders	Pet Services	Pet Breeders			
+764	762	Pet Grooming	Pet Services	Pet Grooming			
+765	762	Pet Sitting	Pet Services	Pet Sitting			
+766	762	Pet Stores	Pet Services	Pet Stores			
+767	762	Veterinary Services	Pet Services	Veterinary Services			
+768		Pharmaceuticals, Conditions, and Symptoms	Pharmaceuticals, Conditions, and Symptoms				
+769		Real Estate	Real Estate				
+770	769	Commercial Real Estate	Real Estate	Commercial Real Estate			
+771	769	Real Estate Rentals	Real Estate	Real Estate Rentals			
+772	769	Real Estate Sales	Real Estate	Real Estate Sales			
+773	769	Real Estate Services For Owners	Real Estate	Real Estate Services For Owners			
+774	769	Residential Real Estate	Real Estate	Residential Real Estate			
+775		Recreation and Fitness Activities	Recreation and Fitness Activities				
+776	775	Dance Studios	Recreation and Fitness Activities	Dance Studios			
+777	775	Gyms and Health Clubs	Recreation and Fitness Activities	Gyms and Health Clubs			
+778	775	Participant Sports Leagues	Recreation and Fitness Activities	Participant Sports Leagues			
+779	775	Personal Trainers	Recreation and Fitness Activities	Personal Trainers			
+780	775	Self Defense and Martial Arts Classes	Recreation and Fitness Activities	Self Defense and Martial Arts Classes			
+781	775	Swimming Facilities	Recreation and Fitness Activities	Swimming Facilities			
+782	775	Yoga Studios	Recreation and Fitness Activities	Yoga Studios			
+783		Software	Software				
+784	783	Computer Software	Software	Computer Software			
+785	784	3-D Graphics	Software	Computer Software	3-D Graphics		
+786	784	Photo Editing Software	Software	Computer Software	Photo Editing Software		
+787	784	Shareware and Freeware	Software	Computer Software	Shareware and Freeware		
+788	784	Video Software	Software	Computer Software	Video Software		
+789	784	Web Conferencing	Software	Computer Software	Web Conferencing		
+790	784	Antivirus Software	Software	Computer Software	Antivirus Software		
+791	784	Browsers	Software	Computer Software	Browsers		
+792	784	Computer Animation	Software	Computer Software	Computer Animation		
+793	784	Databases	Software	Computer Software	Databases		
+794	784	Desktop Publishing	Software	Computer Software	Desktop Publishing		
+795	784	Digital Audio	Software	Computer Software	Digital Audio		
+796	784	Graphics Software	Software	Computer Software	Graphics Software		
+797	784	Operating Systems	Software	Computer Software	Operating Systems		
+798	784	Productivity Software	Software	Computer Software	Productivity Software		
+799	784	Messaging Software	Software	Computer Software	Messaging Software		
+800	784	Gaming Software	Software	Computer Software	Gaming Software		
+801	783	Digital Goods and Currency	Software	Digital Goods and Currency			
+802		Sporting Goods	Sporting Goods				
+803	802	Athletics Equipment	Sporting Goods	Athletics Equipment			
+804	803	Baseball and Softball Equipment	Sporting Goods	Athletics Equipment	Baseball and Softball Equipment		
+805	803	Basketball Equipment	Sporting Goods	Athletics Equipment	Basketball Equipment		
+806	803	Boxing and Martial Arts Equipment	Sporting Goods	Athletics Equipment	Boxing and Martial Arts Equipment		
+807	803	Figure Skating and Hockey Equipment	Sporting Goods	Athletics Equipment	Figure Skating and Hockey Equipment		
+808	803	Football Equipment	Sporting Goods	Athletics Equipment	Football Equipment		
+809	803	General Purpose Athletic Equipment	Sporting Goods	Athletics Equipment	General Purpose Athletic Equipment		
+810	803	Gymnastics Equipment	Sporting Goods	Athletics Equipment	Gymnastics Equipment		
+811	803	Soccer Equipment	Sporting Goods	Athletics Equipment	Soccer Equipment		
+812	803	Tennis Equipment	Sporting Goods	Athletics Equipment	Tennis Equipment		
+813	803	Track and Field Equipment	Sporting Goods	Athletics Equipment	Track and Field Equipment		
+814	803	Volleyball Equipment	Sporting Goods	Athletics Equipment	Volleyball Equipment		
+815	803	Water Polo Equipment	Sporting Goods	Athletics Equipment	Water Polo Equipment		
+816	803	Wrestling Equipment	Sporting Goods	Athletics Equipment	Wrestling Equipment		
+817	802	Exercise and Fitness Equipment	Sporting Goods	Exercise and Fitness Equipment			
+818	802	Indoor Games Equipment	Sporting Goods	Indoor Games Equipment			
+819	802	Outdoor Recreation Equipment	Sporting Goods	Outdoor Recreation Equipment			
+820	819	Boating and Water Sports Equipment	Sporting Goods	Outdoor Recreation Equipment	Boating and Water Sports Equipment		
+821	819	Camping and Hiking Equipment	Sporting Goods	Outdoor Recreation Equipment	Camping and Hiking Equipment		
+822	819	Climbing Equipment	Sporting Goods	Outdoor Recreation Equipment	Climbing Equipment		
+823	819	Bicycles and Cycling Equipment	Sporting Goods	Outdoor Recreation Equipment	Bicycles and Cycling Equipment		
+824	819	Equestrian Equipment	Sporting Goods	Outdoor Recreation Equipment	Equestrian Equipment		
+825	819	Fishing Equipment	Sporting Goods	Outdoor Recreation Equipment	Fishing Equipment		
+826	819	Golf Equipment	Sporting Goods	Outdoor Recreation Equipment	Golf Equipment		
+827	819	Hang Gliding and Skydiving Equipment	Sporting Goods	Outdoor Recreation Equipment	Hang Gliding and Skydiving Equipment		
+828	819	Hunting and Shooting Equipment	Sporting Goods	Outdoor Recreation Equipment	Hunting and Shooting Equipment		
+829	819	Inline and Roller Skating Equipment	Sporting Goods	Outdoor Recreation Equipment	Inline and Roller Skating Equipment		
+830	819	Outdoor Games Equipment	Sporting Goods	Outdoor Recreation Equipment	Outdoor Games Equipment		
+831	819	Skateboards and Accessories	Sporting Goods	Outdoor Recreation Equipment	Skateboards and Accessories		
+832	819	Winter Sports Equipment	Sporting Goods	Outdoor Recreation Equipment	Winter Sports Equipment		
+833		Travel and Tourism	Travel and Tourism				
+834	833	Adventure Travel	Travel and Tourism	Adventure Travel			
+835	833	Air Travel	Travel and Tourism	Air Travel			
+836	833	Auto Rental	Travel and Tourism	Auto Rental			
+837	833	Beach Travel	Travel and Tourism	Beach Travel			
+838	833	Bed and Breakfasts	Travel and Tourism	Bed and Breakfasts			
+839	833	Budget Travel	Travel and Tourism	Budget Travel			
+840	833	Business Travel	Travel and Tourism	Business Travel			
+841	840	Taxi Services	Travel and Tourism	Business Travel	Taxi Services		
+842	840	Ride-sharing Services	Travel and Tourism	Business Travel	Ride-sharing Services		
+843	833	Camping	Travel and Tourism	Camping			
+844	833	Coach Travel	Travel and Tourism	Coach Travel			
+845	833	Cruise Travel	Travel and Tourism	Cruise Travel			
+846	833	Day Trips	Travel and Tourism	Day Trips			
+847	833	Family Travel	Travel and Tourism	Family Travel			
+848	833	Ferry Travel	Travel and Tourism	Ferry Travel			
+849	833	Honeymoons and Getaways	Travel and Tourism	Honeymoons and Getaways			
+850	833	Hotels and Resorts	Travel and Tourism	Hotels and Resorts			
+851	833	Motels	Travel and Tourism	Motels			
+852	833	Passenger Transportation	Travel and Tourism	Passenger Transportation			
+853	833	Rail Travel	Travel and Tourism	Rail Travel			
+854	833	Road Trips	Travel and Tourism	Road Trips			
+855	833	Sightseeing Tours and Activities	Travel and Tourism	Sightseeing Tours and Activities			
+856	833	Spas	Travel and Tourism	Spas			
+857	833	Timeshares	Travel and Tourism	Timeshares			
+858	833	Travel Agents and Online Travel Services	Travel and Tourism	Travel Agents and Online Travel Services			
+859	833	Travel Insurance	Travel and Tourism	Travel Insurance			
+860		Web Services	Web Services				
+861	860	Domain Services	Web Services	Domain Services			
+862	860	Internet Providers	Web Services	Internet Providers			
+863	860	Web Hosting and Cloud Computing	Web Services	Web Hosting and Cloud Computing			
