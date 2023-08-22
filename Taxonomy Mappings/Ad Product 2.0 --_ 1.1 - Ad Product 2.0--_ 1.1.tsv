@@ -1,0 +1,567 @@
+Ad Product 2.0						Ad Product 1.1		
+AP2 Name	Unique ID	Parent ID	Tier 1	Tier 2	Tier 3	AP1 UID	AP1 Parent ID	Name
+Adult Content		1000	Adult Content					
+Alcohol	1001		Alcohol					
+Bars	1002	1001	Alcohol	Bars		650	648	Bars
+Beer	1003	1001	Alcohol	Beer				
+Hard Sodas, Seltzers, Alco Pops	1004	1001	Alcohol	Hard Sodas, Seltzers, Alco Pops				
+Spirits	1005	1001	Alcohol	Spirits				
+Wine	1006	1001	Alcohol	Wine				
+Culture and Fine Arts	1007		Culture and Fine Arts			29	27	Culture and Fine Arts
+Museums and Galleries	1008	1007	Culture and Fine Arts	Museums and Galleries		33	30	Museums and Galleries
+Business and Industrial	1009		Business and Industrial			119		Business and Industrial
+Advertising and Marketing	1010	1009	Business and Industrial	Advertising and Marketing		120	119	Advertising and Marketing
+Business Services	1011	1009	Business and Industrial	Business Services				
+Consulting	1012	1011	Business and Industrial	Business Services	Consulting			
+Employee Expense and Time Tracking Services	1013	1011	Business and Industrial	Business Services	Employee Expense and Time Tracking Services			
+Human Resources and Recruiting	1014	1011	Business and Industrial	Business Services	Human Resources and Recruiting	130	119	Human Resources
+Information Technology Services	1015	1011	Business and Industrial	Business Services	Information Technology Services			
+Laundry and Dry Cleaning Services	1016	1011	Business and Industrial	Business Services	Laundry and Dry Cleaning Services	138	119	Laundry and Dry Cleaning Services
+Logistics and Delivery	1017	1011	Business and Industrial	Business Services	Logistics and Delivery	749		Logistics and Delivery
+Office Equipment and Supplies	1018	1011	Business and Industrial	Business Services	Office Equipment and Supplies	759		Office Equipment and Supplies
+Photographers	1019	1011	Business and Industrial	Business Services	Photographers	144	119	Photographers
+Printing/Fax/WiFi Services	1020	1011	Business and Industrial	Business Services	Printing/Fax/WiFi Services	145	119	Printing/Fax/WiFi Services
+Public Relations and Strategic Communication	1021	1011	Business and Industrial	Business Services	Public Relations and Strategic Communication	146	119	Public Relations and Strategic Communication
+Security & Protection	1022	1011	Business and Industrial	Business Services	Security & Protection			
+Storage Facilities	1023	1011	Business and Industrial	Business Services	Storage Facilities	751	749	Storage Facilities
+Telecom Services	1024	1011	Business and Industrial	Business Services	Telecom Services	159	119	Telecom Services
+Web Hosting and Cloud Computing	1025	1011	Business and Industrial	Business Services	Web Hosting and Cloud Computing	863	860	Web Hosting and Cloud Computing
+Construction	1026	1009	Business and Industrial	Construction		123	119	Construction
+Energy Industry	1027	1009	Business and Industrial	Energy Industry		124	119	Energy Industry
+Electric Power Industry	1028	1027	Business and Industrial	Energy Industry	Electric Power Industry	127	124	Electric Power Industry
+Energy Services	1029	1027	Business and Industrial	Energy Industry	Energy Services	125	124	Energy Services
+Green Energy	1030	1027	Business and Industrial	Energy Industry	Green Energy			
+Oil, Gas and Consumable Fuels	1031	1027	Business and Industrial	Energy Industry	Oil, Gas and Consumable Fuels	126	124	Oil, Gas and Consumable Fuels
+Forestry and Logging	1032	1009	Business and Industrial	Forestry and Logging		128	119	Forestry and Logging
+Industrial Storage	1033	1009	Business and Industrial	Industrial Storage		131	119	Industrial Storage
+Industrials	1034	1009	Business and Industrial	Industrials		132	119	Industrials
+Aerospace and Defense	1035	1034	Business and Industrial	Industrials	Aerospace and Defense	133	132	Aerospace and Defense
+Construction and Engineering	1036	1034	Business and Industrial	Industrials	Construction and Engineering	134	132	Construction and Engineering
+Industrial Conglomerates	1037	1034	Business and Industrial	Industrials	Industrial Conglomerates	135	132	Industrial Conglomerates
+Trading Companies and Distributors	1038	1034	Business and Industrial	Industrials	Trading Companies and Distributors	136	132	Trading Companies and Distributors
+Transportation	1039	1034	Business and Industrial	Industrials	Transportation	137	132	Transportation
+Manufacturing	1040	1009	Business and Industrial	Manufacturing		140	119	Manufacturing
+Medical and Biotechnology	1041	1009	Business and Industrial	Medical and Biotechnology		142	119	Medical and Biotechnology
+Mining and Quarrying	1042	1009	Business and Industrial	Mining and Quarrying		143	119	Mining and Quarrying
+Science and Laboratory	1043	1009	Business and Industrial	Science and Laboratory		156	119	Science and Laboratory
+Signage	1044	1009	Business and Industrial	Signage		157	119	Signage
+Small Business	1045	1009	Business and Industrial	Small Business		158	119	Small Business
+Waste Disposal and Recycling	1046	1009	Business and Industrial	Waste Disposal and Recycling		166	119	Waste Disposal and Recycling
+Cannabis	1047		Cannabis					
+Cannabis Consumables	1048	1047	Cannabis	Cannabis Consumables				
+Cannabis Drinks	1049	1048	Cannabis	Cannabis Consumables	Cannabis Drinks			
+Cannabis Edibles	1050	1048	Cannabis	Cannabis Consumables	Cannabis Edibles			
+Cannabis Equipment	1051	1047	Cannabis	Cannabis Equipment				
+Cannabis Stores	1052	1047	Cannabis	Cannabis Stores				
+Cannabis Stocks	1053	1047	Cannabis	Cannabis Stocks				
+CBD Consumables	1054	1047	Cannabis	CBD Consumables				
+CBD Topicals	1055	1047	Cannabis	CBD Topicals				
+Clothing and Accessories	1056		Clothing and Accessories			167		Clothing and Accessories
+Clothing	1057	1056	Clothing and Accessories	Clothing		168	167	Clothing
+Children's Clothing	1058	1057	Clothing and Accessories	Clothing	Children's Clothing	169	168	Children's Clothing
+Maternity Clothing	1059	1057	Clothing and Accessories	Clothing	Maternity Clothing	173	168	Maternity Clothing
+Men's Clothing	1060	1057	Clothing and Accessories	Clothing	Men's Clothing	170	168	Men's Clothing
+Sportswear	1061	1057	Clothing and Accessories	Clothing	Sportswear	175	168	Sportswear
+Underwear and Lingerie	1062	1057	Clothing and Accessories	Clothing	Underwear and Lingerie	174	168	Underwear and Lingerie
+Wedding Dresses/Bridal Wear/Tuxedos	1063	1057	Clothing and Accessories	Clothing	Wedding Dresses/Bridal Wear/Tuxedos	172	168	Wedding Dresses/Bridal Wear/Tuxedos
+Women's Clothing	1064	1057	Clothing and Accessories	Clothing	Women's Clothing	171	168	Women's Clothing
+Clothing Accessories	1065	1056	Clothing and Accessories	Clothing Accessories		176	167	Clothing Accessories
+Costumes and Accessories	1066	1056	Clothing and Accessories	Costumes and Accessories		177	167	Costumes and Accessories
+Footwear	1067	1056	Clothing and Accessories	Footwear		178	167	Footwear
+Footwear Accessories	1068	1056	Clothing and Accessories	Footwear Accessories		179	167	Footwear Accessories
+Handbags and Wallets	1069	1056	Clothing and Accessories	Handbags and Wallets		180	167	Handbags and Wallets
+Jewelry and Watches	1070	1056	Clothing and Accessories	Jewelry and Watches		181	167	Jewelry and Watches
+Sunglasses	1071	1056	Clothing and Accessories	Sunglasses		182	167	Sunglasses
+Collectables and Antiques	1072		Collectables and Antiques			183		Collectables and Antiques
+Antiques	1073	1072	Collectables and Antiques	Antiques		184	183	Antiques
+Coins and Paper Money	1074	1072	Collectables and Antiques	Coins and Paper Money		185	183	Coins and Paper Money
+Collectibles	1075	1072	Collectables and Antiques	Collectibles		186	183	Collectibles
+Entertainment Memorabilia	1076	1072	Collectables and Antiques	Entertainment Memorabilia		187	183	Entertainment Memorabilia
+Sports Memorabilia and Trading Cards	1077	1072	Collectables and Antiques	Sports Memorabilia and Trading Cards		188	183	Sports Memorabilia and Trading Cards
+Stamps	1078	1072	Collectables and Antiques	Stamps		189	183	Stamps
+Computer Software	1079		Computer Software			784	783	Computer Software
+Enterprise Computer Software	1080	1079	Computer Software	Enterprise Computer Software				
+Personal Computer Software	1081	1079	Computer Software	Personal Computer Software				
+Cosmetic Services	1082		Cosmetic Services					
+Beauty Salons	1083	1082	Cosmetic Services	Beauty Salons		114	113	Beauty Salons and Tanning
+Hair Salons	1084	1082	Cosmetic Services	Hair Salons		115	113	Hair Salons
+Hair Removal	1085	1082	Cosmetic Services	Hair Removal				
+Hair Restoration	1086	1082	Cosmetic Services	Hair Restoration		704	696	Hair Loss Treatments
+Nail Salons	1087	1082	Cosmetic Services	Nail Salons		116	113	Nail Salons
+Med Spas	1088	1082	Cosmetic Services	Med Spas				
+Piercing and Tattooing	1089	1082	Cosmetic Services	Piercing and Tattooing		117	113	Piercing and Tattooing
+Tanning Salons	1090	1082	Cosmetic Services	Tanning Salons		114	113	Beauty Salons and Tanning
+Consumer Electronics	1091		Consumer Electronics			190		Consumer Electronics
+Arcade Equipment	1092	1091	Consumer Electronics	Arcade Equipment		191	190	Arcade Equipment
+Camcorders	1093	1091	Consumer Electronics	Camcorders		217	215	Camcorders
+Cameras and Photo	1094	1091	Consumer Electronics	Cameras and Photo		195	190	Cameras and Photo
+Camera and Photo Accessories	1095	1094	Consumer Electronics	Cameras and Photo	Camera and Photo Accessories	196	195	Camera and Photo Accessories
+Cameras	1096	1094	Consumer Electronics	Cameras and Photo	Cameras	197	195	Cameras
+Photo Applications	1097	1094	Consumer Electronics	Cameras and Photo	Photo Applications	17	1	Photo and Video Apps
+Circuit Boards and Components	1098	1091	Consumer Electronics	Circuit Boards and Components		198	190	Circuit Boards and Components
+Communications Electronics	1099	1091	Consumer Electronics	Communications Electronics		199	190	Communications Electronics
+Computers	1100	1091	Consumer Electronics	Computers		201	190	Computers
+Laptops	1101	1100	Consumer Electronics	Computers	Laptops	202	201	Laptops
+Desktops	1102	1100	Consumer Electronics	Computers	Desktops	203	201	Desktops
+E-Readers	1103	1091	Consumer Electronics	E-Readers		204	190	E-Readers
+Electronics Accessories	1104	1091	Consumer Electronics	Electronics Accessories		205	190	Electronics Accessories
+Headphones	1105	1091	Consumer Electronics	Headphones		194	192	Headphones
+Home Theater Systems	1106	1091	Consumer Electronics	Home Theater Systems		206	190	Home Theater Systems
+Marine Electronics	1107	1091	Consumer Electronics	Marine Electronics		207	190	Marine Electronics
+Mobile Phones and Accessories	1108	1091	Consumer Electronics	Mobile Phones and Accessories		209	190	Mobile Phones and Accessories
+Networking	1109	1091	Consumer Electronics	Networking		210	190	Networking
+Printers/Copiers/Scanners/Fax	1110	1091	Consumer Electronics	Printers/Copiers/Scanners/Fax		211	190	Printers/Copiers/Scanners/Fax
+Security Devices	1111	1091	Consumer Electronics	Security Devices		212	190	Security Devices
+Tablets	1112	1091	Consumer Electronics	Tablets		213	190	Tablets
+Televisions	1113	1091	Consumer Electronics	Televisions		214	190	Televisions
+Video Games and Consoles	1114	1091	Consumer Electronics	Video Games		219	190	Video Games and Consoles
+Video Games and Consoles	1115	1091	Consumer Electronics	Video Game Consoles		219	190	Video Games and Consoles
+Video Game Console Accessories	1116	1091	Consumer Electronics	Video Game Console Accessories		218	190	Video Game Console Accessories
+Consumer Packaged Goods	1117		Consumer Packaged Goods			220		Consumer Packaged Goods
+Baby and Toddler Products	1118	1117	Consumer Packaged Goods	Baby and Toddler Products		594	427	Baby and Toddler Products
+Diapers	1119	1118	Consumer Packaged Goods	Baby and Toddler Products	Diapers	598	594	Diapers
+Nursing and Feeding Products	1120	1118	Consumer Packaged Goods	Baby and Toddler Products	Nursing and Feeding Products	600	594	Nursing and Feeding Products
+Back to School Supplies	1121	1117	Consumer Packaged Goods	Back to School Supplies		593	427	Back to School Supplies
+Barbeque	1122	1117	Consumer Packaged Goods	Barbeque		472	467	Barbeque
+Charcoal	1123	1122	Consumer Packaged Goods	Barbeque	Charcoal	473	472	Charcoal
+Charcoal Lighter Fluids	1124	1122	Consumer Packaged Goods	Barbeque	Charcoal Lighter Fluids	474	472	Charcoal Lighter Fluids
+Beverages	1125	1117	Consumer Packaged Goods	Beverages		222	221	Beverages
+Carbonated Soft Drinks	1126	1125	Consumer Packaged Goods	Beverages	Carbonated Soft Drinks	223	222	Carbonated Soft Drinks
+Coffee & Tea	1127	1125	Consumer Packaged Goods	Beverages	Coffee & Tea	224	222	Coffee & Tea
+Drink Mixes	1128	1125	Consumer Packaged Goods	Beverages	Drink Mixes	231	222	Drink Mixes
+Juices	1129	1125	Consumer Packaged Goods	Beverages	Juices	236	222	Juices
+Sports/Energy Drinks	1130	1125	Consumer Packaged Goods	Beverages	Sports/Energy Drinks	244	222	Sports/Energy Drinks
+Water	1131	1125	Consumer Packaged Goods	Beverages	Water	247	222	Water
+Cosmetics	1132	1117	Consumer Packaged Goods	Cosmetics		429	428	Cosmetics
+Cosmetics Accessories	1133	1132	Consumer Packaged Goods	Cosmetics	Cosmetics Accessories	435	429	Cosmetics Accessories
+Cosmetics-Nail	1134	1132	Consumer Packaged Goods	Cosmetics	Cosmetics-Nail	434	429	Cosmetics-Nail
+Eye	1135	1132	Consumer Packaged Goods	Cosmetics	Eye	431	429	Eye
+Facial	1136	1132	Consumer Packaged Goods	Cosmetics	Facial	432	429	Facial
+Lip	1137	1132	Consumer Packaged Goods	Cosmetics	Lip	433	429	Lip
+Storage	1138	1132	Consumer Packaged Goods	Cosmetics	Storage	430	429	Storage
+Disposable Tableware	1139	1117	Consumer Packaged Goods	Disposable Tableware		475	467	Disposable Tableware
+Cups & Plates	1140	1139	Consumer Packaged Goods	Disposable Tableware	Cups & Plates	476	475	Cups & Plates
+Disposable Tableware	1141	1139	Consumer Packaged Goods	Disposable Tableware	Disposable Tableware	475	467	Disposable Tableware
+Foils, Wraps, & Bags	1142	1117	Consumer Packaged Goods	Foils, Wraps, & Bags		482	467	Foils, Wraps, & Bags
+Foil Pans	1143	1142	Consumer Packaged Goods	Foils, Wraps, & Bags	Foil Pans	483	482	Foil Pans
+Foils & Wraps	1144	1142	Consumer Packaged Goods	Foils, Wraps, & Bags	Foils & Wraps	484	482	Foils & Wraps
+Food & Trash Bags	1145	1142	Consumer Packaged Goods	Foils, Wraps, & Bags	Food & Trash Bags	485	482	Food & Trash Bags
+Fragrance	1146	1117	Consumer Packaged Goods	Fragrance		436	428	Fragrance
+Fragrances - Women's	1147	1146	Consumer Packaged Goods	Fragrance	Fragrances - Women's	437	436	Fragrances - Women's
+Shaving Lotion/Men's Fragrance	1148	1146	Consumer Packaged Goods	Fragrance	Shaving Lotion/Men's Fragrance	438	436	Shaving Lotion/Men's Fragrance
+Frozen	1149	1117	Consumer Packaged Goods	Frozen		249	221	Frozen
+Frozen Baked Goods	1150	1149	Consumer Packaged Goods	Frozen	Frozen Baked Goods	250	249	Frozen Baked Goods
+Frozen Beverages	1151	1149	Consumer Packaged Goods	Frozen	Frozen Beverages	254	249	Frozen Beverages
+Frozen Desserts	1152	1149	Consumer Packaged Goods	Frozen	Frozen Desserts	257	249	Frozen Desserts
+Frozen Fruits & Vegetables	1153	1149	Consumer Packaged Goods	Frozen	Frozen Fruits & Vegetables	261	249	Frozen Fruits & Vegetables
+Frozen Juices	1154	1149	Consumer Packaged Goods	Frozen	Frozen Juices	256	254	Juices
+Frozen Meals	1155	1149	Consumer Packaged Goods	Frozen	Frozen Meals	267	249	Frozen Meals
+Frozen Meat/Poultry/Seafood	1156	1149	Consumer Packaged Goods	Frozen	Frozen Meat/Poultry/Seafood	273	349	Frozen Meat/Poultry/Seafood
+Frozen Snacks	1157	1149	Consumer Packaged Goods	Frozen	Frozen Snacks	278	249	Frozen Snacks
+Other Frozen	1158	1149	Consumer Packaged Goods	Frozen	Other Frozen	281	249	Other Frozen
+General Food	1159	1117	Consumer Packaged Goods	General Food		284	221	General Food
+Baby Food	1160	1159	Consumer Packaged Goods	General Food	Baby Food	282	281	Baby Food
+Bakery	1161	1159	Consumer Packaged Goods	General Food	Bakery	288	284	Bakery
+Baking	1162	1159	Consumer Packaged Goods	General Food	Baking	295	284	Baking
+Breakfast	1163	1159	Consumer Packaged Goods	General Food	Breakfast	315	284	Breakfast
+Candy	1164	1159	Consumer Packaged Goods	General Food	Candy	322	284	Candy
+Condiments & Sauces	1165	1159	Consumer Packaged Goods	General Food	Condiments & Sauces	327	284	Condiments & Sauces
+Cookies & Crackers	1166	1159	Consumer Packaged Goods	General Food	Cookies & Crackers	340	284	Cookies & Crackers
+Fruit	1167	1159	Consumer Packaged Goods	General Food	Fruit	263	261	Fruit
+Meals	1168	1159	Consumer Packaged Goods	General Food	Meals	348	284	Meals
+Snacks	1169	1159	Consumer Packaged Goods	General Food	Snacks	363	284	Snacks
+Vegetables	1170	1159	Consumer Packaged Goods	General Food	Vegetables	376	284	Vegetables
+General Merchandise	1171	1117	Consumer Packaged Goods	General Merchandise		467	427	General Merchandise
+Grooming Supplies	1172	1117	Consumer Packaged Goods	Grooming Supplies		439	428	Grooming Supplies
+Hair Care	1173	1117	Consumer Packaged Goods	Hair Care		444	428	Hair Care
+Hair Accessories	1174	1173	Consumer Packaged Goods	Hair Care	Hair Accessories	445	444	Hair Accessories
+Hair Coloring	1175	1173	Consumer Packaged Goods	Hair Care	Hair Coloring	446	444	Hair Coloring
+Hair Conditioner	1176	1173	Consumer Packaged Goods	Hair Care	Hair Conditioner	447	444	Hair Conditioner
+Hair Growth Products	1177	1173	Consumer Packaged Goods	Hair Care	Hair Growth Products	448	444	Hair Growth Products
+Hair Spray/Spritz	1178	1173	Consumer Packaged Goods	Hair Care	Hair Spray/Spritz	449	444	Hair Spray/Spritz
+Hair Styling Gel/Mousse	1179	1173	Consumer Packaged Goods	Hair Care	Hair Styling Gel/Mousse	450	444	Hair Styling Gel/Mousse
+Home Permanent/Relaxer Kits	1180	1173	Consumer Packaged Goods	Hair Care	Home Permanent/Relaxer Kits	451	444	Home Permanent/Relaxer Kits
+Shampoo	1181	1173	Consumer Packaged Goods	Hair Care	Shampoo	452	444	Shampoo
+HFSS Products [High Fat, Sugar, Salt]	1182	1117	Consumer Packaged Goods	HFSS Products [High Fat, Sugar, Salt]		80DV7O	221	HFSS Products [High Fat, Sugar, Salt]
+Home Care	1183	1117	Consumer Packaged Goods	Home Care		563	427	Home Care
+Household Cleaning	1184	1183	Consumer Packaged Goods	Home Care	Household Cleaning	565	563	Household Cleaning
+Laundry	1185	1183	Consumer Packaged Goods	Home Care	Laundry	575	563	Laundry
+Hosiery	1186	1117	Consumer Packaged Goods	Hosiery		486	467	Hosiery
+Pantyhose/Nylons	1187	1186	Consumer Packaged Goods	Hosiery	Pantyhose/Nylons	487	486	Pantyhose/Nylons
+Socks	1188	1186	Consumer Packaged Goods	Hosiery	Socks	488	486	Socks
+Tights	1189	1186	Consumer Packaged Goods	Hosiery	Tights	489	486	Tights
+Household/Plastics/Storage	1190	1117	Consumer Packaged Goods	Household/Plastics/Storage		490	467	Household/Plastics/Storage
+Bottles	1191	1190	Consumer Packaged Goods	Household/Plastics/Storage	Bottles	491	490	Bottles
+Drinkware	1192	1190	Consumer Packaged Goods	Household/Plastics/Storage	Drinkware	492	490	Drinkware
+Household Plastics	1193	1190	Consumer Packaged Goods	Household/Plastics/Storage	Household Plastics	493	490	Household Plastics
+Kitchen Storage	1194	1190	Consumer Packaged Goods	Household/Plastics/Storage	Kitchen Storage	494	490	Kitchen Storage
+Meal Kits	1195	1117	Consumer Packaged Goods	Meal Kits				
+Miscellaneous General Merch	1196	1117	Consumer Packaged Goods	Miscellaneous General Merch		496	467	Miscellaneous General Merch
+Office/School Supplies	1197	1117	Consumer Packaged Goods	Office/School Supplies		514	467	Office/School Supplies
+Children's Art Supplies	1198	1197	Consumer Packaged Goods	Office/School Supplies	Children's Art Supplies	515	514	Children's Art Supplies
+Computer Disks Frmtd/UnFrmtd	1199	1197	Consumer Packaged Goods	Office/School Supplies	Computer Disks Frmtd/UnFrmtd	516	514	Computer Disks Frmtd/UnFrmtd
+Office Products	1200	1197	Consumer Packaged Goods	Office/School Supplies	Office Products	517	514	Office Products
+Writing Instruments	1201	1197	Consumer Packaged Goods	Office/School Supplies	Writing Instruments	518	514	Writing Instruments
+Over the Counter Medication	1202	1117	Consumer Packaged Goods	Over the Counter Medication				
+Paper Products	1203	1117	Consumer Packaged Goods	Paper Products		519	467	Paper Products
+Facial Tissue	1204	1203	Consumer Packaged Goods	Paper Products	Facial Tissue	520	519	Facial Tissue
+Paper Napkins	1205	1203	Consumer Packaged Goods	Paper Products	Paper Napkins	521	519	Paper Napkins
+Paper Towels	1206	1203	Consumer Packaged Goods	Paper Products	Paper Towels	522	519	Paper Towels
+Toilet Tissue	1207	1203	Consumer Packaged Goods	Paper Products	Toilet Tissue	523	519	Toilet Tissue
+Personal Cleansing	1208	1117	Consumer Packaged Goods	Personal Cleansing		453	428	Personal Cleansing
+Bath Products	1209	1208	Consumer Packaged Goods	Personal Cleansing	Bath Products	454	453	Bath Products
+Bath/Body Scrubbers/Massagers	1210	1208	Consumer Packaged Goods	Personal Cleansing	Bath/Body Scrubbers/Massagers	455	453	Bath/Body Scrubbers/Massagers
+Deodorant	1211	1208	Consumer Packaged Goods	Personal Cleansing	Deodorant	456	453	Deodorant
+Moist Towelettes	1212	1208	Consumer Packaged Goods	Personal Cleansing	Moist Towelettes	457	453	Moist Towelettes
+Soap	1213	1208	Consumer Packaged Goods	Personal Cleansing	Soap	458	453	Soap
+Pest Control	1214	1117	Consumer Packaged Goods	Pest Control		524	467	Pest Control
+Outdoor Insect/Rodent Control Chem	1215	1214	Consumer Packaged Goods	Pest Control	Outdoor Insect/Rodent Control Chem	525	524	Outdoor Insect/Rodent Control Chem
+Pest Control	1216	1214	Consumer Packaged Goods	Pest Control	Pest Control	524	467	Pest Control
+Pet Care	1217	1117	Consumer Packaged Goods	Pet Care		527	467	Pet Care
+Cat/Dog Litter	1218	1217	Consumer Packaged Goods	Pet Care	Cat/Dog Litter	528	527	Cat/Dog Litter
+Pet Food	1219	1217	Consumer Packaged Goods	Pet Care	Pet Food	529	527	Pet Food
+Pet Supplies	1220	1217	Consumer Packaged Goods	Pet Care	Pet Supplies	530	527	Pet Supplies
+Pet Treats	1221	1217	Consumer Packaged Goods	Pet Care	Pet Treats	531	527	Pet Treats
+Refrigerated	1222	1117	Consumer Packaged Goods	Refrigerated		380	221	Refrigerated
+Dairy	1223	1222	Consumer Packaged Goods	Refrigerated	Dairy	381	380	Dairy
+Refrigerated Baked Goods	1224	1222	Consumer Packaged Goods	Refrigerated	Refrigerated Baked Goods	397	380	Refrigerated Baked Goods
+Refrigerated Beverages	1225	1222	Consumer Packaged Goods	Refrigerated	Refrigerated Beverages	399	380	Refrigerated Beverages
+Refrigerated Condiments	1226	1222	Consumer Packaged Goods	Refrigerated	Refrigerated Condiments	402	380	Refrigerated Condiments
+Refrigerated Desserts	1227	1222	Consumer Packaged Goods	Refrigerated	Refrigerated Desserts	408	380	Refrigerated Desserts
+Refrigerated Dough	1228	1222	Consumer Packaged Goods	Refrigerated	Refrigerated Dough	411	380	Refrigerated Dough
+Refrigerated Meals	1229	1222	Consumer Packaged Goods	Refrigerated	Refrigerated Meals	414	380	Refrigerated Meals
+Refrigerated Meats	1230	1222	Consumer Packaged Goods	Refrigerated	Refrigerated Meats	420	380	Refrigerated Meats
+Refrigerated Miscellaneous	1231	1222	Consumer Packaged Goods	Refrigerated	Refrigerated Miscellaneous	398	380	Other Refrigerated
+Religious Items	1232	1117	Consumer Packaged Goods	Religious Items		592	427	Religious Items
+Shaving	1233	1117	Consumer Packaged Goods	Shaving		459	428	Shaving
+Blades	1234	1233	Consumer Packaged Goods	Shaving	Blades	460	459	Blades
+Razors	1235	1233	Consumer Packaged Goods	Shaving	Razors	461	459	Razors
+Shaving Cream	1236	1233	Consumer Packaged Goods	Shaving	Shaving Cream	462	459	Shaving Cream
+Skin Care	1237	1117	Consumer Packaged Goods	Skin Care		463	428	Skin Care
+Hand & Body Lotion	1238	1237	Consumer Packaged Goods	Skin Care	Hand & Body Lotion	464	463	Hand & Body Lotion
+Skin Care	1239	1237	Consumer Packaged Goods	Skin Care	Skin Care	463	428	Skin Care
+Suntan Products	1240	1237	Consumer Packaged Goods	Skin Care	Suntan Products	466	463	Suntan Products
+Toys and Games	1241	1117	Consumer Packaged Goods	Toys and Games		610	427	Toys and Games
+Games	1242	1241	Consumer Packaged Goods	Toys and Games	Games	611	610	Games
+Outdoor Play Equipment	1243	1241	Consumer Packaged Goods	Toys and Games	Outdoor Play Equipment	612	610	Outdoor Play Equipment
+Puzzles	1244	1241	Consumer Packaged Goods	Toys and Games	Puzzles	613	610	Puzzles
+Toys	1245	1241	Consumer Packaged Goods	Toys and Games	Toys	614	610	Toys
+Vitamins and Supplements	1246	1117	Consumer Packaged Goods	Vitamins and Supplements				
+Digestive Supplements	1247	1246	Consumer Packaged Goods	Vitamins and Supplements	Digestive Supplements			
+Weightloss Supplements	1248	1246	Consumer Packaged Goods	Vitamins and Supplements	Weightloss Supplements			
+Water Treatment	1249	1117	Consumer Packaged Goods	Water Treatment		532	467	Water Treatment
+Water Filter/Devices	1250	1249	Consumer Packaged Goods	Water Treatment	Water Filter/Devices	533	532	Water Filter/Devices
+Water Softeners/Treatment	1251	1249	Consumer Packaged Goods	Water Treatment	Water Softeners/Treatment	534	532	Water Softeners/Treatment
+Durable Goods	1252		Durable Goods					
+Electronics/Photography	1253	1252	Durable Goods	Electronics/Photography		478	467	Electronics/Photography
+Batteries	1254	1253	Durable Goods	Electronics/Photography	Batteries	479	478	Batteries
+Blank Audio/Video Media	1255	1253	Durable Goods	Electronics/Photography	Blank Audio/Video Media	480	478	Blank Audio/Video Media
+Photography Supplies	1256	1253	Durable Goods	Electronics/Photography	Photography Supplies	481	478	Photography Supplies
+Furniture	1257	1252	Durable Goods	Furniture		655		Furniture
+Indoor Furniture	1258	1257	Durable Goods	Furniture	Indoor Furniture			
+Outdoor Furniture	1259	1257	Durable Goods	Furniture	Outdoor Furniture	664	655	Outdoor Furniture
+Grooming Supplies	1260	1252	Durable Goods	Grooming Supplies		439	428	Grooming Supplies
+Electric Shaver Groomer	1261	1252	Durable Goods	Grooming Supplies	Electric Shaver Groomer	441	439	Electric Shaver Groomer
+Hair Appliances	1262	1260	Durable Goods	Grooming Supplies	Hair Appliances	442	439	Hair Appliances
+Tools and Hardware	1263	1252	Durable Goods	Tools and Hardware		694	676	Tools
+Consumer Hardware Supplies 	1264	1262	Durable Goods	Tools and Hardware	Consumer Hardware Supplies 			
+Industrial Hardware Supplies	1265	1262	Durable Goods	Tools and Hardware	Industrial Hardware Supplies			
+Home and Garden Products	1266	1252	Durable Goods	Home and Garden Products		580	427	Home and Garden Products
+Bathroom Accessories	1267	1266	Durable Goods	Home and Garden Products	Bathroom Accessories	581	580	Bathroom Accessories
+Bedroom Furniture and Accessories	1268	1266	Durable Goods	Home and Garden Products	Bedroom Furniture and Accessories	583	580	Bedroom Furniture and Accessories
+Carpets and Rugs	1269	1266	Durable Goods	Home and Garden Products	Carpets and Rugs	591	580	Carpets and Rugs
+Fireplaces	1270	1266	Durable Goods	Home and Garden Products	Fireplaces	584	580	Fireplaces
+Home Decor	1271	1266	Durable Goods	Home and Garden Products	Home Decor	582	580	Home Decor
+Housewares	1272	1266	Durable Goods	Home and Garden Products	Housewares	590	580	Housewares
+Kitchen and Dining Products	1273	1266	Durable Goods	Home and Garden Products	Kitchen and Dining Products	585	580	Kitchen and Dining Products
+Lawn and Garden Products	1274	1266	Durable Goods	Home and Garden Products	Lawn and Garden Products	586	580	Lawn and Garden Products
+Lighting	1275	1266	Durable Goods	Home and Garden Products	Lighting	587	580	Lighting
+Linens and Bedding	1276	1266	Durable Goods	Home and Garden Products	Linens and Bedding	588	580	Linens and Bedding
+Plants	1277	1266	Durable Goods	Home and Garden Products	Plants	589	580	Plants
+Household Appliances	1278	1252	Durable Goods	Household Appliances		535	427	Household Appliances
+Luggage and Bags	1279	1252	Durable Goods	Luggage and Bags		615	427	Luggage and Bags
+Dieting and Weightloss	1280		Dieting and Weightloss					
+Food Logging	1281	1280	Dieting and Weightloss	Food Logging 				
+Weightloss Servies	1282	1280	Dieting and Weightloss	Weightloss Servies				
+Workout and Step Tracking Applications	1283	1280	Dieting and Weightloss	Workout and Step Tracking Applications				
+Education and Careers	1284		Education and Careers			616		Education and Careers
+Adult Education	1285	1284	Education and Careers	Adult Education		617	616	Adult Education
+Certificaiton Programs	1286	1284	Education and Careers	Certificaiton Programs				
+Colleges and Universities	1287	1284	Education and Careers	Colleges and Universities		619	616	Colleges and Universities
+Post-Graduate Education	1288	1287	Education and Careers	Colleges and Universities	Post-Graduate Education			
+Education Applications	1289	1284	Education and Careers	Education Applications				
+Employment Agencies	1290	1284	Education and Careers	Employment Agencies		620	616	Employment Agencies
+Higher Education	1291	1284	Education and Careers	Higher Education				
+Language Learning	1292	1284	Education and Careers	Language Learning		621	616	Language Learning
+Online Education	1293	1284	Education and Careers	Online Education		622	616	Online Education
+Primary Education	1294	1284	Education and Careers	Primary Education				
+Remote work and school	1295	1284	Education and Careers	Remote work and school				
+Distance learning	1296	1295	Education and Careers	Remote work and school	Distance learning			
+Homeschooling	1297	1295	Education and Careers	Remote work and school	Homeschooling			
+Telecommuting 	1298	1295	Education and Careers	Remote work and school	Telecommuting 			
+Study Skills	1299	1284	Education and Careers	Study Skills		623	616	Study Skills
+Teaching Resources	1300	1284	Education and Careers	Teaching Resources		624	616	Teaching Resources
+Trade Schools 	1301	1284	Education and Careers	Trade Schools				
+Events and Performances	1302		Events and Performances			30	27	Experiences and Events
+Auctions	1303	1302	Events and Performances	Auctions		121	119	Auctions
+Cinemas and Movie Events	1304	1302	Events and Performances	Cinemas and Movie Events		35	30	Cinemas and Movie Events
+Comedy Events	1305	1302	Events and Performances	Comedy Events		44	30	Comedy Events
+Concerts	1306	1302	Events and Performances	Concerts				
+Conferences, Lectures and Workshops	1307	1302	Events and Performances	Conferences, Lectures and Workshops		122	119	Conferences/Events/Seminars
+Exhibitions	1308	1302	Events and Performances	Exhibitions		38	30	Exhibitions
+Fan Conventions	1309	1302	Events and Performances	Fan Conventions		46	30	Fan Conventions
+Fashion Events	1310	1302	Events and Performances	Fashion Events		43	30	Fashion Events
+Nightlife Experiences	1311	1302	Events and Performances	Nightlife Experiences				
+Sporting Events	1312	1302	Events and Performances	Sporting Events		34	30	Sporting Events
+Seasonal and Holiday Events	1313	1302	Events and Performances	Seasonal and Holiday Events				
+Theatre and Musicals	1314	1302	Events and Performances	Theatre and Musicals		31	30	Theatre and Musicals
+Family and Parenting	1315		Family and Parenting			625		Family and Parenting
+Childcare	1316	1315	Family and Parenting	Childcare		626	625	Childcare
+Day Care Centers	1317	1316	Family and Parenting	Childcare	Day Care Centers	627	626	Day Care Centers
+Nanny Services	1318	1316	Family and Parenting	Childcare	Nanny Services	628	626	Nanny Services
+Genealogy and Family Trees	1319	1315	Family and Parenting	Genealogy and Family Trees		629	625	Genealogy and Family Trees
+Kids Activities	1320	1315	Family and Parenting	Kids Activities		630	625	Kids Activities
+Senior Living	1321	1315	Family and Parenting	Senior Living				
+Finance and Insurance	1322		Finance and Insurance			631		Finance and Insurance
+Accountants and Bookkeepers	1323	1322	Finance and Insurance	Accountants and Bookkeepers		632	631	Accountants
+Banking	1324	1322	Finance and Insurance	Banking		633	631	Banking
+Credit and Debt Repair/Credit Reporting	1325	1322	Finance and Insurance	Credit and Debt Repair/Credit Reporting		635	631	Credit and Debt Repair/Credit Reporting
+Credit Cards	1326	1322	Finance and Insurance	Credit Cards		636	631	Credit Cards
+Insurance	1327	1322	Finance and Insurance	Insurance		637	631	Insurance
+Auto Insurance	1328	1327	Finance and Insurance	Insurance	Auto Insurance	638	637	Auto Insurance
+Home Insurance	1329	1327	Finance and Insurance	Insurance	Home Insurance	639	637	Home Insurance
+Life Insurance	1330	1327	Finance and Insurance	Insurance	Life Insurance	640	637	Life Insurance
+Medical Insurance	1331	1327	Finance and Insurance	Insurance	Medical Insurance	641	637	Medical Insurance
+Pet Insurance	1332	1327	Finance and Insurance	Insurance	Pet Insurance			
+Travel Insurance	1333	1327	Finance and Insurance	Insurance	Travel Insurance	859	833	Travel Insurance
+Insurance Coverage Apps	1334	1327	Finance and Insurance	Insurance Coverage Apps				
+Mortgage Lenders and Brokers	1335	1322	Finance and Insurance	Mortgage Lenders and Brokers		642	631	Mortgage Lenders and Brokers
+Payday and Emergency Loans	1336	1322	Finance and Insurance	Payday and Emergency Loans		643	631	Payday and Emergency Loans
+Retirement Planning	1337	1322	Finance and Insurance	Retirement Planning		644	631	Retirement Planning
+Stocks and Investments	1338	1322	Finance and Insurance	Stocks and Investments		645	631	Stocks and Investments
+Financial Investment and Management Applications	1339	1322	Finance and Insurance	Financial Investment and Management Applications		7	1	Finance Apps
+Student Financial Aid	1340	1322	Finance and Insurance	Student Financial Aid		646	631	Student Financial Aid
+Tax Preparation Services	1341	1322	Finance and Insurance	Tax Preparation Services		647	631	Tax Preparation Services
+Food and Beverage Services	1342		Food and Beverage Services			648		Food and Beverage Services
+Bakeries	1343	1342	Food and Beverage Services	Bakeries		649	648	Bakeries
+Catering	1344	1342	Food and Beverage Services	Catering		651	648	Catering
+Fast Food	1345	1342	Food and Beverage Services	Fast Food		652	648	Fast Food
+Food Delivery Services	1346	1342	Food and Beverage Services	Food Delivery Services		653	648	Food Delivery Services
+Restaurants	1347	1342	Food and Beverage Services	Restaurants		654	648	Restaurants
+Gambling	1348		Gambling					
+Casinos	1349	1348	Gambling	Casinos				
+Lottery	1350	1348	Gambling	Lottery				
+Sports Betting	1351	1348	Gambling	Sports Betting				
+Green/Eco	1352		Green/Eco					
+Green/Eco Products	1353	1353	Green/Eco	Green/Eco Products				
+Green/Eco Services	1354	1353	Green/Eco	Green/Eco Services				
+Gifts and Holiday Items	1355		Gifts and Holiday Items			668		Gifts and Holiday Items
+Flowers	1356	1355	Gifts and Holiday Items	Flowers		669	668	Flowers
+Gift Baskets	1357	1355	Gifts and Holiday Items	Gift Baskets		670	668	Gift Baskets
+Gift Cards and Coupons	1358	1355	Gifts and Holiday Items	Gift Cards and Coupons		671	668	Gift Cards and Coupons
+Gift Certificates	1359	1355	Gifts and Holiday Items	Gift Certificates		672	668	Gift Certificates
+Greeting Cards	1360	1355	Gifts and Holiday Items	Greeting Cards		673	668	Greeting Cards
+Party Goods	1361	1355	Gifts and Holiday Items	Party Goods		675	668	Party Goods
+Health and Medical Services	1362		Health and Medical Services			696		Health and Medical Services
+Alternative and Natural Medicine	1363	1362	Health and Medical Services	Alternative and Natural Medicine		697	696	Alternative and Natural Medicine
+Assisted Living	1364	1362	Health and Medical Services	Assisted Living				
+Chiropractors	1365	1362	Health and Medical Services	Chiropractors		698	696	Chiropractors
+Clinical Research	1366	1362	Health and Medical Services	Clinical Research		699	696	Clinical Research
+Cosmetic Medical Services	1367	1362	Health and Medical Services	Cosmetic Medical Services		700	696	Cosmetic Medical Services
+Dental Care	1368	1362	Health and Medical Services	Dental Care		701	696	Dental Care
+Dermatology	1369	1362	Health and Medical Services	Dermatology				
+Drugstores and Pharmacies	1370	1362	Health and Medical Services	Drugstores and Pharmacies		702	696	Drugstores and Pharmacies
+Fertility and Family Planning	1371	1362	Health and Medical Services	Fertility and Family Planning				
+General Practitioners	1372	1362	Health and Medical Services	General Practitioners				
+Home Healthcare	1373	1362	Health and Medical Services	Home Healthcare				
+Hospitals	1374	1362	Health and Medical Services	Hospitals		707	696	Hospitals
+Mental Health	1375	1362	Health and Medical Services	Mental Health				
+Physical Therapists	1376	1362	Health and Medical Services	Physical Therapists		709	696	Physical Therapists
+Service Provider Search and Scheduling	1377	1362	Health and Medical Services	Service Provider Search and Scheduling				
+Symptom Monitoring Apps	1378	1362	Health and Medical Services	Symptom Monitoring Apps		13	1	Medical Apps
+Vision Care	1379	1362	Health and Medical Services	Vision Care		713	696	Vision Care
+Home and Garden Services	1380		Home and Garden Services			719		Home and Garden Services
+Appliance Repair	1381	1380	Home and Garden Services	Appliance Repair		720	719	Appliance Repair
+Business and Home Security Services	1382	1380	Home and Garden Services	Business and Home Security Services		721	719	Business and Home Security Services
+Carpeting and Flooring Services	1383	1380	Home and Garden Services	Carpeting and Flooring Services		722	719	Carpeting and Flooring Services
+Do It Yourself Applications	1384	1380	Home and Garden Services	Do It Yourself Applications				
+Emergency Preparedness	1385	1380	Home and Garden Services	Emergency Preparedness		723	719	Emergency Preparedness
+Flood, Fire and Gas Safety	1386	1380	Home and Garden Services	Flood, Fire and Gas Safety		724	719	Flood, Fire and Gas Safety
+Gas and Electric Services	1387	1380	Home and Garden Services	Gas and Electric Services		725	719	Gas and Electric Services
+Home Improvement and Repair	1388	1380	Home and Garden Services	Home Improvement and Repair		726	719	Home Improvement and Repair
+Home Security and Monitoring Applications	1389	1380	Home and Garden Services	Home Security and Monitoring Applications				
+Home Service Provider Review	1390	1380	Home and Garden Services	Home Service Provider Review				
+Housekeeping Services	1391	1380	Home and Garden Services	Housekeeping Services		727	719	Housekeeping Services
+Landscaping Services	1392	1380	Home and Garden Services	Landscaping Services		728	719	Landscaping Services
+Lawn and Garden Services	1393	1380	Home and Garden Services	Lawn and Garden Services		729	719	Lawn and Garden Services
+Pest Exterminators	1394	1380	Home and Garden Services	Pest Exterminators		730	719	Pest Exterminators
+Plumbers	1395	1380	Home and Garden Services	Plumbers		731	719	Plumbers
+Pool and Spa Installation and Maintenance	1396	1380	Home and Garden Services	Pool and Spa Installation and Maintenance		732	719	Pool and Spa Installation and Maintenance
+Remodeling and Construction	1397	1380	Home and Garden Services	Remodeling and Construction		733	719	Remodeling and Construction
+Water Services	1398	1380	Home and Garden Services	Water Services		734	719	Water Services
+Window Installation and Treatments	1399	1380	Home and Garden Services	Window Installation and Treatments		735	719	Window Installation and Treatments
+Legal Services	1400		Legal Services			736		Legal Services
+Lawyers	1401	1400	Legal Services	Lawyers		737	736	Attorneys
+Bail Bonds	1402	1400	Legal Services	Bail Bonds		738	736	Bail Bonds
+Media	1403		Media			605	427	Media
+Blogs/Forums/Social Networks	1404	1403	Media	Blogs/Forums/Social Networks		28	27	Blogs/Forums/Social Networks
+Book Reading and Review Applications	1405	1403	Media	Book Reading and Review Applications		3	1	Books Apps
+Books and Audio Books	1406	1403	Media	Books and Audio Books		608	605	Books and Audio Books
+Casual Games	1407	1403	Media	Casual Games				
+Casual Games Apps	1408	1407	Media	Casual Games	Casual Games Apps	9	1	Games Apps
+Core Gaming	1409	1403	Media	Core Gaming				
+Core Gaming Apps	1410	1407	Media	Core Gaming	Core Gaming Apps	9	1	Games Apps
+CDs and Vinyl Records	1411	1403	Media	CDs and Vinyl Records		609	605	CDs and Vinyl Records
+DVDs	1412	1403	Media	DVDs		607	605	DVDs
+Live Television	1413	1403	Media	Live Television				
+Magazines and Newspapers	1414	1403	Media	Magazines and Newspapers		606	605	Magazines and Newspapers
+Music and Video Streaming Services	1415	1403	Media	Music and Video Streaming Services		48	27	Music and Video Streaming Services
+News and Analysis 	1416	1403	Media	News and Analysis 				
+Radio and Podcasts	1417	1403	Media	Radio and Podcasts		50	27	Radio and Podcasts
+Sports	1418	1403	Media	Sports				
+Fantasy Sports	1419	1418	Media	Sports	Fantasy Sports	47	27	Fantasy Sports
+Sports Highlights	1420	1418	Media	Sports	Sports Highlights			
+Team  News and Analysis	1421	1418	Media	Sports	Team News and Analysis			
+Utilities Apps	1422	1403	Media	Utilities Apps		25	1	Utilities Apps
+Productivity Apps	1423	1422	Media	Utilities Apps	Productivity Apps	18	1	Productivity Apps
+Reference Apps	1424	1422	Media	Utilities Apps	Reference Apps	19	1	Reference Apps
+Search Engine Apps	1425	1422	Media	Utilities Apps	Search Engine Apps	20	1	Search Engine Apps
+Weather Apps	1426	1422	Media	Utilities Apps	Weather Apps	26	1	Weather Apps
+Metals	1427		Metals					
+Coin Trade In	1428	1427	Metals	Coin Trade In				
+Gold Trade In	1429	1427	Metals	Gold Trade In				
+Platinum Trade In	1430	1427	Metals	Platinum Trade In				
+Silver Trade In	1431	1427	Metals	Silver Trade In				
+Non-Fiat Currency	1432		Non-Fiat Currency					
+Cryptocurrency Exchanges	1433	1432	Non-Fiat Currency	Cryptocurrency Exchanges				
+Cryptocurrency Stock	1434	1432	Non-Fiat Currency	Cryptocurrency Stock				
+NFTs	1435	1432	Non-Fiat Currency	NFTs				
+Non-Profits	1436		Non-Profits			752		Non-Profits
+Charities and Donations	1437	1436	Non-Profits	Charities and Donations		753	752	Charities and Donations
+Civic Organizations	1438	1436	Non-Profits	Civic Organizations		754	752	Civic Organizations
+Federations and Professional Associations	1439	1436	Non-Profits	Federations and Professional Associations		755	752	Federations and Professional Associations
+Military Organizations	1440	1436	Non-Profits	Military Organizations		756	752	Military Organizations
+Non-Governmental Organizations	1441	1436	Non-Profits	Non-Governmental Organizations				
+Public Service Announcements	1442	1436	Non-Profits	Public Service Announcements				
+Scholarships	1443	1436	Non-Profits	Scholarships				
+Pet Ownership	1444		Pet Ownership					
+Pet Adoption	1445	1444	Pet Ownership	Pet Adoption				
+Pet Breeders	1446	1444	Pet Ownership	Pet Breeders		763	762	Pet Breeders
+Pet Care and Supply Applications	1447	1444	Pet Ownership	Pet Care and Supply Applications				
+Pet Grooming	1448	1444	Pet Ownership	Pet Grooming		764	762	Pet Grooming
+Pet Sitting	1449	1444	Pet Ownership	Pet Sitting		765	762	Pet Sitting
+Veterinary Services	1450	1444	Pet Ownership	Veterinary Services		767	762	Veterinary Services
+Personal/Consumer Telcom	1451		Personal/Consumer Telecom			159	119	Telecom Services
+Home Internet Services	1452	1451	Personal/Consumer Telecom	Home Internet Services		160	159	Home Internet Services
+Home Phone Services	1453	1451	Personal/Consumer Telecom	Home Phone Services		162	159	Home Phone Services
+Home Television Services	1454	1451	Personal/Consumer Telecom	Home Television Services		161	159	Home Television Services
+Mobile Phone Plans	1455	1451	Personal/Consumer Telecom	Mobile Phone Plans		163	159	Mobile Phone Plans
+Prepaid International Phone Services	1456	1451	Personal/Consumer Telecom	Prepaid International Phone Services		164	159	Prepaid International Phone Services
+Pharmaceuticals	1457		Pharmaceuticals			768	768	Pharmaceuticals, Conditions, and Symptoms
+Politics	1458		Politics					
+Ballot measures	1459	1458	Politics	Ballot measures				
+Elections	1460	1458	Politics	Elections				
+Political Action Committees	1461	1458	Politics	Political Action Committees				
+Political Analysis and Opinion	1462	1458	Politics	Political Analysis and Opinion				
+Political candidates	1463	1458	Politics	Political candidates				
+Political Donations	1464	1458	Politics	Political Donations				
+Referendums or promoting causes; eg: Healthcare reform, energy trades (Oil/Solar), etc...	1465	1458	Politics	Referendums or promoting causes; eg: Healthcare reform, energy trades (Oil/Solar), etc...				
+Real Estate	1466		Real Estate			769		Real Estate
+Commercial Real Estate	1467	1466	Real Estate	Commercial Real Estate		770	769	Commercial Real Estate
+Real Estate Rentals	1468	1466	Real Estate	Real Estate Rentals		771	769	Real Estate Rentals
+Real Estate Sales	1469	1466	Real Estate	Real Estate Sales		772	769	Real Estate Sales
+Real Estate Services For Owners	1470	1466	Real Estate	Real Estate Services For Owners		773	769	Real Estate Services For Owners
+Religion & Spirituality	1471		Religion & Spirituality					
+Prayer and Mindfullness Applications	1472	1471	Religion & Spirituality	Prayer and Mindfullness Applications				
+Prayer and worship services	1473	1471	Religion & Spirituality	Prayer and Worship Services				
+Religious causes	1474	1471	Religion & Spirituality	Religious Causes				
+Religious charities	1475	1471	Religion & Spirituality	Religious Charities				
+Religious organizaitions	1476	1471	Religion & Spirituality	Religious Organizaitions				
+Retail	1477		Retail			147	119	Retail
+Arts and Crafts Supplies	1478	1477	Retail	Arts and Crafts Supplies				
+Cell Phone Stores	1479	1477	Retail	Cell Phone Stores		148	147	Cell Phone Stores
+Clothing Stores	1480	1477	Retail	Clothing Stores				
+Department Stores	1481	1477	Retail	Department Stores		152	147	Department Stores
+eCommerce	1482	1477	Retail	eCommerce				
+Factory Outlet Stores	1483	1477	Retail	Factory Outlet Stores		155	147	Factory Outlet Stores
+Grocery Stores and Supermarkets	1484	1477	Retail	Grocery Stores and Supermarkets		150	147	Grocery Stores and Supermarkets
+Hardware Stores	1485	1477	Retail	Hardware Stores				
+Musical Instruments and Record Stores	1486	1477	Retail	Musical Instruments and Record Stores		149	147	Music Stores
+Pawn Shops	1487	1477	Retail	Pawn Shops		154	147	Pawn Shops
+Pet and Pet Supply Stores	1488	1477	Retail	Pet and Pet Supply Stores		766	762	Pet Stores
+Shopping Malls	1489	1477	Retail	Shopping Malls		151	147	Shopping malls
+Specialty Stores	1490	1477	Retail	Specialty Stores		153	147	Specialty Stores
+Sporting Goods Stores	1491	1477	Retail	Sporting Goods Stores				
+Ticket Services	1492	1477	Retail	Ticket Services		51	27	Ticket Services
+Fitness Activities	1493		Fitness Activities					
+Dance Studios	1494	1493	Fitness Activities	Dance Studios		776	775	Dance Studios
+Gyms and Health Clubs	1495	1493	Fitness Activities	Gyms and Health Clubs		777	775	Gyms and Health Clubs
+Participant Sports Leagues	1496	1493	Fitness Activities	Participant Sports Leagues		778	775	Participant Sports Leagues
+Personal Trainers	1497	1493	Fitness Activities	Personal Trainers		779	775	Personal Trainers
+Self Defense and Martial Arts Classes	1498	1493	Fitness Activities	Self Defense and Martial Arts Classes		780	775	Self Defense and Martial Arts Classes
+Swimming Facilities	1499	1493	Fitness Activities	Swimming Facilities		781	775	Swimming Facilities
+Workout and Step Tracking Applications	1500	1493	Fitness Activities	Workout and Step Tracking Applications		10	1	Health and Fitness Apps
+Yoga Studios	1501	1493	Fitness Activities	Yoga Studios		782	775	Yoga Studios
+Sexual Health	1502		Sexual Health					
+Contraceptives	1503	1502	Sexual Health	Contraceptives				
+Doctor Perscribed Medicines 	1504	1502	Sexual Health	Doctor Perscribed Medicines 				
+Fertility Tracking Applications	1505	1502	Sexual Health	Fertility Tracking Applications				
+Non-perscribed Performance Enhancers	1506	1502	Sexual Health	Non-Perscribed Performance Enhancers				
+Sporting Goods	1507		Sporting Goods			802		Sporting Goods
+Athletics Equipment	1508	1507	Sporting Goods	Athletics Equipment		803	802	Athletics Equipment
+Exercise and Fitness Equipment	1509	1507	Sporting Goods	Exercise and Fitness Equipment		817	802	Exercise and Fitness Equipment
+Indoor Games Equipment	1510	1507	Sporting Goods	Indoor Games Equipment		818	802	Indoor Games Equipment
+Outdoor Recreation Equipment	1511	1507	Sporting Goods	Outdoor Recreation Equipment		819	802	Outdoor Recreation Equipment
+Travel and Tourism	1512		Travel and Tourism			833		Travel and Tourism
+Accomodations	1513	1512	Travel and Tourism	Accomodations				
+Bed and Breakfasts	1514	1513	Travel and Tourism	Accomodations	Bed and Breakfasts	838	833	Bed and Breakfasts
+Camping and Camp Grounds	1515	1513	Travel and Tourism	Accomodations	Camping and Camp Grounds	843	833	Camping
+Hotels and Resorts	1516	1513	Travel and Tourism	Accomodations	Hotels and Resorts	850	833	Hotels and Resorts
+Motels	1517	1513	Travel and Tourism	Accomodations	Motels	851	833	Motels
+Timeshares	1518	1513	Travel and Tourism	Accomodations	Timeshares	857	833	Timeshares
+Vacation Rentals	1519	1513	Travel and Tourism	Accomodations	Vacation Rentals			
+Air Travel	1520	1512	Travel and Tourism	Air Travel		835	833	Air Travel
+Cruises	1521	1512	Travel and Tourism	Cruises		845	833	Cruise Travel
+Rail Travel	1522	1512	Travel and Tourism	Rail Travel		853	833	Rail Travel
+Sightseeing Tours and Activities	1523	1512	Travel and Tourism	Sightseeing Tours and Activities		855	833	Sightseeing Tours and Activities
+Travel Agents and Online Travel Services	1524	1512	Travel and Tourism	Travel Agents and Online Travel Services		858	833	Travel Agents and Online Travel Services
+Travel Packages	1525	1512	Travel and Tourism	Travel Packages				
+Travel Planning and Itinerary Management Applications	1526	1512	Travel and Tourism	Travel Planning and Itinerary Management Applications				
+Tobacco	1527		Tobacco					
+Cigars	1528	1527	Tobacco	Cigars				
+Smokeless Tobacco	1529	1527	Tobacco	Smokeless Tobacco				
+Vaping	1530	1527	Tobacco	Vaping				
+Vaping Cartridges	1531	1527	Tobacco	Vaping Cartridges				
+Vaporizors	1532	1527	Tobacco	Vaporizors				
+Vehicles	1533		Vehicles					
+Automotive Leasing	1534	1533	Vehicles	Automotive Leasing				
+Automotive Ownership	1535	1533	Vehicles	Automotive Ownership		53	53	Automotive Ownership
+New vehicle Ownership	1536	1535	Vehicles	Automotive Ownership	New Vehicle Ownership	54	53	New Vehicles
+Pre-owned Automotive Ownership	1537	1535	Vehicles	Automotive Ownership	Pre-owned Automotive Ownership	77	53	Pre-Owned Vehicles
+Automotive Products	1538	1533	Vehicles	Automotive Products		100	100	Automotive Products
+Automotive Care Products	1539	1538	Vehicles	Automotive Products	Automotive Care Products	101	100	Automotive Care Products
+Automotive Parts and Accessories	1540	1538	Vehicles	Automotive Products	Automotive Parts and Accessories	102	100	Automotive Parts and Accessories
+Aftermarket Parts and Accessories	1541	1538	Vehicles	Automotive Products	Aftermarket Parts and Accessories			
+Automotive Services	1542	1533	Vehicles	Automotive Services		109	109	Automotive Services
+Auto Towing	1543	1542	Vehicles	Automotive Services	Auto Towing	111	109	Auto Towing and Repair
+Auto Repair	1544	1542	Vehicles	Automotive Services	Auto Repair	111	109	Auto Towing and Repair
+Car Wash	1545	1542	Vehicles	Automotive Services	Car Wash	112	109	Car Wash
+Automotive Sales Applications	1546	1533	Vehicles	Automotive Sales Applications				
+Ride-sharing Services	1547	1533	Vehicles	Ride-sharing Services		842	840	Ride-sharing Services
+Taxi Services	1548	1533	Vehicles	Taxi Services		841	840	Taxi Services
+Vehicle Rental	1549	1533	Vehicles	Vehicle Rental				
+Vehicle Type	1550	1533	Vehicles	Vehicle Type				
+Boats	1551	1550	Vehicles	Vehicle Type	Boats			
+Diesel Vehicles	1552	1550	Vehicles	Vehicle Type	Diesel Vehicles			
+Electric Vehicles	1553	1550	Vehicles	Vehicle Type	Electric Vehicles			
+Gas Vehicles	1554	1550	Vehicles	Vehicle Type	Gas Vehicles			
+Hybrid Vehicles	1555	1550	Vehicles	Vehicle Type	Hybrid Vehicles			
+Recreational Vehicles	1556	1550	Vehicles	Vehicle Type	Recreational Vehicles			
+Scooters, Motorbikes, and E-bikes	1557	1550	Vehicles	Vehicle Type	Scooters, Motorbikes, and E-bikes			
+Weapons & Ammunition	1558		Weapons and Ammunition					
+Ammunition	1559	1558	Weapons and Ammunition	Ammunition				
+Guns	1560	1558	Weapons and Ammunition	Guns				
+Gun Accessories	1561	1558	Weapons and Ammunition	Gun Accessories				
+Gun Shows and Auctions	1562	1558	Weapons and Ammunition	Gun Shows and Auctions				
+Non-Projectile Weapons	1563	1558	Weapons and Ammunition	Non-Projectile Weapons				
+Taser and Stun Guns	1564	1558	Weapons and Ammunition	Taser and Stun Guns				
