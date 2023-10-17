@@ -1,0 +1,584 @@
+Unique ID	Parent ID	Name	Tier 1	Tier 2	Tier 3
+	1000	Ad Safety Risk	Ad Safety Risk		
+1001		Adult Products and Services	Adult Products and Services		
+1002		Alcohol	Alcohol		
+1003	1002	Bars	Alcohol	Bars	
+1004	1002	Beer	Alcohol	Beer	
+1005	1002	Hard Sodas, Seltzers, Alco Pops	Alcohol	Hard Sodas, Seltzers, Alco Pops	
+1006	1002	Spirits	Alcohol	Spirits	
+1007	1002	Wine	Alcohol	Wine	
+1008		Culture and Fine Arts	Culture and Fine Arts		
+1009	1008	Museums and Galleries	Culture and Fine Arts	Museums and Galleries	
+1010		Business and Industrial	Business and Industrial		
+1011	1010	Advertising and Marketing	Business and Industrial	Advertising and Marketing	
+1012	1010	Business Services	Business and Industrial	Business Services	
+1013	1012	Consulting	Business and Industrial	Business Services	Consulting
+1014	1012	Employee Expense and Time Tracking Services	Business and Industrial	Business Services	Employee Expense and Time Tracking Services
+1015	1012	Event Planning	Business and Industrial	Business Services	Event Planning
+1016	1012	Human Resources and Recruiting	Business and Industrial	Business Services	Human Resources and Recruiting
+1017	1012	Information Technology Services	Business and Industrial	Business Services	Information Technology Services
+1018	1012	Laundry and Dry Cleaning Services	Business and Industrial	Business Services	Laundry and Dry Cleaning Services
+1019	1012	Logistics and Delivery	Business and Industrial	Business Services	Logistics and Delivery
+1020	1012	Office Equipment and Supplies	Business and Industrial	Business Services	Office Equipment and Supplies
+1021	1012	Photographers	Business and Industrial	Business Services	Photographers
+1022	1012	Printing/Fax/WiFi Services	Business and Industrial	Business Services	Printing/Fax/WiFi Services
+1023	1012	Public Relations and Strategic Communication	Business and Industrial	Business Services	Public Relations and Strategic Communication
+1024	1012	Security & Protection	Business and Industrial	Business Services	Security & Protection
+1025	1012	Storage Facilities	Business and Industrial	Business Services	Storage Facilities
+1026	1012	Telecom Services	Business and Industrial	Business Services	Telecom Services
+1027	1012	Web Hosting and Cloud Computing	Business and Industrial	Business Services	Web Hosting and Cloud Computing
+1028	1010	Construction	Business and Industrial	Construction	
+1029	1010	Energy Industry	Business and Industrial	Energy Industry	
+1030	1030	Electric Power Industry	Business and Industrial	Energy Industry	Electric Power Industry
+1031	1030	Energy Services	Business and Industrial	Energy Industry	Energy Services
+1032	1030	Green Energy	Business and Industrial	Energy Industry	Green Energy
+1033	1030	Oil, Gas and Consumable Fuels	Business and Industrial	Energy Industry	Oil, Gas and Consumable Fuels
+1034	1010	Forestry and Logging	Business and Industrial	Forestry and Logging	
+1035	1010	Industrial Storage	Business and Industrial	Industrial Storage	
+1036	1010	Industrials	Business and Industrial	Industrials	
+1037	1037	Aerospace and Defense	Business and Industrial	Industrials	Aerospace and Defense
+1038	1037	Construction and Engineering	Business and Industrial	Industrials	Construction and Engineering
+1039	1037	Industrial Conglomerates	Business and Industrial	Industrials	Industrial Conglomerates
+1040	1037	Trading Companies and Distributors	Business and Industrial	Industrials	Trading Companies and Distributors
+1041	1037	Transportation	Business and Industrial	Industrials	Transportation
+1042	1010	Manufacturing	Business and Industrial	Manufacturing	
+1043	1010	Medical and Biotechnology	Business and Industrial	Medical and Biotechnology	
+1044	1010	Mining and Quarrying	Business and Industrial	Mining and Quarrying	
+1045	1010	Science and Laboratory	Business and Industrial	Science and Laboratory	
+1046	1010	Signage	Business and Industrial	Signage	
+1047	1010	Small Business	Business and Industrial	Small Business	
+1048	1010	Waste Disposal and Recycling	Business and Industrial	Waste Disposal and Recycling	
+1049		Cannabis	Cannabis		
+1050	1049	Cannabis Consumables	Cannabis	Cannabis Consumables	
+1051	1050	Cannabis Drinks	Cannabis	Cannabis Consumables	Cannabis Drinks
+1052	1050	Cannabis Edibles	Cannabis	Cannabis Consumables	Cannabis Edibles
+1053	1049	Cannabis Equipment	Cannabis	Cannabis Equipment	
+1054	1049	Cannabis Stores	Cannabis	Cannabis Stores	
+1055	1049	Cannabis Stocks	Cannabis	Cannabis Stocks	
+1056	1049	CBD Consumables	Cannabis	CBD Consumables	
+1057	1049	CBD Topicals	Cannabis	CBD Topicals	
+1058		Clothing and Accessories	Clothing and Accessories		
+1059	1058	Clothing	Clothing and Accessories	Clothing	
+1060	1059	Children's Clothing	Clothing and Accessories	Clothing	Children's Clothing
+1061	1059	Maternity Clothing	Clothing and Accessories	Clothing	Maternity Clothing
+1062	1059	Men's Clothing	Clothing and Accessories	Clothing	Men's Clothing
+1063	1059	Sportswear	Clothing and Accessories	Clothing	Sportswear
+1064	1059	Swimwear	Clothing and Accessories	Clothing	Swimwear
+1065	1059	Underwear and Lingerie	Clothing and Accessories	Clothing	Underwear and Lingerie
+1066	1059	Wedding Dresses/Bridal Wear/Tuxedos	Clothing and Accessories	Clothing	Wedding Dresses/Bridal Wear/Tuxedos
+1067	1059	Women's Clothing	Clothing and Accessories	Clothing	Women's Clothing
+1068	1058	Clothing Accessories	Clothing and Accessories	Clothing Accessories	
+1069	1058	Costumes and Accessories	Clothing and Accessories	Costumes and Accessories	
+1070	1058	Footwear	Clothing and Accessories	Footwear	
+1071	1058	Footwear Accessories	Clothing and Accessories	Footwear Accessories	
+1072	1058	Handbags and Wallets	Clothing and Accessories	Handbags and Wallets	
+1073	1058	Jewelry and Watches	Clothing and Accessories	Jewelry and Watches	
+1074	1058	Sunglasses	Clothing and Accessories	Sunglasses	
+1075		Collectables and Antiques	Collectables and Antiques		
+1076	1075	Antiques	Collectables and Antiques	Antiques	
+1077	1075	Coins and Paper Money	Collectables and Antiques	Coins and Paper Money	
+1078	1075	Collectibles	Collectables and Antiques	Collectibles	
+1079	1075	Entertainment Memorabilia	Collectables and Antiques	Entertainment Memorabilia	
+1080	1075	Sports Memorabilia and Trading Cards	Collectables and Antiques	Sports Memorabilia and Trading Cards	
+1081	1075	Stamps	Collectables and Antiques	Stamps	
+1082		Computer Software	Computer Software		
+1083	1082	Browser Extensions	Computer Software	Browser Extensions	
+1084	1082	Downloadable Utilities	Computer Software	Downloadable Utilities	
+1085	1082	Enterprise Computer Software	Computer Software	Enterprise Computer Software	
+1086	1082	Personal Computer Software	Computer Software	Personal Computer Software	
+1087	1082	Toolbars	Computer Software	Toolbars	
+1088		Cosmetic Services	Cosmetic Services		
+1089	1088	Beauty Salons	Cosmetic Services	Beauty Salons	
+1090	1088	Hair Salons	Cosmetic Services	Hair Salons	
+1091	1088	Hair Removal	Cosmetic Services	Hair Removal	
+1092	1088	Hair Restoration	Cosmetic Services	Hair Restoration	
+1093	1088	Nail Salons	Cosmetic Services	Nail Salons	
+1094	1088	Med Spas	Cosmetic Services	Med Spas	
+1095	1088	Piercing and Tattooing	Cosmetic Services	Piercing and Tattooing	
+1096	1088	Tanning Salons	Cosmetic Services	Tanning Salons	
+1097		Consumer Electronics	Consumer Electronics		
+1098	1097	Arcade Equipment	Consumer Electronics	Arcade Equipment	
+1099	1097	Camcorders	Consumer Electronics	Camcorders	
+1100	1097	Cameras and Photo	Consumer Electronics	Cameras and Photo	
+1101	1100	Camera and Photo Accessories	Consumer Electronics	Cameras and Photo	Camera and Photo Accessories
+1102	1100	Cameras	Consumer Electronics	Cameras and Photo	Cameras
+1103	1100	Photo Applications	Consumer Electronics	Cameras and Photo	Photo Applications
+1104	1097	Circuit Boards and Components	Consumer Electronics	Circuit Boards and Components	
+1105	1097	Communications Electronics	Consumer Electronics	Communications Electronics	
+1106	1097	Computers	Consumer Electronics	Computers	
+1107	1106	Laptops	Consumer Electronics	Computers	Laptops
+1108	1106	Desktops	Consumer Electronics	Computers	Desktops
+1109	1097	E-Readers	Consumer Electronics	E-Readers	
+1110	1097	Electronics Accessories	Consumer Electronics	Electronics Accessories	
+1111	1097	Headphones	Consumer Electronics	Headphones	
+1112	1097	Home Theater Systems	Consumer Electronics	Home Theater Systems	
+1113	1097	Marine Electronics	Consumer Electronics	Marine Electronics	
+1114	1097	Mobile Phones and Accessories	Consumer Electronics	Mobile Phones and Accessories	
+1115	1097	Networking	Consumer Electronics	Networking	
+1116	1097	Printers/Copiers/Scanners/Fax	Consumer Electronics	Printers/Copiers/Scanners/Fax	
+1117	1097	Security Devices	Consumer Electronics	Security Devices	
+1118	1097	Tablets	Consumer Electronics	Tablets	
+1119	1097	Televisions	Consumer Electronics	Televisions	
+1120	1097	Video Games and Consoles	Consumer Electronics	Video Games	
+1121	1097	Video Games and Consoles	Consumer Electronics	Video Game Consoles	
+1122	1097	Video Game Console Accessories	Consumer Electronics	Video Game Console Accessories	
+1123		Consumer Packaged Goods	Consumer Packaged Goods		
+1124	1123	Baby and Toddler Products	Consumer Packaged Goods	Baby and Toddler Products	
+1125	1124	Diapers	Consumer Packaged Goods	Baby and Toddler Products	Diapers
+1126	1124	Nursing and Feeding Products	Consumer Packaged Goods	Baby and Toddler Products	Nursing and Feeding Products
+1127	1123	Back to School Supplies	Consumer Packaged Goods	Back to School Supplies	
+1128	1123	Barbeque	Consumer Packaged Goods	Barbeque	
+1129	1128	Charcoal	Consumer Packaged Goods	Barbeque	Charcoal
+1130	1128	Charcoal Lighter Fluids	Consumer Packaged Goods	Barbeque	Charcoal Lighter Fluids
+1131	1123	Beverages	Consumer Packaged Goods	Beverages	
+1132	1131	Carbonated Soft Drinks	Consumer Packaged Goods	Beverages	Carbonated Soft Drinks
+1133	1131	Coffee & Tea	Consumer Packaged Goods	Beverages	Coffee & Tea
+1134	1131	Drink Mixes	Consumer Packaged Goods	Beverages	Drink Mixes
+1135	1131	Juices	Consumer Packaged Goods	Beverages	Juices
+1136	1131	Sports/Energy Drinks	Consumer Packaged Goods	Beverages	Sports/Energy Drinks
+1137	1131	Water	Consumer Packaged Goods	Beverages	Water
+1138	1123	Cosmetics	Consumer Packaged Goods	Cosmetics	
+1139	1138	Cosmetics Accessories	Consumer Packaged Goods	Cosmetics	Cosmetics Accessories
+1140	1138	Cosmetics-Nail	Consumer Packaged Goods	Cosmetics	Cosmetics-Nail
+1141	1138	Eye	Consumer Packaged Goods	Cosmetics	Eye
+1142	1138	Facial	Consumer Packaged Goods	Cosmetics	Facial
+1143	1138	Lip	Consumer Packaged Goods	Cosmetics	Lip
+1144	1138	Storage	Consumer Packaged Goods	Cosmetics	Storage
+1145	1123	Disposable Tableware	Consumer Packaged Goods	Disposable Tableware	
+1146	1145	Cups & Plates	Consumer Packaged Goods	Disposable Tableware	Cups & Plates
+1147	1145	Disposable Tableware	Consumer Packaged Goods	Disposable Tableware	Disposable Tableware
+1148	1123	Foils, Wraps, & Bags	Consumer Packaged Goods	Foils, Wraps, & Bags	
+1149	1148	Foil Pans	Consumer Packaged Goods	Foils, Wraps, & Bags	Foil Pans
+1150	1148	Foils & Wraps	Consumer Packaged Goods	Foils, Wraps, & Bags	Foils & Wraps
+1151	1148	Food & Trash Bags	Consumer Packaged Goods	Foils, Wraps, & Bags	Food & Trash Bags
+1152	1123	Fragrance	Consumer Packaged Goods	Fragrance	
+1153	1152	Fragrances - Women's	Consumer Packaged Goods	Fragrance	Fragrances - Women's
+1154	1152	Shaving Lotion/Men's Fragrance	Consumer Packaged Goods	Fragrance	Shaving Lotion/Men's Fragrance
+1155	1123	Frozen	Consumer Packaged Goods	Frozen	
+1156	1155	Frozen Baked Goods	Consumer Packaged Goods	Frozen	Frozen Baked Goods
+1157	1155	Frozen Beverages	Consumer Packaged Goods	Frozen	Frozen Beverages
+1158	1155	Frozen Desserts	Consumer Packaged Goods	Frozen	Frozen Desserts
+1159	1155	Frozen Fruits & Vegetables	Consumer Packaged Goods	Frozen	Frozen Fruits & Vegetables
+1160	1155	Frozen Juices	Consumer Packaged Goods	Frozen	Frozen Juices
+1161	1155	Frozen Meals	Consumer Packaged Goods	Frozen	Frozen Meals
+1162	1155	Frozen Meat/Poultry/Seafood	Consumer Packaged Goods	Frozen	Frozen Meat/Poultry/Seafood
+1163	1155	Frozen Snacks	Consumer Packaged Goods	Frozen	Frozen Snacks
+1164	1155	Other Frozen	Consumer Packaged Goods	Frozen	Other Frozen
+1165	1123	General Food	Consumer Packaged Goods	General Food	
+1166	1165	Baby Food	Consumer Packaged Goods	General Food	Baby Food
+1167	1165	Bakery	Consumer Packaged Goods	General Food	Bakery
+1168	1165	Baking	Consumer Packaged Goods	General Food	Baking
+1169	1165	Breakfast	Consumer Packaged Goods	General Food	Breakfast
+1170	1165	Candy	Consumer Packaged Goods	General Food	Candy
+1171	1165	Condiments & Sauces	Consumer Packaged Goods	General Food	Condiments & Sauces
+1172	1165	Cookies & Crackers	Consumer Packaged Goods	General Food	Cookies & Crackers
+1173	1165	Fruit	Consumer Packaged Goods	General Food	Fruit
+1174	1165	Meals	Consumer Packaged Goods	General Food	Meals
+1175	1165	Snacks	Consumer Packaged Goods	General Food	Snacks
+1176	1165	Vegetables	Consumer Packaged Goods	General Food	Vegetables
+1177	1123	General Merchandise	Consumer Packaged Goods	General Merchandise	
+1178	1123	Grooming Supplies	Consumer Packaged Goods	Grooming Supplies	
+1179	1123	Hair Care	Consumer Packaged Goods	Hair Care	
+1180	1179	Hair Accessories	Consumer Packaged Goods	Hair Care	Hair Accessories
+1181	1179	Hair Coloring	Consumer Packaged Goods	Hair Care	Hair Coloring
+1182	1179	Hair Conditioner	Consumer Packaged Goods	Hair Care	Hair Conditioner
+1183	1179	Hair Growth Products	Consumer Packaged Goods	Hair Care	Hair Growth Products
+1184	1179	Hair Spray/Spritz	Consumer Packaged Goods	Hair Care	Hair Spray/Spritz
+1185	1179	Hair Styling Gel/Mousse	Consumer Packaged Goods	Hair Care	Hair Styling Gel/Mousse
+1186	1179	Home Permanent/Relaxer Kits	Consumer Packaged Goods	Hair Care	Home Permanent/Relaxer Kits
+1187	1179	Shampoo	Consumer Packaged Goods	Hair Care	Shampoo
+1188	1123	HFSS Products [High Fat, Sugar, Salt]	Consumer Packaged Goods	HFSS Products [High Fat, Sugar, Salt]	
+1189	1123	Home Care	Consumer Packaged Goods	Home Care	
+1190	1189	Household Cleaning	Consumer Packaged Goods	Home Care	Household Cleaning
+1191	1189	Laundry	Consumer Packaged Goods	Home Care	Laundry
+1192	1123	Hosiery	Consumer Packaged Goods	Hosiery	
+1193	1192	Pantyhose/Nylons	Consumer Packaged Goods	Hosiery	Pantyhose/Nylons
+1194	1192	Socks	Consumer Packaged Goods	Hosiery	Socks
+1195	1192	Tights	Consumer Packaged Goods	Hosiery	Tights
+1196	1123	Household/Plastics/Storage	Consumer Packaged Goods	Household/Plastics/Storage	
+1197	1196	Bottles	Consumer Packaged Goods	Household/Plastics/Storage	Bottles
+1198	1196	Drinkware	Consumer Packaged Goods	Household/Plastics/Storage	Drinkware
+1199	1196	Household Plastics	Consumer Packaged Goods	Household/Plastics/Storage	Household Plastics
+1200	1196	Kitchen Storage	Consumer Packaged Goods	Household/Plastics/Storage	Kitchen Storage
+1201	1123	Meal Kits	Consumer Packaged Goods	Meal Kits	
+1202	1123	Miscellaneous General Merch	Consumer Packaged Goods	Miscellaneous General Merch	
+1203	1123	Office/School Supplies	Consumer Packaged Goods	Office/School Supplies	
+1204	1203	Children's Art Supplies	Consumer Packaged Goods	Office/School Supplies	Children's Art Supplies
+1205	1203	Computer Disks Frmtd/UnFrmtd	Consumer Packaged Goods	Office/School Supplies	Computer Disks Frmtd/UnFrmtd
+1206	1203	Office Products	Consumer Packaged Goods	Office/School Supplies	Office Products
+1207	1203	Writing Instruments	Consumer Packaged Goods	Office/School Supplies	Writing Instruments
+1208	1123	Over the Counter Medication	Consumer Packaged Goods	Over the Counter Medication	
+1209	1123	Paper Products	Consumer Packaged Goods	Paper Products	
+1210	1209	Facial Tissue	Consumer Packaged Goods	Paper Products	Facial Tissue
+1211	1209	Paper Napkins	Consumer Packaged Goods	Paper Products	Paper Napkins
+1212	1209	Paper Towels	Consumer Packaged Goods	Paper Products	Paper Towels
+1213	1209	Toilet Tissue	Consumer Packaged Goods	Paper Products	Toilet Tissue
+1214	1123	Personal Care	Consumer Packaged Goods	Personal Care	
+1215	1123	Personal Cleansing	Consumer Packaged Goods	Personal Cleansing	
+1216	1215	Bath Products	Consumer Packaged Goods	Personal Cleansing	Bath Products
+1217	1215	Bath/Body Scrubbers/Massagers	Consumer Packaged Goods	Personal Cleansing	Bath/Body Scrubbers/Massagers
+1218	1215	Deodorant	Consumer Packaged Goods	Personal Cleansing	Deodorant
+1219	1215	Moist Towelettes	Consumer Packaged Goods	Personal Cleansing	Moist Towelettes
+1220	1215	Soap	Consumer Packaged Goods	Personal Cleansing	Soap
+1221	1123	Pest Control	Consumer Packaged Goods	Pest Control	
+1222	1221	Outdoor Insect/Rodent Control Chem	Consumer Packaged Goods	Pest Control	Outdoor Insect/Rodent Control Chem
+1223	1221	Pest Control	Consumer Packaged Goods	Pest Control	Pest Control
+1224	1123	Pet Care	Consumer Packaged Goods	Pet Care	
+1225	1224	Cat/Dog Litter	Consumer Packaged Goods	Pet Care	Cat/Dog Litter
+1226	1224	Pet Food	Consumer Packaged Goods	Pet Care	Pet Food
+1227	1224	Pet Supplies	Consumer Packaged Goods	Pet Care	Pet Supplies
+1228	1224	Pet Treats	Consumer Packaged Goods	Pet Care	Pet Treats
+1229	1123	Refrigerated	Consumer Packaged Goods	Refrigerated	
+1230	1229	Dairy	Consumer Packaged Goods	Refrigerated	Dairy
+1231	1229	Refrigerated Baked Goods	Consumer Packaged Goods	Refrigerated	Refrigerated Baked Goods
+1232	1229	Refrigerated Beverages	Consumer Packaged Goods	Refrigerated	Refrigerated Beverages
+1233	1229	Refrigerated Condiments	Consumer Packaged Goods	Refrigerated	Refrigerated Condiments
+1234	1229	Refrigerated Desserts	Consumer Packaged Goods	Refrigerated	Refrigerated Desserts
+1235	1229	Refrigerated Dough	Consumer Packaged Goods	Refrigerated	Refrigerated Dough
+1236	1229	Refrigerated Meals	Consumer Packaged Goods	Refrigerated	Refrigerated Meals
+1237	1229	Refrigerated Meats	Consumer Packaged Goods	Refrigerated	Refrigerated Meats
+1238	1229	Refrigerated Miscellaneous	Consumer Packaged Goods	Refrigerated	Refrigerated Miscellaneous
+1239	1123	Religious Items	Consumer Packaged Goods	Religious Items	
+1240	1123	Shaving	Consumer Packaged Goods	Shaving	
+1241	1240	Blades	Consumer Packaged Goods	Shaving	Blades
+1242	1240	Razors	Consumer Packaged Goods	Shaving	Razors
+1243	1240	Shaving Cream	Consumer Packaged Goods	Shaving	Shaving Cream
+1244	1123	Skin Care	Consumer Packaged Goods	Skin Care	
+1245	1244	Hand & Body Lotion	Consumer Packaged Goods	Skin Care	Hand & Body Lotion
+1246	1244	Skin Care	Consumer Packaged Goods	Skin Care	Skin Care
+1247	1244	Suntan Products	Consumer Packaged Goods	Skin Care	Suntan Products
+1248	1123	Toys and Games	Consumer Packaged Goods	Toys and Games	
+1249	1248	Games	Consumer Packaged Goods	Toys and Games	Games
+1250	1248	Outdoor Play Equipment	Consumer Packaged Goods	Toys and Games	Outdoor Play Equipment
+1251	1248	Puzzles	Consumer Packaged Goods	Toys and Games	Puzzles
+1252	1248	Toys	Consumer Packaged Goods	Toys and Games	Toys
+1253	1123	Vitamins and Supplements	Consumer Packaged Goods	Vitamins and Supplements	
+1254	1253	Digestive Supplements	Consumer Packaged Goods	Vitamins and Supplements	Digestive Supplements
+1255	1253	Weightloss Supplements	Consumer Packaged Goods	Vitamins and Supplements	Weightloss Supplements
+1256	1123	Water Treatment	Consumer Packaged Goods	Water Treatment	
+1257	1256	Water Filter/Devices	Consumer Packaged Goods	Water Treatment	Water Filter/Devices
+1258	1256	Water Softeners/Treatment	Consumer Packaged Goods	Water Treatment	Water Softeners/Treatment
+1259		Dating			
+1260	1259	Casual Relationships	Dating	Casual Relationships	
+1261	1259	Serious Relationships	Dating	Serious Relationships	
+1262		Debated Sensitive Social Issue	Debated Sensitive Social Issue		
+1263		Durable Goods	Durable Goods		
+1264	1263	Electronics/Photography	Durable Goods	Electronics/Photography	
+1265	1264	Batteries	Durable Goods	Electronics/Photography	Batteries
+1266	1264	Blank Audio/Video Media	Durable Goods	Electronics/Photography	Blank Audio/Video Media
+1267	1264	Photography Supplies	Durable Goods	Electronics/Photography	Photography Supplies
+1268	1263	Furniture	Durable Goods	Furniture	
+1269	1268	Indoor Furniture	Durable Goods	Furniture	Indoor Furniture
+1270	1268	Outdoor Furniture	Durable Goods	Furniture	Outdoor Furniture
+1271	1263	Grooming Supplies	Durable Goods	Grooming Supplies	
+1272	1271	Electric Shaver Groomer	Durable Goods	Grooming Supplies	Electric Shaver Groomer
+1273	1271	Hair Appliances	Durable Goods	Grooming Supplies	Hair Appliances
+1274	1263	Tools and Hardware	Durable Goods	Tools and Hardware	
+1275	1274	Consumer Hardware Supplies	Durable Goods	Tools and Hardware	Consumer Hardware Supplies
+1276	1274	Industrial Hardware Supplies	Durable Goods	Tools and Hardware	Industrial Hardware Supplies
+1277	1263	Home and Garden Products	Durable Goods	Home and Garden Products	
+1278	1277	Bathroom Accessories	Durable Goods	Home and Garden Products	Bathroom Accessories
+1279	1277	Bedroom Furniture and Accessories	Durable Goods	Home and Garden Products	Bedroom Furniture and Accessories
+1280	1277	Carpets and Rugs	Durable Goods	Home and Garden Products	Carpets and Rugs
+1281	1277	Fireplaces	Durable Goods	Home and Garden Products	Fireplaces
+1282	1277	Home Decor	Durable Goods	Home and Garden Products	Home Decor
+1283	1277	Housewares	Durable Goods	Home and Garden Products	Housewares
+1284	1277	Kitchen and Dining Products	Durable Goods	Home and Garden Products	Kitchen and Dining Products
+1285	1277	Lawn and Garden Products	Durable Goods	Home and Garden Products	Lawn and Garden Products
+1286	1277	Lighting	Durable Goods	Home and Garden Products	Lighting
+1287	1277	Linens and Bedding	Durable Goods	Home and Garden Products	Linens and Bedding
+1288	1277	Plants	Durable Goods	Home and Garden Products	Plants
+1289	1263	Household Appliances	Durable Goods	Household Appliances	
+1290	1263	Luggage and Bags	Durable Goods	Luggage and Bags	
+1291		Dieting and Weightloss	Dieting and Weightloss		
+1292	1291	Food Logging	Dieting and Weightloss	Food Logging	
+1293	1291	Weightloss Servies	Dieting and Weightloss	Weightloss Servies	
+1294	1291	Workout and Step Tracking Applications	Dieting and Weightloss	Workout and Step Tracking Applications	
+1295		Education and Careers	Education and Careers		
+1296	1295	Adult Education	Education and Careers	Adult Education	
+1297	1295	Certificaiton Programs	Education and Careers	Certificaiton Programs	
+1298	1295	Colleges and Universities	Education and Careers	Colleges and Universities	
+1299	1298	Post-Graduate Education	Education and Careers	Colleges and Universities	Post-Graduate Education
+1300	1295	Education Applications	Education and Careers	Education Applications	
+1301	1295	Employment Agencies	Education and Careers	Employment Agencies	
+1302	1295	Higher Education	Education and Careers	Higher Education	
+1303	1295	Language Learning	Education and Careers	Language Learning	
+1304	1295	Online Education	Education and Careers	Online Education	
+1305	1295	Primary Education	Education and Careers	Primary Education	
+1306	1295	Remote work and school	Education and Careers	Remote work and school	
+1307	1306	Distance learning	Education and Careers	Remote work and school	Distance learning
+1308	1306	Homeschooling	Education and Careers	Remote work and school	Homeschooling
+1309	1306	Online Surveys	Education and Careers	Remote work and school	Online Surveys
+1310	1306	Multi-Level Marketing	Education and Careers	Remote work and school	Multi-Level Marketing
+1311	1306	Telecommuting	Education and Careers	Remote work and school	Telecommuting
+1312	1295	Study Skills	Education and Careers	Study Skills	
+1313	1295	Teaching Resources	Education and Careers	Teaching Resources	
+1314	1295	Trade Schools	Education and Careers	Trade Schools	
+1315		Events and Performances	Events and Performances		
+1316	1315	Auctions	Events and Performances	Auctions	
+1317	1315	Cinemas and Movie Events	Events and Performances	Cinemas and Movie Events	
+1318	1315	Comedy Events	Events and Performances	Comedy Events	
+1319	1315	Concerts	Events and Performances	Concerts	
+1320	1315	Conferences, Lectures and Workshops	Events and Performances	Conferences, Lectures and Workshops	
+1321	1315	Exhibitions	Events and Performances	Exhibitions	
+1322	1315	Fan Conventions	Events and Performances	Fan Conventions	
+1323	1315	Fashion Events	Events and Performances	Fashion Events	
+1324	1315	Nightlife Experiences	Events and Performances	Nightlife Experiences	
+1325	1315	Sporting Events	Events and Performances	Sporting Events	
+1326	1315	Seasonal and Holiday Events	Events and Performances	Seasonal and Holiday Events	
+1327	1315	Theatre and Musicals	Events and Performances	Theatre and Musicals	
+1328		Family and Parenting	Family and Parenting		
+1329	1328	Childcare	Family and Parenting	Childcare	
+1330	1329	Day Care Centers	Family and Parenting	Childcare	Day Care Centers
+1331	1329	Nanny Services	Family and Parenting	Childcare	Nanny Services
+1332	1328	Genealogy and Family Trees	Family and Parenting	Genealogy and Family Trees	
+1333	1328	Kids Activities	Family and Parenting	Kids Activities	
+1334	1328	Senior Living	Family and Parenting	Senior Living	
+1335		Finance and Insurance	Finance and Insurance		
+1336	1335	Accountants and Bookkeepers	Finance and Insurance	Accountants and Bookkeepers	
+1337	1335	Banking	Finance and Insurance	Banking	
+1338	1335	Credit and Debt Repair/Credit Reporting	Finance and Insurance	Credit and Debt Repair/Credit Reporting	
+1339	1335	Credit Cards	Finance and Insurance	Credit Cards	
+1340	1335	Insurance	Finance and Insurance	Insurance	
+1341	1340	Auto Insurance	Finance and Insurance	Insurance	Auto Insurance
+1342	1340	Home Insurance	Finance and Insurance	Insurance	Home Insurance
+1343	1340	Life Insurance	Finance and Insurance	Insurance	Life Insurance
+1344	1340	Medical Insurance	Finance and Insurance	Insurance	Medical Insurance
+1345	1340	Pet Insurance	Finance and Insurance	Insurance	Pet Insurance
+1346	1340	Travel Insurance	Finance and Insurance	Insurance	Travel Insurance
+1347	1335	Insurance Coverage Apps	Finance and Insurance	Insurance Coverage Apps	
+1348	1335	Mortgage Lenders and Brokers	Finance and Insurance	Mortgage Lenders and Brokers	
+1349	1335	Payday and Emergency Loans	Finance and Insurance	Payday and Emergency Loans	
+1350	1335	Retirement Planning	Finance and Insurance	Retirement Planning	
+1351	1335	Stocks and Investments	Finance and Insurance	Stocks and Investments	
+1352	1335	Financial Investment and Management Applications	Finance and Insurance	Financial Investment and Management Applications	
+1353	1335	Student Financial Aid	Finance and Insurance	Student Financial Aid	
+1354	1335	Tax Preparation Services	Finance and Insurance	Tax Preparation Services	
+1355		Food and Beverage Services	Food and Beverage Services		
+1356	1355	Bakeries	Food and Beverage Services	Bakeries	
+1357	1355	Catering	Food and Beverage Services	Catering	
+1358	1355	Fast Food	Food and Beverage Services	Fast Food	
+1359	1355	Food Delivery Services	Food and Beverage Services	Food Delivery Services	
+1360	1355	Restaurants	Food and Beverage Services	Restaurants	
+1361		Gambling	Gambling		
+1362	1361	Casinos	Gambling	Casinos	
+1363	1361	Contests	Gambling	Contests	
+1364	1361	Give Aways	Gambling	Give Aways	
+1365	1361	Lottery	Gambling	Lottery	
+1366	1361	Sports Betting	Gambling	Sports Betting	
+1367	1361	Virtual Betting	Gambling	Virtal Betting	
+1368		Green/Eco	Green/Eco		
+1369	1368	Green/Eco Products	Green/Eco	Green/Eco Products	
+1370	1368	Green/Eco Services	Green/Eco	Green/Eco Services	
+1371		Gifts and Holiday Items	Gifts and Holiday Items		
+1372	1371	Flowers	Gifts and Holiday Items	Flowers	
+1373	1371	Gift Baskets	Gifts and Holiday Items	Gift Baskets	
+1374	1371	Gift Cards and Coupons	Gifts and Holiday Items	Gift Cards and Coupons	
+1375	1371	Gift Certificates	Gifts and Holiday Items	Gift Certificates	
+1376	1371	Greeting Cards	Gifts and Holiday Items	Greeting Cards	
+1377	1371	Party Goods	Gifts and Holiday Items	Party Goods	
+1378		Health and Medical Services	Health and Medical Services		
+1379	1378	Alternative and Natural Medicine	Health and Medical Services	Alternative and Natural Medicine	
+1380	1378	Assisted Living	Health and Medical Services	Assisted Living	
+1381	1378	Chiropractors	Health and Medical Services	Chiropractors	
+1382	1378	Clinical Research	Health and Medical Services	Clinical Research	
+1383	1378	Cosmetic Medical Services	Health and Medical Services	Cosmetic Medical Services	
+1384	1378	Dental Care	Health and Medical Services	Dental Care	
+1385	1378	Dermatology	Health and Medical Services	Dermatology	
+1386	1378	Drugstores and Pharmacies	Health and Medical Services	Drugstores and Pharmacies	
+1387	1378	Fertility and Family Planning	Health and Medical Services	Fertility and Family Planning	
+1388	1378	General Practitioners	Health and Medical Services	General Practitioners	
+1389	1378	Home Healthcare	Health and Medical Services	Home Healthcare	
+1390	1378	Hospitals	Health and Medical Services	Hospitals	
+1391	1378	Mental Health	Health and Medical Services	Mental Health	
+1392	1378	Physical Therapists	Health and Medical Services	Physical Therapists	
+1393	1378	Service Provider Search and Scheduling	Health and Medical Services	Service Provider Search and Scheduling	
+1394	1378	Symptom Monitoring Apps	Health and Medical Services	Symptom Monitoring Apps	
+1395	1378	Vision Care	Health and Medical Services	Vision Care	
+1396		Home and Garden Services	Home and Garden Services		
+1397	1396	Appliance Repair	Home and Garden Services	Appliance Repair	
+1398	1396	Business and Home Security Services	Home and Garden Services	Business and Home Security Services	
+1399	1396	Carpeting and Flooring Services	Home and Garden Services	Carpeting and Flooring Services	
+1400	1396	Do It Yourself Applications	Home and Garden Services	Do It Yourself Applications	
+1401	1396	Emergency Preparedness	Home and Garden Services	Emergency Preparedness	
+1402	1396	Flood, Fire and Gas Safety	Home and Garden Services	Flood, Fire and Gas Safety	
+1403	1396	Gas and Electric Services	Home and Garden Services	Gas and Electric Services	
+1404	1396	Home Improvement and Repair	Home and Garden Services	Home Improvement and Repair	
+1405	1396	Home Security and Monitoring Applications	Home and Garden Services	Home Security and Monitoring Applications	
+1406	1396	Home Service Provider Review	Home and Garden Services	Home Service Provider Review	
+1407	1396	Housekeeping Services	Home and Garden Services	Housekeeping Services	
+1408	1396	Landscaping Services	Home and Garden Services	Landscaping Services	
+1409	1396	Lawn and Garden Services	Home and Garden Services	Lawn and Garden Services	
+1410	1396	Pest Exterminators	Home and Garden Services	Pest Exterminators	
+1411	1396	Plumbers	Home and Garden Services	Plumbers	
+1412	1396	Pool and Spa Installation and Maintenance	Home and Garden Services	Pool and Spa Installation and Maintenance	
+1413	1396	Remodeling and Construction	Home and Garden Services	Remodeling and Construction	
+1414	1396	Water Services	Home and Garden Services	Water Services	
+1415	1396	Window Installation and Treatments	Home and Garden Services	Window Installation and Treatments	
+1416		Legal Services	Legal Services		
+1417	1416	Lawyers	Legal Services	Lawyers	
+1418	1416	Bail Bonds	Legal Services	Bail Bonds	
+1419		Media	Media		
+1420	1419	Blogs/Forums/Social Networks	Media	Blogs/Forums/Social Networks	
+1421	1419	Book Reading and Review Applications	Media	Book Reading and Review Applications	
+1422	1419	Books and Audio Books	Media	Books and Audio Books	
+1423	1419	Casual Games	Media	Casual Games	
+1424	1423	Casual Games Apps	Media	Casual Games	Casual Games Apps
+1425	1419	Core Gaming	Media	Core Gaming	
+1426	1423	Core Gaming Apps	Media	Core Gaming	Core Gaming Apps
+1427	1419	CDs and Vinyl Records	Media	CDs and Vinyl Records	
+1428	1419	DVDs	Media	DVDs	
+1429	1419	Live Television	Media	Live Television	
+1430	1419	Magazines and Newspapers	Media	Magazines and Newspapers	
+1431	1419	Music and Video Streaming Services	Media	Music and Video Streaming Services	
+1432	1419	News and Analysis	Media	News and Analysis	
+1433	1419	Radio and Podcasts	Media	Radio and Podcasts	
+1434	1419	Sports	Media	Sports	
+1435	1434	Fantasy Sports	Media	Sports	Fantasy Sports
+1436	1434	Sports Highlights	Media	Sports	Sports Highlights
+1437	1434	Team News and Analysis	Media	Sports	Team News and Analysis
+1438	1419	Utilities Apps	Media	Utilities Apps	
+1439	1438	Productivity Apps	Media	Utilities Apps	Productivity Apps
+1440	1438	Reference Apps	Media	Utilities Apps	Reference Apps
+1441	1438	Search Engine Apps	Media	Utilities Apps	Search Engine Apps
+1442	1438	Weather Apps	Media	Utilities Apps	Weather Apps
+1443		Metals	Metals		
+1444	1443	Coin Trade In	Metals	Coin Trade In	
+1445	1443	Gold Trade In	Metals	Gold Trade In	
+1446	1443	Platinum Trade In	Metals	Platinum Trade In	
+1447	1443	Silver Trade In	Metals	Silver Trade In	
+1448		Non-Fiat Currency	Non-Fiat Currency		
+1449	1448	Cryptocurrency Exchanges	Non-Fiat Currency	Cryptocurrency Exchanges	
+1450	1448	Cryptocurrency Stock	Non-Fiat Currency	Cryptocurrency Stock	
+1451	1448	NFTs	Non-Fiat Currency	NFTs	
+1452		Non-Profits	Non-Profits		
+1453	1452	Charities and Donations	Non-Profits	Charities and Donations	
+1454	1452	Civic Organizations	Non-Profits	Civic Organizations	
+1455	1452	Federations and Professional Associations	Non-Profits	Federations and Professional Associations	
+1456	1452	Military Organizations	Non-Profits	Military Organizations	
+1457	1452	Non-Governmental Organizations	Non-Profits	Non-Governmental Organizations	
+1458	1452	Public Service Announcements	Non-Profits	Public Service Announcements	
+1459	1452	Scholarships	Non-Profits	Scholarships	
+1460		Pet Ownership	Pet Ownership		
+1461	1460	Pet Adoption	Pet Ownership	Pet Adoption	
+1462	1460	Pet Breeders	Pet Ownership	Pet Breeders	
+1463	1460	Pet Care and Supply Applications	Pet Ownership	Pet Care and Supply Applications	
+1464	1460	Pet Grooming	Pet Ownership	Pet Grooming	
+1465	1460	Pet Sitting	Pet Ownership	Pet Sitting	
+1466	1460	Veterinary Services	Pet Ownership	Veterinary Services	
+1467		Personal/Consumer Telcom	Personal/Consumer Telecom		
+1468	1467	Home Internet Services	Personal/Consumer Telecom	Home Internet Services	
+1469	1467	Home Phone Services	Personal/Consumer Telecom	Home Phone Services	
+1470	1467	Home Television Services	Personal/Consumer Telecom	Home Television Services	
+1471	1467	Mobile Phone Plans	Personal/Consumer Telecom	Mobile Phone Plans	
+1472	1467	Prepaid International Phone Services	Personal/Consumer Telecom	Prepaid International Phone Services	
+1473		Pharmaceuticals	Pharmaceuticals		
+1474		Politics	Politics		
+1475	1474	Ballot measures	Politics	Ballot measures	
+1476	1474	Elections	Politics	Elections	
+1477	1474	Political Action Committees	Politics	Political Action Committees	
+1478	1474	Political Analysis and Opinion	Politics	Political Analysis and Opinion	
+1479	1474	Political candidates	Politics	Political candidates	
+1480	1474	Political Donations	Politics	Political Donations	
+1481	1474	Referendums or promoting causes; eg: Healthcare reform, energy trades (Oil/Solar), etc...	Politics	Referendums or promoting causes; eg: Healthcare reform, energy trades (Oil/Solar), etc...	
+1482		Real Estate	Real Estate		
+1483	1482	Commercial Real Estate	Real Estate	Commercial Real Estate	
+1484	1482	Real Estate Rentals	Real Estate	Real Estate Rentals	
+1485	1482	Real Estate Sales	Real Estate	Real Estate Sales	
+1486	1482	Real Estate Services For Owners	Real Estate	Real Estate Services For Owners	
+1487		Religion & Spirituality	Religion & Spirituality		
+1488	1487	Astrology	Religion & Spirituality	Astrology	
+1489	1487	Prayer and Mindfullness Applications	Religion & Spirituality	Prayer and Mindfullness Applications	
+1490	1487	Prayer and worship services	Religion & Spirituality	Prayer and Worship Services	
+1491	1487	Religious causes	Religion & Spirituality	Religious Causes	
+1492	1487	Religious charities	Religion & Spirituality	Religious Charities	
+1493	1487	Religious organizaitions	Religion & Spirituality	Religious Organizaitions	
+1494		Retail	Retail		
+1495	1494	Arts and Crafts Supplies	Retail	Arts and Crafts Supplies	
+1496	1494	Cell Phone Stores	Retail	Cell Phone Stores	
+1497	1494	Clothing Stores	Retail	Clothing Stores	
+1498	1494	Department Stores	Retail	Department Stores	
+1499	1494	eCommerce	Retail	eCommerce	
+1500	1494	Factory Outlet Stores	Retail	Factory Outlet Stores	
+1501	1494	Grocery Stores and Supermarkets	Retail	Grocery Stores and Supermarkets	
+1502	1494	Hardware Stores	Retail	Hardware Stores	
+1503	1494	Musical Instruments and Record Stores	Retail	Musical Instruments and Record Stores	
+1504	1494	Pawn Shops	Retail	Pawn Shops	
+1505	1494	Pet and Pet Supply Stores	Retail	Pet and Pet Supply Stores	
+1506	1494	Shopping Malls	Retail	Shopping Malls	
+1507	1494	Specialty Stores	Retail	Specialty Stores	
+1508	1494	Sporting Goods Stores	Retail	Sporting Goods Stores	
+1509	1494	Ticket Services	Retail	Ticket Services	
+1510		Fitness Activities	Fitness Activities		
+1511	1510	Dance Studios	Fitness Activities	Dance Studios	
+1512	1510	Gyms and Health Clubs	Fitness Activities	Gyms and Health Clubs	
+1513	1510	Participant Sports Leagues	Fitness Activities	Participant Sports Leagues	
+1514	1510	Personal Trainers	Fitness Activities	Personal Trainers	
+1515	1510	Self Defense and Martial Arts Classes	Fitness Activities	Self Defense and Martial Arts Classes	
+1516	1510	Swimming Facilities	Fitness Activities	Swimming Facilities	
+1517	1510	Workout and Step Tracking Applications	Fitness Activities	Workout and Step Tracking Applications	
+1518	1510	Yoga Studios	Fitness Activities	Yoga Studios	
+1519		Sexual Health	Sexual Health		
+1520	1519	Contraceptives	Sexual Health	Contraceptives	
+1521	1519	Doctor Perscribed Medicines	Sexual Health	Doctor Perscribed Medicines	
+1522	1519	Fertility Tracking Applications	Sexual Health	Fertility Tracking Applications	
+1523	1519	Non-perscribed Performance Enhancers	Sexual Health	Non-Perscribed Performance Enhancers	
+1524		Sporting Goods	Sporting Goods		
+1525	1524	Athletics Equipment	Sporting Goods	Athletics Equipment	
+1526	1524	Exercise and Fitness Equipment	Sporting Goods	Exercise and Fitness Equipment	
+1527	1524	Indoor Games Equipment	Sporting Goods	Indoor Games Equipment	
+1528	1524	Outdoor Recreation Equipment	Sporting Goods	Outdoor Recreation Equipment	
+1529		Travel and Tourism	Travel and Tourism		
+1530	1529	Accomodations	Travel and Tourism	Accomodations	
+1531	1530	Bed and Breakfasts	Travel and Tourism	Accomodations	Bed and Breakfasts
+1532	1530	Camping and Camp Grounds	Travel and Tourism	Accomodations	Camping and Camp Grounds
+1533	1530	Hotels and Resorts	Travel and Tourism	Accomodations	Hotels and Resorts
+1534	1530	Motels	Travel and Tourism	Accomodations	Motels
+1535	1530	Timeshares	Travel and Tourism	Accomodations	Timeshares
+1536	1530	Vacation Rentals	Travel and Tourism	Accomodations	Vacation Rentals
+1537	1529	Air Travel	Travel and Tourism	Air Travel	
+1538	1529	Cruises	Travel and Tourism	Cruises	
+1539	1529	Rail Travel	Travel and Tourism	Rail Travel	
+1540	1529	Sightseeing Tours and Activities	Travel and Tourism	Sightseeing Tours and Activities	
+1541	1529	Travel Agents and Online Travel Services	Travel and Tourism	Travel Agents and Online Travel Services	
+1542	1529	Travel Packages	Travel and Tourism	Travel Packages	
+1543	1529	Travel Planning and Itinerary Management Applications	Travel and Tourism	Travel Planning and Itinerary Management Applications	
+1544		Tobacco	Tobacco		
+1545	1544	Cigars	Tobacco	Cigars	
+1546	1544	Cigarettes	Tobacco	Cigarettes	
+1547	1544	Smokeless Tobacco	Tobacco	Smokeless Tobacco	
+1548	1544	Vaping	Tobacco	Vaping	
+1549	1544	Vaping Cartridges	Tobacco	Vaping Cartridges	
+1550	1544	Vaporizors	Tobacco	Vaporizors	
+1551		Vehicles	Vehicles		
+1552	1551	Automotive Leasing	Vehicles	Automotive Leasing	
+1553	1551	Automotive Ownership	Vehicles	Automotive Ownership	
+1554	1553	New vehicle Ownership	Vehicles	Automotive Ownership	New Vehicle Ownership
+1555	1553	Pre-owned Automotive Ownership	Vehicles	Automotive Ownership	Pre-owned Automotive Ownership
+1556	1551	Automotive Products	Vehicles	Automotive Products	
+1557	1556	Automotive Care Products	Vehicles	Automotive Products	Automotive Care Products
+1558	1556	Automotive Parts and Accessories	Vehicles	Automotive Products	Automotive Parts and Accessories
+1559	1556	Aftermarket Parts and Accessories	Vehicles	Automotive Products	Aftermarket Parts and Accessories
+1560	1551	Automotive Services	Vehicles	Automotive Services	
+1561	1560	Auto Towing	Vehicles	Automotive Services	Auto Towing
+1562	1560	Auto Repair	Vehicles	Automotive Services	Auto Repair
+1563	1560	Car Wash	Vehicles	Automotive Services	Car Wash
+1564	1551	Automotive Sales Applications	Vehicles	Automotive Sales Applications	
+1565	1551	Ride-sharing Services	Vehicles	Ride-sharing Services	
+1566	1551	Taxi Services	Vehicles	Taxi Services	
+1567	1551	Vehicle Rental	Vehicles	Vehicle Rental	
+1568	1551	Vehicle Type	Vehicles	Vehicle Type	
+1569	1568	Boats	Vehicles	Vehicle Type	Boats
+1570	1568	Diesel Vehicles	Vehicles	Vehicle Type	Diesel Vehicles
+1571	1568	Electric Vehicles	Vehicles	Vehicle Type	Electric Vehicles
+1572	1568	Gas Vehicles	Vehicles	Vehicle Type	Gas Vehicles
+1573	1568	Hybrid Vehicles	Vehicles	Vehicle Type	Hybrid Vehicles
+1574	1568	Recreational Vehicles	Vehicles	Vehicle Type	Recreational Vehicles
+1575	1568	Scooters, Motorbikes, and E-bikes	Vehicles	Vehicle Type	Scooters, Motorbikes, and E-bikes
+1576		Weapons & Ammunition	Weapons and Ammunition		
+1577	1576	Ammunition	Weapons and Ammunition	Ammunition	
+1578	1576	Guns	Weapons and Ammunition	Guns	
+1579	1576	Gun Accessories	Weapons and Ammunition	Gun Accessories	
+1580	1576	Gun Shows and Auctions	Weapons and Ammunition	Gun Shows and Auctions	
+1581	1576	Non-Projectile Weapons	Weapons and Ammunition	Non-Projectile Weapons	
+1582	1576	Taster and Stun Guns	Weapons and Ammunition	Taster and Stun Guns	
