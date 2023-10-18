@@ -3,10 +3,10 @@
 Easy access to IAB Tech Lab taxonomies, as listed below
 
 ### [Content Taxonomy](https://github.com/InteractiveAdvertisingBureau/Taxonomies/tree/2fd4970d9f8576a338c902dc174b56e84fd8d083/Content%20Taxonomies)
-The Content Taxonomy provides a common language that can be used when describing content or the aboutness of a webpage, applicaiton, or video. Typical uses of the content taxonomy are contextual targeting and brand safety.
+The Content Taxonomy provides a common language that can be used when describing content or the aboutness of a webpage, application, or video. Typical uses of the content taxonomy are contextual targeting and brand safety.
 
 ### [Audience Taxonomy](https://github.com/InteractiveAdvertisingBureau/Taxonomies/tree/2fd4970d9f8576a338c902dc174b56e84fd8d083/Audience%20Taxonomies) 
-Provide common nomenclature for audience segment names to improve comparability of data across different providers. It is a key element in IAB Tech Lab’s Data Transparency Standard, which facilitates consistent labeling of audience data by first-party and third-party sources. The Audience Taxonomy also provides a mechanism to make segmentation approaches much clearer (categorically) by introducing Tier 1 level labelling that designates whether the segment describes attribution that are demographic, interest-based, or purchase-intent based. 
+Provide common nomenclature for audience segment names to improve comparability of data across different providers. It is a key element in IAB Tech Lab’s Data Transparency Standard, which facilitates consistent labeling of audience data by first-party and third-party sources. The Audience Taxonomy also provides a mechanism to make segmentation approaches much clearer (categorically) by introducing Tier 1 level labeling that designates whether the segment describes attribution that are demographic, interest-based, or purchase-intent based. 
 
 ### [Ad Product Taxonomy](https://github.com/InteractiveAdvertisingBureau/Taxonomies/tree/2fd4970d9f8576a338c902dc174b56e84fd8d083/Ad%20Product%20Taxonomies)
 The Ad Product Taxonomy establishes a standardized nomenclature for describing the product or service being advertised within a creative unit. It aims to provide publishers with stronger signals to, 1) control the types of ads that are delivered via automated channels and, 2) measure the performance of those ads against internal KPIs.
@@ -14,7 +14,7 @@ The Ad Product Taxonomy establishes a standardized nomenclature for describing t
 
 ## Versioning Policy
 
-Updates to IAB Tech Lab Taxonimies are considered by the Taxonomy and Mapping Working Group as new proposals are submitted. Errata, such as clarifications or corrections to descriptions not materially impacting the specification itself, are addressed in the release following when the error or inconsistency was found.
+Updates to IAB Tech Lab Taxonomies are considered by the Taxonomy and Mapping Working Group as new proposals are submitted. Errata, such as clarifications or corrections to descriptions not materially impacting the specification itself, are addressed in the release following when the error or inconsistency was found.
 
 The format for version numbering includes major and minor versions where major version numbers represent breaking changes and minor version numbers represent improvements such as new rows that do not change the taxonomy's hierarchical structure. For example, Audience Taxonomy 1.1 is a non-breaking update to Audience Taxonomy 1.0 whereas Content Taxonomy 3.0 may not be used alongside earlier versions (i.e. Content Taxonomy 1.0 through Content Taxonomy 2.2).
 
