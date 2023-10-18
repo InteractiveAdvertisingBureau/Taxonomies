@@ -1,5 +1,5 @@
 Unique ID	Parent ID	Name	Tier 1	Tier 2	Tier 3
-	1000	Ad Safety Risk	Ad Safety Risk		
+1000	1000	Ad Safety Risk	Ad Safety Risk		
 1001		Adult Products and Services	Adult Products and Services		
 1002		Alcohol	Alcohol		
 1003	1002	Bars	Alcohol	Bars	
@@ -23,7 +23,7 @@ Unique ID	Parent ID	Name	Tier 1	Tier 2	Tier 3
 1021	1012	Photographers	Business and Industrial	Business Services	Photographers
 1022	1012	Printing/Fax/WiFi Services	Business and Industrial	Business Services	Printing/Fax/WiFi Services
 1023	1012	Public Relations and Strategic Communication	Business and Industrial	Business Services	Public Relations and Strategic Communication
-1024	1012	Security & Protection	Business and Industrial	Business Services	Security & Protection
+1024	1012	Security and Protection	Business and Industrial	Business Services	Security and Protection
 1025	1012	Storage Facilities	Business and Industrial	Business Services	Storage Facilities
 1026	1012	Telecom Services	Business and Industrial	Business Services	Telecom Services
 1027	1012	Web Hosting and Cloud Computing	Business and Industrial	Business Services	Web Hosting and Cloud Computing
@@ -132,7 +132,7 @@ Unique ID	Parent ID	Name	Tier 1	Tier 2	Tier 3
 1130	1128	Charcoal Lighter Fluids	Consumer Packaged Goods	Barbeque	Charcoal Lighter Fluids
 1131	1123	Beverages	Consumer Packaged Goods	Beverages	
 1132	1131	Carbonated Soft Drinks	Consumer Packaged Goods	Beverages	Carbonated Soft Drinks
-1133	1131	Coffee & Tea	Consumer Packaged Goods	Beverages	Coffee & Tea
+1133	1131	Coffee and Tea	Consumer Packaged Goods	Beverages	Coffee and Tea
 1134	1131	Drink Mixes	Consumer Packaged Goods	Beverages	Drink Mixes
 1135	1131	Juices	Consumer Packaged Goods	Beverages	Juices
 1136	1131	Sports/Energy Drinks	Consumer Packaged Goods	Beverages	Sports/Energy Drinks
@@ -145,12 +145,12 @@ Unique ID	Parent ID	Name	Tier 1	Tier 2	Tier 3
 1143	1138	Lip	Consumer Packaged Goods	Cosmetics	Lip
 1144	1138	Storage	Consumer Packaged Goods	Cosmetics	Storage
 1145	1123	Disposable Tableware	Consumer Packaged Goods	Disposable Tableware	
-1146	1145	Cups & Plates	Consumer Packaged Goods	Disposable Tableware	Cups & Plates
+1146	1145	Cups and Plates	Consumer Packaged Goods	Disposable Tableware	Cups and Plates
 1147	1145	Disposable Tableware	Consumer Packaged Goods	Disposable Tableware	Disposable Tableware
-1148	1123	Foils, Wraps, & Bags	Consumer Packaged Goods	Foils, Wraps, & Bags	
-1149	1148	Foil Pans	Consumer Packaged Goods	Foils, Wraps, & Bags	Foil Pans
-1150	1148	Foils & Wraps	Consumer Packaged Goods	Foils, Wraps, & Bags	Foils & Wraps
-1151	1148	Food & Trash Bags	Consumer Packaged Goods	Foils, Wraps, & Bags	Food & Trash Bags
+1148	1123	Foils, Wraps, and Bags	Consumer Packaged Goods	Foils, Wraps, and Bags	
+1149	1148	Foil Pans	Consumer Packaged Goods	Foils, Wraps, and Bags	Foil Pans
+1150	1148	Foils and Wraps	Consumer Packaged Goods	Foils, Wraps, and Bags	Foils and Wraps
+1151	1148	Food and Trash Bags	Consumer Packaged Goods	Foils, Wraps, and Bags	Food and Trash Bags
 1152	1123	Fragrance	Consumer Packaged Goods	Fragrance	
 1153	1152	Fragrances - Women's	Consumer Packaged Goods	Fragrance	Fragrances - Women's
 1154	1152	Shaving Lotion/Men's Fragrance	Consumer Packaged Goods	Fragrance	Shaving Lotion/Men's Fragrance
@@ -158,7 +158,7 @@ Unique ID	Parent ID	Name	Tier 1	Tier 2	Tier 3
 1156	1155	Frozen Baked Goods	Consumer Packaged Goods	Frozen	Frozen Baked Goods
 1157	1155	Frozen Beverages	Consumer Packaged Goods	Frozen	Frozen Beverages
 1158	1155	Frozen Desserts	Consumer Packaged Goods	Frozen	Frozen Desserts
-1159	1155	Frozen Fruits & Vegetables	Consumer Packaged Goods	Frozen	Frozen Fruits & Vegetables
+1159	1155	Frozen Fruits and Vegetables	Consumer Packaged Goods	Frozen	Frozen Fruits and Vegetables
 1160	1155	Frozen Juices	Consumer Packaged Goods	Frozen	Frozen Juices
 1161	1155	Frozen Meals	Consumer Packaged Goods	Frozen	Frozen Meals
 1162	1155	Frozen Meat/Poultry/Seafood	Consumer Packaged Goods	Frozen	Frozen Meat/Poultry/Seafood
@@ -170,8 +170,8 @@ Unique ID	Parent ID	Name	Tier 1	Tier 2	Tier 3
 1168	1165	Baking	Consumer Packaged Goods	General Food	Baking
 1169	1165	Breakfast	Consumer Packaged Goods	General Food	Breakfast
 1170	1165	Candy	Consumer Packaged Goods	General Food	Candy
-1171	1165	Condiments & Sauces	Consumer Packaged Goods	General Food	Condiments & Sauces
-1172	1165	Cookies & Crackers	Consumer Packaged Goods	General Food	Cookies & Crackers
+1171	1165	Condiments and Sauces	Consumer Packaged Goods	General Food	Condiments and Sauces
+1172	1165	Cookies and Crackers	Consumer Packaged Goods	General Food	Cookies and Crackers
 1173	1165	Fruit	Consumer Packaged Goods	General Food	Fruit
 1174	1165	Meals	Consumer Packaged Goods	General Food	Meals
 1175	1165	Snacks	Consumer Packaged Goods	General Food	Snacks
@@ -244,7 +244,7 @@ Unique ID	Parent ID	Name	Tier 1	Tier 2	Tier 3
 1242	1240	Razors	Consumer Packaged Goods	Shaving	Razors
 1243	1240	Shaving Cream	Consumer Packaged Goods	Shaving	Shaving Cream
 1244	1123	Skin Care	Consumer Packaged Goods	Skin Care	
-1245	1244	Hand & Body Lotion	Consumer Packaged Goods	Skin Care	Hand & Body Lotion
+1245	1244	Hand and Body Lotion	Consumer Packaged Goods	Skin Care	Hand and Body Lotion
 1246	1244	Skin Care	Consumer Packaged Goods	Skin Care	Skin Care
 1247	1244	Suntan Products	Consumer Packaged Goods	Skin Care	Suntan Products
 1248	1123	Toys and Games	Consumer Packaged Goods	Toys and Games	
@@ -486,13 +486,13 @@ Unique ID	Parent ID	Name	Tier 1	Tier 2	Tier 3
 1484	1482	Real Estate Rentals	Real Estate	Real Estate Rentals	
 1485	1482	Real Estate Sales	Real Estate	Real Estate Sales	
 1486	1482	Real Estate Services For Owners	Real Estate	Real Estate Services For Owners	
-1487		Religion & Spirituality	Religion & Spirituality		
-1488	1487	Astrology	Religion & Spirituality	Astrology	
-1489	1487	Prayer and Mindfullness Applications	Religion & Spirituality	Prayer and Mindfullness Applications	
-1490	1487	Prayer and worship services	Religion & Spirituality	Prayer and Worship Services	
-1491	1487	Religious causes	Religion & Spirituality	Religious Causes	
-1492	1487	Religious charities	Religion & Spirituality	Religious Charities	
-1493	1487	Religious organizaitions	Religion & Spirituality	Religious Organizaitions	
+1487		Religion and Spirituality	Religion and Spirituality		
+1488	1487	Astrology	Religion and Spirituality	Astrology	
+1489	1487	Prayer and Mindfullness Applications	Religion and Spirituality	Prayer and Mindfullness Applications	
+1490	1487	Prayer and worship services	Religion and Spirituality	Prayer and Worship Services	
+1491	1487	Religious causes	Religion and Spirituality	Religious Causes	
+1492	1487	Religious charities	Religion and Spirituality	Religious Charities	
+1493	1487	Religious organizaitions	Religion and Spirituality	Religious Organizaitions	
 1494		Retail	Retail		
 1495	1494	Arts and Crafts Supplies	Retail	Arts and Crafts Supplies	
 1496	1494	Cell Phone Stores	Retail	Cell Phone Stores	
@@ -575,7 +575,7 @@ Unique ID	Parent ID	Name	Tier 1	Tier 2	Tier 3
 1573	1568	Hybrid Vehicles	Vehicles	Vehicle Type	Hybrid Vehicles
 1574	1568	Recreational Vehicles	Vehicles	Vehicle Type	Recreational Vehicles
 1575	1568	Scooters, Motorbikes, and E-bikes	Vehicles	Vehicle Type	Scooters, Motorbikes, and E-bikes
-1576		Weapons & Ammunition	Weapons and Ammunition		
+1576		Weapons and Ammunition	Weapons and Ammunition		
 1577	1576	Ammunition	Weapons and Ammunition	Ammunition	
 1578	1576	Guns	Weapons and Ammunition	Guns	
 1579	1576	Gun Accessories	Weapons and Ammunition	Gun Accessories	
