@@ -1,0 +1,49 @@
+Relational ID System							Extension
+Unique ID	Parent	Name	Tier 1	Tier 2	Tier 3	Tier 4	
+1000		Content Environment	Content Environment				
+1002	1000	Email	Content Environment	Email			
+1003	1000	Forum/Community	Content Environment	Forum/Community			
+1005	1000	Marketplace/eCommerce	Content Environment	Marketplace/eCommerce			
+1006	1000	Search Engine/Listings	Content Environment	Search Engine/Listings			
+1007	1000	Social	Content Environment	Social			
+1008	1000	Utility/Online Tool	Content Environment	Utility/Online Tool			
+1009	1000	Voice Activated Channels	Content Environment	Voice Activated Channels			
+092QD4	1000	General	Content Environment	General			
+1010		Content Purpose	Content Purpose				
+1012	1010	Conversational	Content Purpose	Conversational			
+1014	1010	Entertainment Content	Content Purpose	Entertainment Content			
+5S2VRK	1010	Informational	Content Purpose	Informational			
+1011	5S2VRK	Academic/Research Content	Content Purpose	Informational	Academic/ResearchConent		
+1013	5S2VRK	Educational Content	Content Purpose	Informational	Educational Content		
+1017	5S2VRK	Instructional Content	Content Purpose	Informational	Instructional Content		
+1020	5S2VRK	News	Content Purpose	Informational	News		
+BEZLLC	5S2VRK	Opinion & Op-Ed	Content Purpose	Informational	Opinions & Op-Eds		
+1021	5S2VRK	Review	Content Purpose	Informational	Review		
+1019	1010	Commerce	Content Purpose	Commerce			
+1215		Content Source	Content Source				
+1216	1215	Professionally Produced	Content Source	Professionally Produced			
+1217	1215	User Generated	Content Source	User Generated			
+1218	1215	Aggregated/Curated	Content Source	Aggregated/Curated			
+1022		Content Form Factor	Content Form Factor				
+1023	1022	Audio	Content Form Factor	Audio			
+REJJOG	1023	Podcast	Content Form Factor	Audio	Podcast		
+7OCXIZ	1023	Radio	Content Form Factor	Audio	Radio		
+MJDJZY	1023	Event	Content Form Factor	Audio	Event		
+1024	1022	Images/Galleries	Content Form Factor	Images/Galleries			
+1026	1022	Mixed	Content Form Factor	Mixed			
+1027	1022	Textual	Content Form Factor	Textual			
+1028	1022	Video	Content Form Factor	Video			
+C2UKBG	1028	Show	Content Form Factor	Video	Show		
+3927X6	C2UKBG	Episodic Show	Content Form Factor	Video	Show	Episodic Show	
+Y2MK22	1028	Event	Content Form Factor	Video	Event		
+O3EQZQ	1028	Clip	Content Form Factor	Video	Clip		
+20L2OV	1028	Movie	Content Form Factor	Video	Movie		
+1004	1022	Game	Content Form Factor	Game			
+1029	1022	VR/AR	Content Form Factor	VR/AR			
+MRkz4Q		Brand Suitability and Risk	Brand Suitability and Risk				
+bsr001	MRkz4Q	Floor	Brand Suitability and Risk				
+bsr002	MRkz4Q	High Risk	Brand Suitability and Risk				
+bsr003	MRkz4Q	Medium Risk	Brand Suitability and Risk				
+bsr004	MRkz4Q	Low Risk	Brand Suitability and Risk				
+1030		*Content Language Extension	*Content Language Extension				See ISO-639-1-alpha-2
+1219		*Content Source Geo Extension	*Content Source Geo Extension				See ISO-3166-1-alpha-3
