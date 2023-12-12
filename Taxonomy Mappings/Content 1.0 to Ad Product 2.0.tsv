@@ -1,0 +1,393 @@
+Content Taxonomy 1.0 Unique ID	Content Taxonomy 1.0 Tier 1 Value	Content Taxonomy 1.0 Tier 2 Value	Ad Product Taxonomy 2.0 Unique ID	Ad Product Taxonomy 2.0 Tier 1 Value	Ad Product Taxonomy 2.0 Tier 2 Value	Ad Product Taxonomy 2.0 Tier 3 Value
+IAB1	Arts & Entertainment		1008	Culture and Fine Arts		
+IAB1-1	Arts & Entertainment	Books & Literature	1422	Media	Books and Audio Books	
+IAB1-2	Arts & Entertainment	Celebrity Fan/Gossip	1419	Media		
+IAB1-3	Arts & Entertainment	Fine Art	1008	Culture and Fine Arts		
+IAB1-4	Arts & Entertainment	Humor	1315	Events and Performances		
+IAB1-5	Arts & Entertainment	Movies	1317	Events and Performances	Cinemas and Movie Events	
+IAB1-6	Arts & Entertainment	Music	1419	Media		
+IAB1-7	Arts & Entertainment	Television	1429	Media	Live Television	
+IAB2	Automotive		1551	Vehicles		
+IAB2-1	Automotive	Auto Parts	1558	Vehicles	Automotive Products	Automotive Parts and Accessories
+IAB2-2	Automotive	Auto Repair	1562	Vehicles	Automotive Services	Auto Repair
+IAB2-3	Automotive	Buying/Selling Cars	1553	Vehicles	Automotive Ownership	
+IAB2-4	Automotive	Car Culture	1551	Vehicles		
+IAB2-5	Automotive	Certified Pre-Owned	1551	Vehicles		
+IAB2-6	Automotive	Convertible	1551	Vehicles		
+IAB2-7	Automotive	Coupe	1551	Vehicles		
+IAB2-8	Automotive	Crossover	1551	Vehicles		
+IAB2-9	Automotive	Diesel	1551	Vehicles		
+IAB2-10	Automotive	Electric Vehicle	1551	Vehicles		
+IAB2-11	Automotive	Hatchback	1551	Vehicles		
+IAB2-12	Automotive	Hybrid	1551	Vehicles		
+IAB2-13	Automotive	Luxury	1551	Vehicles		
+IAB2-14	Automotive	MiniVan	1551	Vehicles		
+IAB2-15	Automotive	Mororcycles	1551	Vehicles		
+IAB2-16	Automotive	Off-Road Vehicles	1551	Vehicles		
+IAB2-17	Automotive	Performance Vehicles	1551	Vehicles		
+IAB2-18	Automotive	Pickup	1551	Vehicles		
+IAB2-19	Automotive	Road-Side Assistance	1551	Vehicles		
+IAB2-20	Automotive	Sedan	1551	Vehicles		
+IAB2-21	Automotive	Trucks & Accessories	1551	Vehicles		
+IAB2-22	Automotive	Vintage Cars	1551	Vehicles		
+IAB2-23	Automotive	Wagon	1551	Vehicles		
+IAB3	Business		1010	Business and Industrial		
+IAB3-1	Business	Advertising	1011	Business and Industrial	Advertising and Marketing	
+IAB3-2	Business	Agriculture	1010	Business and Industrial		
+IAB3-3	Business	Biotech/Biomedical	1043	Business and Industrial	Medical and Biotechnology	
+IAB3-4	Business	Business Software	1085	Computer Software	Enterprise Computer Software	
+IAB3-5	Business	Construction	1038	Business and Industrial	Industrials	Construction and Engineering
+IAB3-6	Business	Forestry	1034	Business and Industrial	Forestry and Logging	
+IAB3-7	Business	Government	1010	Business and Industrial		
+IAB3-8	Business	Green Solutions	1032	Business and Industrial	Energy Industry	Green Energy
+IAB3-9	Business	Human Resources	1012	Business and Industrial	Business Services	Human Resources and Recruiting
+IAB3-10	Business	Logistics	1019	Business and Industrial	Business Services	Logistics and Delivery
+IAB3-11	Business	Marketing	1011	Business and Industrial	Advertising and Marketing	
+IAB3-12	Business	Metals	1443	Metals		
+IAB4	Careers		1295	Education and Careers		
+IAB4-1	Careers	Career Planning	1295	Education and Careers		
+IAB4-2	Careers	College	1298	Education and Careers	Colleges and Universities	
+IAB4-3	Careers	Financial Aid	1353	Finance and Insurance	Student Financial Aid	
+IAB4-4	Careers	Job Fairs	1295	Education and Careers		
+IAB4-5	Careers	Job Search	1295	Education and Careers		
+IAB4-6	Careers	Resume Writing/Advice	1295	Education and Careers		
+IAB4-7	Careers	Nursing	1295	Education and Careers		
+IAB4-8	Careers	Scholarships	1452	Non-Profits	Scholarships	
+IAB4-9	Careers	Telecommuting	1311	Education and Careers	Remote work and school	Telecommuting
+IAB4-10	Careers	U.S. Military	1452	Non-Profits	Military Organizations	
+IAB4-11	Careers	Career Advice	1295	Education and Careers		
+IAB5	Education		1295	Education and Careers		
+IAB5-1	Education	41832 Education	1295	Education and Careers		
+IAB5-2	Education	Adult Education	1296	Education and Careers	Adult Education	
+IAB5-3	Education	Art History	1295	Education and Careers		
+IAB5-4	Education	Colledge Administration	1295	Education and Careers		
+IAB5-5	Education	College Life	1295	Education and Careers		
+IAB5-6	Education	Distance Learning	1307	Education and Careers	Remote work and school	Distance Learning
+IAB5-7	Education	English as a 2nd Language	1295	Education and Careers		
+IAB5-8	Education	Language Learning	1303	Education and Careers	Language Learning	
+IAB5-9	Education	Graduate School	1302	Education and Careers	Higher Education	
+IAB5-10	Education	Homeschooling	1308	Education and Careers	Remote work and school	Homeschooling
+IAB5-11	Education	Homework/Study Tips	1295	Education and Careers		
+IAB5-12	Education	K-6 Educators	1295	Education and Careers		
+IAB5-13	Education	Private School	1295	Education and Careers		
+IAB5-14	Education	Special Education	1295	Education and Careers		
+IAB5-15	Education	Studying Business	1295	Education and Careers		
+IAB6	Family & Parenting		1328	Family and Parenting		
+IAB6-1	Family & Parenting	Adoption	1328	Family and Parenting		
+IAB6-2	Family & Parenting	Babies & Toddlers	1328	Family and Parenting		
+IAB6-3	Family & Parenting	Daycare/Pre School	1330	Family and Parenting	Childcare	Day Care Centers
+IAB6-4	Family & Parenting	Family Internet	1328	Family and Parenting		
+IAB6-5	Family & Parenting	Parenting - K-6 Kids	1328	Family and Parenting		
+IAB6-6	Family & Parenting	Parenting teens	1328	Family and Parenting		
+IAB6-7	Family & Parenting	Pregnancy	1328	Family and Parenting		
+IAB6-8	Family & Parenting	Special Needs Kids	1328	Family and Parenting		
+IAB6-9	Family & Parenting	Eldercare	1328	Family and Parenting	Senior Living	
+IAB7	Health & Fitness		1378	Health and Medical Services		
+IAB7-1	Health & Fitness	Exercise	1510	Fitness Activities		
+IAB7-2	Health & Fitness	A.D.D.	1473	Pharmaceuticals		
+IAB7-3	Health & Fitness	AIDS/HIV	1473	Pharmaceuticals		
+IAB7-4	Health & Fitness	Allergies	1208	Consumer Packaged Goods	Over the Counter Medication	
+IAB7-5	Health & Fitness	Alternative Medicine	1379	Health and Medical Services	Alternative and Natural Medicine	
+IAB7-6	Health & Fitness	Arthritis	1473	Pharmaceuticals		
+IAB7-7	Health & Fitness	Asthma	1473	Pharmaceuticals		
+IAB7-8	Health & Fitness	Autism/PDD	1378	Health and Medical Services		
+IAB7-9	Health & Fitness	Bipolar Disorder	1473	Pharmaceuticals		
+IAB7-10	Health & Fitness	Brain Tumor	1378	Health and Medical Services		
+IAB7-11	Health & Fitness	Cancer	1378	Health and Medical Services		
+IAB7-12	Health & Fitness	Cholesterol	1473	Pharmaceuticals		
+IAB7-13	Health & Fitness	Chronic Fatigue Syndrome	1473	Pharmaceuticals		
+IAB7-14	Health & Fitness	Chronic Pain	1473	Pharmaceuticals		
+IAB7-15	Health & Fitness	Cold & Flu	1208	Consumer Packaged Goods	Over the Counter Medication	
+IAB7-16	Health & Fitness	Deafness	1378	Health and Medical Services		
+IAB7-17	Health & Fitness	Dental Care	1384	Health and Medical Services	Dental Care	
+IAB7-18	Health & Fitness	Depression	1473	Pharmaceuticals		
+IAB7-19	Health & Fitness	Dermatology	1385	Health and Medical Services	Dermatology	
+IAB7-20	Health & Fitness	Diabetes	1473	Pharmaceuticals		
+IAB7-21	Health & Fitness	Epilepsy	1473	Pharmaceuticals		
+IAB7-22	Health & Fitness	GERD/Acid Reflux	1208	Consumer Packaged Goods	Over the Counter Medication	
+IAB7-23	Health & Fitness	Headaches/Migraines	1208	Consumer Packaged Goods	Over the Counter Medication	
+IAB7-24	Health & Fitness	Heart Disease	1473	Pharmaceuticals		
+IAB7-25	Health & Fitness	Herbs for Health	1379	Health and Medical Services	Alternative and Natural Medicine	
+IAB7-26	Health & Fitness	Holistic Healing	1379	Health and Medical Services	Alternative and Natural Medicine	
+IAB7-27	Health & Fitness	IBS/Crohn's Disease	1473	Pharmaceuticals		
+IAB7-28	Health & Fitness	Incest/Abuse Support	1391	Health and Medical Services	Mental Health	
+IAB7-29	Health & Fitness	Incontinence	1214	Consumer Packaged Goods	Personal Care	
+IAB7-30	Health & Fitness	Infertility	1387	Health and Medical Services	Fertility and Family Planning	
+IAB7-31	Health & Fitness	Men's Health	1378	Health and Medical Services		
+IAB7-32	Health & Fitness	Nutrition	1378	Health and Medical Services		
+IAB7-33	Health & Fitness	Orthopedics	1378	Health and Medical Services		
+IAB7-34	Health & Fitness	Panic/Anxiety Disorders	1473	Pharmaceuticals		
+IAB7-35	Health & Fitness	Pediatrics	1378	Health and Medical Services		
+IAB7-36	Health & Fitness	Physical Therapy	1378	Health and Medical Services		
+IAB7-37	Health & Fitness	Psychology/Psychiatry	1378	Health and Medical Services		
+IAB7-38	Health & Fitness	Senior Health	1378	Health and Medical Services		
+IAB7-39	Health & Fitness	Sexuality	1519	Sexual Health		
+IAB7-40	Health & Fitness	Sleep Disorders	1208	Consumer Packaged Goods	Over the Counter Medication	
+IAB7-41	Health & Fitness	Smoking Cessation	1208	Consumer Packaged Goods	Over the Counter Medication	
+IAB7-42	Health & Fitness	Substance Abuse	1378	Health and Medical Services		
+IAB7-43	Health & Fitness	Thyroid Disease	1473	Pharmaceuticals		
+IAB7-44	Health & Fitness	Weight Loss	1291	Dieting and Weightloss		
+IAB7-45	Health & Fitness	Women's Health	1378	Health and Medical Services		
+IAB8	Food & Drink		1355	Food and Beverage Services		
+IAB8-1	Food & Drink	American Cuisine	1355	Food and Beverage Services		
+IAB8-2	Food & Drink	Barbecues & Grilling	1128	Consumer Packaged Goods	Barbeque	
+IAB8-3	Food & Drink	Cajun/Creole	1355	Food and Beverage Services		
+IAB8-4	Food & Drink	Chinese Cuisine	1355	Food and Beverage Services		
+IAB8-5	Food & Drink	Cocktails/Beer	1006	Alcohol	Spirits	
+IAB8-6	Food & Drink	Coffee/Tea	1133	Consumer Packaged Goods	Beverages	Coffee & Tea
+IAB8-7	Food & Drink	Cuisine-Specific	1355	Food and Beverage Services		
+IAB8-8	Food & Drink	Desserts & Baking	1355	Food and Beverage Services		
+IAB8-9	Food & Drink	Dining Out	1355	Food and Beverage Services		
+IAB8-10	Food & Drink	Food Allergies	1473	Pharmaceuticals		
+IAB8-11	Food & Drink	French Cuisine	1355	Food and Beverage Services		
+IAB8-12	Food & Drink	Health/Lowfat Cooking	1355	Food and Beverage Services		
+IAB8-13	Food & Drink	Italian Cuisine	1355	Food and Beverage Services		
+IAB8-14	Food & Drink	Japanese Cuisine	1355	Food and Beverage Services		
+IAB8-15	Food & Drink	Mexican Cuisine	1355	Food and Beverage Services		
+IAB8-16	Food & Drink	Vegan	1355	Food and Beverage Services		
+IAB8-17	Food & Drink	Vegetarian	1355	Food and Beverage Services		
+IAB8-18	Food & Drink	Wine	1007	Alcohol	Wine	
+IAB9	Hobbies & Interests		1494	Retail		
+IAB9-1	Hobbies & Interests	Art/Technology	1008	Culture and Fine Arts		
+IAB9-2	Hobbies & Interests	Arts & Crafts	1495	Retail	Arts and Crafts Supplies	
+IAB9-3	Hobbies & Interests	Beadwork	1495	Retail	Arts and Crafts Supplies	
+IAB9-4	Hobbies & Interests	Birdwatching	1524	Sporting Goods		
+IAB9-5	Hobbies & Interests	Board Games/Puzzles	1251	Consumer Packaged Goods	Toys and Games	Puzzles
+IAB9-6	Hobbies & Interests	Candle & Soap Making	1495	Retail	Arts and Crafts Supplies	
+IAB9-7	Hobbies & Interests	Card Games	1251	Consumer Packaged Goods	Toys and Games	
+IAB9-8	Hobbies & Interests	Chess	1251	Consumer Packaged Goods	Toys and Games	
+IAB9-9	Hobbies & Interests	Cigars	1545	Tobacco	Cigars	
+IAB9-10	Hobbies & Interests	Collecting	1075	Collectables and Antiques		
+IAB9-11	Hobbies & Interests	Comic Books	1075	Collectables and Antiques		
+IAB9-12	Hobbies & Interests	Drawing/Sketching	1008	Culture and Fine Arts		
+IAB9-13	Hobbies & Interests	Freelance Writing	1008	Culture and Fine Arts		
+IAB9-14	Hobbies & Interests	Genealogy	1332	Family and Parenting	Geneaology and Family Trees	
+IAB9-15	Hobbies & Interests	Getting Published	1012	Business and Industrial	Business Services	
+IAB9-16	Hobbies & Interests	Guitar	1503	Retail	Musical Instruments and Record Stores	
+IAB9-17	Hobbies & Interests	Home Recording	1503	Retail 	Musical Instruments and Record Stores	
+IAB9-18	Hobbies & Interests	Investors & Patents	1351	Finance and Insurance	Stocks and Investments	
+IAB9-19	Hobbies & Interests	Jewelry Making	1495	Retail	Arts and Crafts Supplies	
+IAB9-20	Hobbies & Interests	Magic & Illusion	1315	Events and Performances		
+IAB9-21	Hobbies & Interests	Needlework	1495	Retail	Arts and Crafts Supplies	
+IAB9-22	Hobbies & Interests	Painting	1008	Culture and Fine Arts		
+IAB9-23	Hobbies & Interests	Photography	1008	Culture and Fine Arts		
+IAB9-24	Hobbies & Interests	Radio	1433	Media	Radio and Podcasts	
+IAB9-25	Hobbies & Interests	Roleplaying Games	1423	Media	Casual Games	
+IAB9-26	Hobbies & Interests	Sci-Fi & Fantasy	1419	Media		
+IAB9-27	Hobbies & Interests	Scrapbooking	1495	Retail	Arts and Crafts Supplies	
+IAB9-28	Hobbies & Interests	Screenwriting	1419	Media		
+IAB9-29	Hobbies & Interests	Stamps & Coins	1075	Collectables and Antiques	Stamps	
+IAB9-30	Hobbies & Interests	Video & Computer Games	1120	Consumer Electronics	Video Games	
+IAB9-31	Hobbies & Interests	Woodworking	1495	Retail	Arts and Crafts Supplies	
+IAB10	Home & Garden		1277	Home and Garden Products		
+IAB10-1	Home & Garden	Appliances	1277	Home and Garden Products		
+IAB10-2	Home & Garden	Entertaining	1277	Home and Garden Products		
+IAB10-3	Home & Garden	Environmental Safety	1368	Green/Eco		
+IAB10-4	Home & Garden	Gardening	1396	Durable Goods	Home and Garden Products	
+IAB10-5	Home & Garden	Home Repair	1396	Home and Garden Services		
+IAB10-6	Home & Garden	Home Theater	1112	Consumer Electronics	Home Theater Systems	
+IAB10-7	Home & Garden	Interior Decorating	1396	Home and Garden Services		
+IAB10-8	Home & Garden	Landscaping	1408	Home and Garden Services	Landscaping Services	
+IAB10-9	Home & Garden	Remodeling & Construction	1413	Home and Garden Services	Remodeling and Construction	
+IAB11	Law, Gov't & Politics		1474	Politics		
+IAB11-1	Law, Gov't & Politics	Immigration	1474	Politics		
+IAB11-2	Law, Gov't & Politics	Legal Issues	1416	Legal Services		
+IAB11-3	Law, Gov't & Politics	U.S. Government Resources	1474	Politics		
+IAB11-4	Law, Gov't & Politics	Politics	1474	Politics		
+IAB11-5	Law, Gov't & Politics	Commentary	1478	Politics	Political Analysis and Opinion	
+IAB12	News	News	1432	Media	News and Analysis	
+IAB12-1	News	International News	1432	Media	News and Analysis	
+IAB12-2	News	National News	1432	Media	News and Analysis	
+IAB12-3	News	Local News	1432	Media	News and Analysis	
+IAB13	Personal Finance		1335	Finance and Insurance		
+IAB13-1	Personal Finance	Beginning Investing	1335	Finance and Insurance		
+IAB13-2	Personal Finance	Credit/Debt & Loans	1335	Finance and Insurance		
+IAB13-3	Personal Finance	Financial News	1335	Finance and Insurance		
+IAB13-4	Personal Finance	Financial Planning	1335	Finance and Insurance		
+IAB13-5	Personal Finance	Hedge Fund	1351	Finance and Insurance	Stocks and Investments	
+IAB13-6	Personal Finance	Insurance	1340	Finance and Insurance	Insurance	
+IAB13-7	Personal Finance	Investing	1351	Finance and Insurance	Stocks and Investments	
+IAB13-8	Personal Finance	Mutual Funds	1337	Finance and Insurance	Banking	
+IAB13-9	Personal Finance	Options	1351	Finance and Insurance	Stocks and Investments	
+IAB13-10	Personal Finance	Retirement Planning	1350	Finance and Insurance	Retirement Planning	
+IAB13-11	Personal Finance	Stocks	1351	Finance and Insurance	Stocks and Investments	
+IAB13-12	Personal Finance	Tax Planning	1354	Finance and Insurance	Tax Preparation Services	
+IAB14	Society		1008	Culture and Fine Arts		
+IAB14-1	Society	Dating	1259	Dating		
+IAB14-2	Society	Divorce Support	1416	Legal Services		
+IAB14-3	Society	Gay Life	1259	Dating		
+IAB14-4	Society	Marriage	1416	Legal Services		
+IAB14-5	Society	Senior Living	1334	Family and Parenting	Senior Living	
+IAB14-6	Society	Teens	1328	Family and Parenting		
+IAB14-7	Society	Weddings	1015	Business and Industrial	Business Services	Event Planning
+IAB14-8	Society	Ethnic Specific	1008	Culture and Fine Arts		
+IAB15	Science		1010	Business and Industrial		
+IAB15-1	Science	Astrology	1487	Religion & Spirituality		
+IAB15-2	Science	Biology	1010	Business and Industrial		
+IAB15-3	Science	Chemistry	1010	Business and Industrial		
+IAB15-4	Science	Geology	1010	Business and Industrial		
+IAB15-5	Science	Paranormal Phenomena	1487	Religion & Spirituality		
+IAB15-6	Science	Physics	1010	Business and Industrial		
+IAB15-7	Science	Space/Astronomy	1010	Business and Industrial		
+IAB15-8	Science	Geography	1010	Business and Industrial		
+IAB15-9	Science	Botany	1010	Business and Industrial		
+IAB15-10	Science	Weather	1010	Business and Industrial		
+IAB16	Pets		1460	Pet Ownership		
+IAB16-1	Pets	Aquariums	1460	Pet Ownership		
+IAB16-2	Pets	Birds	1460	Pet Ownership		
+IAB16-3	Pets	Cats	1460	Pet Ownership		
+IAB16-4	Pets	Dogs	1460	Pet Ownership		
+IAB16-5	Pets	Large Animals	1460	Pet Ownership		
+IAB16-6	Pets	Reptiles	1460	Pet Ownership		
+IAB16-7	Pets	Veterinary Medicine	1466	Pet Ownership	Veterinary Services	
+IAB17	Sports		1510	Fitness Activities		
+IAB17-1	Sports	Auto Racing	1510	Fitness Activities		
+IAB17-2	Sports	Baseball	1510	Fitness Activities		
+IAB17-3	Sports	Bicycling	1510	Fitness Activities		
+IAB17-4	Sports	Bodybuilding	1510	Fitness Activities		
+IAB17-5	Sports	Boxing	1510	Fitness Activities		
+IAB17-6	Sports	Canoeing/Kayaking	1510	Fitness Activities		
+IAB17-7	Sports	Cheerleading	1510	Fitness Activities		
+IAB17-8	Sports	Climbing	1510	Fitness Activities		
+IAB17-9	Sports	Cricket	1510	Fitness Activities		
+IAB17-10	Sports	Figure Skating	1510	Fitness Activities		
+IAB17-11	Sports	Fly Fishing	1510	Fitness Activities		
+IAB17-12	Sports	Football	1510	Fitness Activities		
+IAB17-13	Sports	Freshwater Fishing	1510	Fitness Activities		
+IAB17-14	Sports	Game & Fish	1510	Fitness Activities		
+IAB17-15	Sports	Golf	1510	Fitness Activities		
+IAB17-16	Sports	Horse Racing	1510	Fitness Activities		
+IAB17-17	Sports	Horses	1510	Fitness Activities		
+IAB17-18	Sports	Hunting/Shooting	1510	Fitness Activities		
+IAB17-19	Sports	Inline Skating	1510	Fitness Activities		
+IAB17-20	Sports	Martial Arts	1510	Fitness Activities		
+IAB17-21	Sports	Mountain Biking	1510	Fitness Activities		
+IAB17-22	Sports	NASCAR Racing	1510	Fitness Activities		
+IAB17-23	Sports	Olympics	1510	Fitness Activities		
+IAB17-24	Sports	Paintball	1510	Fitness Activities		
+IAB17-25	Sports	Power & Motorcycles	1510	Fitness Activities		
+IAB17-26	Sports	Pro Basketball	1510	Fitness Activities		
+IAB17-27	Sports	Pro Ice Hockey	1510	Fitness Activities		
+IAB17-28	Sports	Rodeo	1510	Fitness Activities		
+IAB17-29	Sports	Rugby	1510	Fitness Activities		
+IAB17-30	Sports	Running/Jogging	1510	Fitness Activities		
+IAB17-31	Sports	Sailing	1510	Fitness Activities		
+IAB17-32	Sports	Saltwater Fishing	1510	Fitness Activities		
+IAB17-33	Sports	Scuba Diving	1510	Fitness Activities		
+IAB17-34	Sports	Skateboarding	1510	Fitness Activities		
+IAB17-35	Sports	Skiing	1510	Fitness Activities		
+IAB17-36	Sports	Snowboarding	1510	Fitness Activities		
+IAB17-37	Sports	Surfing/Bodyboarding	1510	Fitness Activities		
+IAB17-38	Sports	Swimming	1510	Fitness Activities		
+IAB17-39	Sports	Table Tennis/Ping-Pong	1510	Fitness Activities		
+IAB17-40	Sports	Tennis	1510	Fitness Activities		
+IAB17-41	Sports	Volleyball	1510	Fitness Activities		
+IAB17-42	Sports	Walking	1510	Fitness Activities		
+IAB17-43	Sports	Waterski/Wakeboard	1510	Fitness Activities		
+IAB17-44	Sports	World Soccer	1510	Fitness Activities		
+IAB18	Style & Fashion		1494	Retail		
+IAB18-1	Style & Fashion	Beauty	1089	Cosmetic Services	Beauty Salons	
+IAB18-2	Style & Fashion	Body Art	1088	Cosmetic Services		
+IAB18-3	Style & Fashion	Fashion	1058	Clothing and Accessories		
+IAB18-4	Style & Fashion	Jewelry	1073	Clothing and Accessories	Jewelry and Watches	
+IAB18-5	Style & Fashion	Clothing	1059	Clothing and Accessories	Clothing	
+IAB18-6	Style & Fashion	Accessories	1068	Clothing and Accessories	Clothing Accessories	
+IAB19	Technology & Computing		1097	Consumer Electronics		
+IAB19-1	Technology & Computing	3-D Graphics	1097	Consumer Electronics		
+IAB19-2	Technology & Computing	Animation	1097	Consumer Electronics		
+IAB19-3	Technology & Computing	Antivirus Software	1097	Consumer Electronics		
+IAB19-4	Technology & Computing	C/C++	1097	Consumer Electronics		
+IAB19-5	Technology & Computing	Cameras & Camcorders	1102	Consumer Electronics	Cameras and Photo	Cameras
+IAB19-6	Technology & Computing	Cell Phones	1114	Consumer Electronics	Mobile Phones and Accessories	
+IAB19-7	Technology & Computing	Computer Certification	1097	Consumer Electronics		
+IAB19-8	Technology & Computing	Computer Networking	1115	Consumer Electronics	Networking	
+IAB19-9	Technology & Computing	Computer Peripherals	1097	Consumer Electronics		
+IAB19-10	Technology & Computing	Computer Reviews	1097	Consumer Electronics		
+IAB19-11	Technology & Computing	Data Centers	1097	Consumer Electronics		
+IAB19-12	Technology & Computing	Databases	1097	Consumer Electronics		
+IAB19-13	Technology & Computing	Desktop Publishing	1097	Consumer Electronics		
+IAB19-14	Technology & Computing	Desktop Video	1097	Consumer Electronics		
+IAB19-15	Technology & Computing	Email	1097	Consumer Electronics		
+IAB19-16	Technology & Computing	Graphics Software	1097	Consumer Electronics		
+IAB19-17	Technology & Computing	Home Video/DVD	1097	Consumer Electronics		
+IAB19-18	Technology & Computing	Internet Technology	1097	Consumer Electronics		
+IAB19-19	Technology & Computing	Java	1097	Consumer Electronics		
+IAB19-20	Technology & Computing	JavaScript	1097	Consumer Electronics		
+IAB19-21	Technology & Computing	Mac Support	1097	Consumer Electronics		
+IAB19-22	Technology & Computing	MP3/MIDI	1097	Consumer Electronics		
+IAB19-23	Technology & Computing	Net Conferencing	1097	Consumer Electronics		
+IAB19-24	Technology & Computing	Net for Beginners	1097	Consumer Electronics		
+IAB19-25	Technology & Computing	Network Security	1097	Consumer Electronics		
+IAB19-26	Technology & Computing	Palmtops/PDAs	1097	Consumer Electronics		
+IAB19-27	Technology & Computing	PC Support	1097	Consumer Electronics		
+IAB19-28	Technology & Computing	Portable	1097	Consumer Electronics		
+IAB19-29	Technology & Computing	Entertainment	1097	Consumer Electronics		
+IAB19-30	Technology & Computing	Shareware/Freeware	1097	Consumer Electronics		
+IAB19-31	Technology & Computing	Unix	1097	Consumer Electronics		
+IAB19-32	Technology & Computing	Visual Basic	1097	Consumer Electronics		
+IAB19-33	Technology & Computing	Web Clip Art	1097	Consumer Electronics		
+IAB19-34	Technology & Computing	Web Design/HTML	1097	Consumer Electronics		
+IAB19-35	Technology & Computing	Web Search	1097	Consumer Electronics		
+IAB19-36	Technology & Computing	Windows	1097	Consumer Electronics		
+IAB20	Travel		1529	Travel and Tourism		
+IAB20-1	Travel	Adventure Travel	1529	Travel and Tourism		
+IAB20-2	Travel	Africa	1529	Travel and Tourism		
+IAB20-3	Travel	Air Travel	1537	Travel and Tourism	Air Travel	
+IAB20-4	Travel	Australia & New Zealand	1529	Travel and Tourism		
+IAB20-5	Travel	Bed & Breakfasts	1531	Travel and Tourism	Accomodations	Bed and Breakfasts
+IAB20-6	Travel	Budget Travel	1529	Travel and Tourism		
+IAB20-7	Travel	Business Travel	1529	Travel and Tourism		
+IAB20-8	Travel	By US Locale	1529	Travel and Tourism		
+IAB20-9	Travel	Camping	1532	Travel and Tourism	Accomodations	Camping and Camp Grounds
+IAB20-10	Travel	Canada	1529	Travel and Tourism		
+IAB20-11	Travel	Caribbean	1529	Travel and Tourism		
+IAB20-12	Travel	Cruises	1538	Travel and Tourism	Cruises	
+IAB20-13	Travel	Eastern Europe	1529	Travel and Tourism		
+IAB20-14	Travel	Europe	1529	Travel and Tourism		
+IAB20-15	Travel	France	1529	Travel and Tourism		
+IAB20-16	Travel	Greece	1529	Travel and Tourism		
+IAB20-17	Travel	Honeymoons/Getaways	1529	Travel and Tourism		
+IAB20-18	Travel	Hotels	1533	Travel and Tourism	Accomodations	Hotels and Resorts
+IAB20-19	Travel	Italy	1529	Travel and Tourism		
+IAB20-20	Travel	Japan	1529	Travel and Tourism		
+IAB20-21	Travel	Mexico & Central America	1529	Travel and Tourism		
+IAB20-22	Travel	National Parks	1529	Travel and Tourism		
+IAB20-23	Travel	South America	1529	Travel and Tourism		
+IAB20-24	Travel	Spas	1529	Travel and Tourism		
+IAB20-25	Travel	Theme Parks	1529	Travel and Tourism		
+IAB20-26	Travel	Traveling with Kids	1529	Travel and Tourism		
+IAB20-27	Travel	United Kingdom	1529	Travel and Tourism		
+IAB21	Real Estate		1482	Real Estate		
+IAB21-1	Real Estate	Apartments	1482	Real Estate		
+IAB21-2	Real Estate	Architects	1482	Real Estate		
+IAB21-3	Real Estate	Buying/Selling Homes	1485	Real Estate	Real Estate Sales	
+IAB22	Shopping		1494	Retail		
+IAB22-1	Shopping	Contests & Freebies	1364	Gambling	Give Aways	
+IAB22-2	Shopping	Couponing	1374	Gifts and Holiday Items	Gift Cards and Coupons	
+IAB22-3	Shopping	Comparison	1374	Gifts and Holiday Items	Gift Cards and Coupons	
+IAB22-4	Shopping	Engines	1494	Retail		
+IAB23	Religion & Spirituality		1487	Religion & Spirituality		
+IAB23-1	Religion & Spirituality	Alternative Religions	1487	Religion & Spirituality		
+IAB23-2	Religion & Spirituality	Atheism/Agnosticism	1487	Religion & Spirituality		
+IAB23-3	Religion & Spirituality	Buddhism	1487	Religion & Spirituality		
+IAB23-4	Religion & Spirituality	Catholicism	1487	Religion & Spirituality		
+IAB23-5	Religion & Spirituality	Christianity	1487	Religion & Spirituality		
+IAB23-6	Religion & Spirituality	Hinduism	1487	Religion & Spirituality		
+IAB23-7	Religion & Spirituality	Islam	1487	Religion & Spirituality		
+IAB23-8	Religion & Spirituality	Judaism	1487	Religion & Spirituality		
+IAB23-9	Religion & Spirituality	Latter-Day Saints	1487	Religion & Spirituality		
+IAB23-10	Religion & Spirituality	Pagan/Wiccan	1487	Religion & Spirituality		
+IAB24	Uncategorized		1000	Ad Safety Risk		
+IAB25	Non-Standard Content		1000	Ad Safety Risk		
+IAB25-1	Non-Standard Content	Unmoderated UGC	1000	Ad Safety Risk		
+IAB25-2	Non-Standard Content	Extreme Graphic/Explicit Violence	1000	Ad Safety Risk		
+IAB25-3	Non-Standard Content	Pornography	1001	Adult Products and Services		
+IAB25-4	Non-Standard Content	Profane Content	1000	Ad Safety Risk		
+IAB25-5	Non-Standard Content	Hate Content	1000	Ad Safety Risk		
+IAB25-6	Non-Standard Content	Under Construction	1000	Ad Safety Risk		
+IAB25-7	Non-Standard Content	Incentivized	1000	Ad Safety Risk		
+IAB26	Illegal Content		1000	Ad Safety Risk		
+IAB26-1	Illegal Content	Illegal Content	1000	Ad Safety Risk		
+IAB26-2	Illegal Content	Warez	1000	Ad Safety Risk		
+IAB26-3	Illegal Content	Spyware/Malware	1000	Ad Safety Risk		
+IAB26-4	Illegal Content	Copyright Infringement	1000	Ad Safety Risk		
