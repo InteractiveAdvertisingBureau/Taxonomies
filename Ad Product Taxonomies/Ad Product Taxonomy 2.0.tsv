@@ -29,10 +29,10 @@ Unique ID	Parent ID	Name	Tier 1	Tier 2	Tier 3
 1027	1012	Web Hosting and Cloud Computing	Business and Industrial	Business Services	Web Hosting and Cloud Computing
 1028	1010	Construction	Business and Industrial	Construction	
 1029	1010	Energy Industry	Business and Industrial	Energy Industry	
-1030	1030	Electric Power Industry	Business and Industrial	Energy Industry	Electric Power Industry
-1031	1030	Energy Services	Business and Industrial	Energy Industry	Energy Services
-1032	1030	Green Energy	Business and Industrial	Energy Industry	Green Energy
-1033	1030	Oil, Gas and Consumable Fuels	Business and Industrial	Energy Industry	Oil, Gas and Consumable Fuels
+1030	1029	Electric Power Industry	Business and Industrial	Energy Industry	Electric Power Industry
+1031	1029	Energy Services	Business and Industrial	Energy Industry	Energy Services
+1032	1029	Green Energy	Business and Industrial	Energy Industry	Green Energy
+1033	1029	Oil, Gas and Consumable Fuels	Business and Industrial	Energy Industry	Oil, Gas and Consumable Fuels
 1034	1010	Forestry and Logging	Business and Industrial	Forestry and Logging	
 1035	1010	Industrial Storage	Business and Industrial	Industrial Storage	
 1036	1010	Industrials	Business and Industrial	Industrials	
@@ -292,7 +292,7 @@ Unique ID	Parent ID	Name	Tier 1	Tier 2	Tier 3
 1290	1263	Luggage and Bags	Durable Goods	Luggage and Bags	
 1291		Dieting and Weightloss	Dieting and Weightloss		
 1292	1291	Food Logging	Dieting and Weightloss	Food Logging	
-1293	1291	Weightloss Servies	Dieting and Weightloss	Weightloss Servies	
+1293	1291	Weightloss Services	Dieting and Weightloss	Weightloss Services	
 1294	1291	Workout and Step Tracking Applications	Dieting and Weightloss	Workout and Step Tracking Applications	
 1295		Education and Careers	Education and Careers		
 1296	1295	Adult Education	Education and Careers	Adult Education	
@@ -529,13 +529,13 @@ Unique ID	Parent ID	Name	Tier 1	Tier 2	Tier 3
 1527	1524	Indoor Games Equipment	Sporting Goods	Indoor Games Equipment	
 1528	1524	Outdoor Recreation Equipment	Sporting Goods	Outdoor Recreation Equipment	
 1529		Travel and Tourism	Travel and Tourism		
-1530	1529	Accomodations	Travel and Tourism	Accomodations	
-1531	1530	Bed and Breakfasts	Travel and Tourism	Accomodations	Bed and Breakfasts
-1532	1530	Camping and Camp Grounds	Travel and Tourism	Accomodations	Camping and Camp Grounds
-1533	1530	Hotels and Resorts	Travel and Tourism	Accomodations	Hotels and Resorts
-1534	1530	Motels	Travel and Tourism	Accomodations	Motels
-1535	1530	Timeshares	Travel and Tourism	Accomodations	Timeshares
-1536	1530	Vacation Rentals	Travel and Tourism	Accomodations	Vacation Rentals
+1530	1529	Accommodations	Travel and Tourism	Accommodations	
+1531	1530	Bed and Breakfasts	Travel and Tourism	Accommodations	Bed and Breakfasts
+1532	1530	Camping and Camp Grounds	Travel and Tourism	Accommodations	Camping and Camp Grounds
+1533	1530	Hotels and Resorts	Travel and Tourism	Accommodations	Hotels and Resorts
+1534	1530	Motels	Travel and Tourism	Accommodations	Motels
+1535	1530	Timeshares	Travel and Tourism	Accommodations	Timeshares
+1536	1530	Vacation Rentals	Travel and Tourism	Accommodations	Vacation Rentals
 1537	1529	Air Travel	Travel and Tourism	Air Travel	
 1538	1529	Cruises	Travel and Tourism	Cruises	
 1539	1529	Rail Travel	Travel and Tourism	Rail Travel	
