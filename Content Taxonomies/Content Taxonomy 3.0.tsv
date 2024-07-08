@@ -1,6 +1,6 @@
 Relational ID System			Content Taxonomy v3.0 Tiered Categories				Extension
 Unique ID	Parent	Name	Tier 1	Tier 2	Tier 3	Tier 4	
-150	150	Attractions	Attractions				
+150		Attractions	Attractions				
 151	150	Amusement and Theme Parks	Attractions	Amusement and Theme Parks			
 179	150	Bars & Restaurants	Attractions	Bars & Restaurants			
 181	150	Casinos & Gambling	Attractions	Casinos & Gambling			
@@ -167,7 +167,7 @@ JLBCU7		Entertainment	Entertainment
 162	8VZQHL	Awards Shows	Events	Awards Shows			
 180	8VZQHL	Business Expos & Conferences	Events	Business Expos & Conferences			
 185	8VZQHL	Fan Conventions	Events	Fan Conventions			
-186	186	Family and Relationships	Family and Relationships				SCD
+186		Family and Relationships	Family and Relationships				SCD
 187	186	Bereavement	Family and Relationships	Bereavement			SCD
 188	186	Dating	Family and Relationships	Dating			
 189	186	Divorce	Family and Relationships	Divorce			
@@ -205,7 +205,7 @@ JLBCU7		Entertainment	Entertainment
 213	210	Vegetarian Diets	Food & Drink	Vegetarian Diets			
 214	210	World Cuisines	Food & Drink	World Cuisines			
 SPSHQ5		Genres	Genres				
-VKIV56	SPSHQ5	Nature	Genres				
+VKIV56	SPSHQ5	Nature	Genres	Nature			
 325	SPSHQ5	Action/Adventure	Genres	Action/Adventure			
 641	SPSHQ5	Animation & Anime	Genres	Animation & Anime			
 44	SPSHQ5	Biographies	Genres	Biographies			
@@ -300,7 +300,7 @@ KHPC6A	SPSHQ5	Western	Genres	Western			SCD
 276	274	Remodeling & Construction	Home & Garden	Remodeling & Construction			
 277	274	Smart Home	Home & Garden	Smart Home			SCD
 383		Law	Law				SCD
-WQC6HR	602	Maps & Navigation	Maps & Navigation				SCD
+WQC6HR	602	Maps & Navigation	Technology & Computing	Computing	Computer Software and Applications	Maps & Navigation	SCD
 286		Medical Health	Medical Health				SCD
 323	286	Cosmetic Medical Services	Medical Health	Cosmetic Medical Services			SCD
 287	286	Diseases and Conditions	Medical Health	Diseases and Conditions			SCD
@@ -372,7 +372,7 @@ WQC6HR	602	Maps & Navigation	Maps & Navigation				SCD
 352	338	World/International Music	Music	World/International Music			
 377	338	Urban Contemporary Music	Music	Urban Contemporary Music			
 378	338	Variety (Music and Audio)	Music	Variety (Music and Audio)			
-163	163	Personal Celebrations & Life Events	Personal Celebrations & Life Events				
+163		Personal Celebrations & Life Events	Personal Celebrations & Life Events				
 164	163	Anniversary	Personal Celebrations & Life Events	Anniversary			
 166	163	Baby Shower	Personal Celebrations & Life Events	Baby Shower			
 167	163	Bachelor Party	Personal Celebrations & Life Events	Bachelor Party			
@@ -437,7 +437,7 @@ WQC6HR	602	Maps & Navigation	Maps & Navigation				SCD
 438	432	Celebrity Scandal	Pop Culture	Celebrity Scandal			
 439	432	Celebrity Style	Pop Culture	Celebrity Style			
 440	432	Humor and Satire	Pop Culture	Humor and Satire			
-W3CW2J	602	Productivity	Productivity				
+W3CW2J	602	Productivity	Technology & Computing	Computing	Computer Software and Applications	Productivity	
 441		Real Estate	Real Estate				
 442	441	Apartments	Real Estate	Apartments			
 445	441	Developmental Sites	Real Estate	Developmental Sites			
