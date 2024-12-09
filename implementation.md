@@ -1,4 +1,4 @@
-# Glossary
+# Table of Contents
 
 - [Ad Product 2.0 Implementation Guidance](https://github.com/katieshell/Taxonomies/blob/main/implementation.md#implementation-guidance)
 - [Migrating from Content 1.0](https://github.com/katieshell/Taxonomies/blob/main/implementation.md#migrating-from-content-taxonomy-10)
