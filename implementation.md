@@ -138,61 +138,33 @@ As its a critical feature, we have more detailed mapping of commonly blocked cat
 | **Special Mappings** | **Content 1.0 Unique IDs** | **Content 1.0 Categories** | **Ad Product 2.0 Unique IDs** | **Ad Product 2.0 Categories** |
 | --- | --- | --- | --- | --- |
 | Alcohol | IAB8-5,IAB8-18 | Cocktails/Beer, Wine | 1002 | Alcohol |
-| --- | --- | --- | --- | --- |
 | Baked Goods | IAB8-8 | Desserts & Baking | 1156, 1231 | Frozen Baked Goods, Refrigerated Baked Goods |
-| --- | --- | --- | --- | --- |
 | Baking Ingredients | IAB8-8 | Desserts & Baking | 1168 | Baking |
-| --- | --- | --- | --- | --- |
 | Black Magic, Astrology & Esoteric | IAB9-20,IAB15-1 | Magic & Illusion, Astrology | 1487, 1488 | Religion and Spirituality, Astrology |
-| --- | --- | --- | --- | --- |
 | Cannabis/Marijuana | IAB7-5 | Alternative Medicine | 1049 | Cannabis |
-| --- | --- | --- | --- | --- |
 | Cosmetic Procedures & Body Modifications | IAB18-2 | Body Art | 1383 | Cosmetic Medical Services |
-| --- | --- | --- | --- | --- |
 | Cryptocurrency | IAB13-7 | Investing | 1448 | Non-Fiat Currency |
-| --- | --- | --- | --- | --- |
 | Dating | IAB14-1 | Dating | 1259 | Dating |
-| --- | --- | --- | --- | --- |
 | Desserts | IAB8-8 | Desserts & Baking | 1158, 1234 | Frozen Desserts, Refrigerated Desserts |
-| --- | --- | --- | --- | --- |
 | Downloadable Utilities | IAB9-30,IAB26-1,IAB26-2,IAB26-3,IAB26-4 | Video & Computer Games, Illegal Content, Illegal Content, Warez, Spyware/Malware, Copyright Infringement | 1028 | Computer Software |
-| --- | --- | --- | --- | --- |
 | Drugs & Supplements | IAB7-41,IAB7-43,IAB7-27,IAB7-22,IAB7-20,IAB7-3,IAB7-38,IAB7-6 | Smoking Cessation, Thyroid Disease, IBS/Crohn's Disease, GERD/Acid Reflux, Diabetes, AIDS/HIV, Senior Health, Arthritis | 1473 | Pharmaceuticals |
-| --- | --- | --- | --- | --- |
 | Fast Food | IAB8-9 | Dining Out | 1358 | Fast Food |
-| --- | --- | --- | --- | --- |
 | Gambling & Betting | IAB9-7 | Card Games | 1361 | Gambling |
-| --- | --- | --- | --- | --- |
 | Guns & Firearms | IAB17-18 | Hunting/Shooting | 1576 | Weapons and Ammunition |
-| --- | --- | --- | --- | --- |
 | Health Ads | IAB7 | Health & Fitness | 1378 | Health and Medical Services |
-| --- | --- | --- | --- | --- |
 | Hemp Based CBD | IAB7-5,IAB7-25,IAB7-26 | Alternative Medicine, Herbs for Health, Holistic Health | 1049 | Cannabis |
-| --- | --- | --- | --- | --- |
 | Hunting & Shooting | IAB17-18 | Hunting/Shooting | 1576 | Weapons and Ammunition |
-| --- | --- | --- | --- | --- |
 | Political (Elections) | IAB11-4 | Politics | 1474 | Politics |
-| --- | --- | --- | --- | --- |
 | Political Issues (Non-Election) | IAB11-4 | Politics | 1474 | Politics |
-| --- | --- | --- | --- | --- |
 | Politics | IAB11-4 | Politics | 1474 | Politics |
-| --- | --- | --- | --- | --- |
 | Prescription Drugs | IAB7 | Health & Fitness | 1473 | Pharmaceuticals |
-| --- | --- | --- | --- | --- |
 | Religion | IAB23 | Religion & Spirituality | 1487 | Religion and Spirituality |
-| --- | --- | --- | --- | --- |
 | Sexual & Reproductive Health | IAB7-30,IAB7-31,IAB7-39 | Infertility, Men's Health, Sexuality | 1519 | Sexual Health |
-| --- | --- | --- | --- | --- |
-| Significant Skin Exposure: | IAB25-3,IAB25-4 | Pornography, Profane Content | 1001 | Adult Products and Services |
-| --- | --- | --- | --- | --- |
+| Significant Skin Exposure | IAB25-3,IAB25-4 | Pornography, Profane Content | 1001 | Adult Products and Services |
 | Software | IAB3-4,IAB19-3,IAB19-16 | Business Software, Antivirus Software, Graphics Software | 1028 | Computer Software |
-| --- | --- | --- | --- | --- |
 | Tobacco/ Smoking Products | IAB9-9 | Cigars | 1544 | Tobacco |
-| --- | --- | --- | --- | --- |
-| Video Games (Casual & Online): | IAB9-30,IAB9-25 | Video & Computer Games, Roleplaying Games | 1120 | Video Games |
-| --- | --- | --- | --- | --- |
-| Weight Loss: | IAB7-44 | Weight Loss | 1291 | Dieting and Weightloss |
-| --- | --- | --- | --- | --- |
+| Video Games (Casual & Online) | IAB9-30,IAB9-25 | Video & Computer Games, Roleplaying Games | 1120 | Video Games |
+| Weight Loss | IAB7-44 | Weight Loss | 1291 | Dieting and Weightloss |
 
 
 
