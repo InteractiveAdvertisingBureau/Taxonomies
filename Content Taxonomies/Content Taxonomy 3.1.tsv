@@ -301,7 +301,6 @@ KHPC6A	SPSHQ5	Western	Genres	Western			SCD
 276	274	Remodeling & Construction	Home & Garden	Remodeling & Construction			
 277	274	Smart Home	Home & Garden	Smart Home			SCD
 383		Law	Law				SCD
-WQC6HR	602	Maps & Navigation	Maps & Navigation				SCD
 286		Medical Health	Medical Health				SCD
 323	286	Cosmetic Medical Services	Medical Health	Cosmetic Medical Services			SCD
 287	286	Diseases and Conditions	Medical Health	Diseases and Conditions			SCD
@@ -622,6 +621,7 @@ mm3UXx	v9i3On	Online Piracy	Sensitive Topics	Online Piracy
 611	602	Databases	Technology & Computing	Computing	Computer Software and Applications	Databases	
 612	602	Desktop Publishing	Technology & Computing	Computing	Computer Software and Applications	Desktop Publishing	
 613	602	Digital Audio	Technology & Computing	Computing	Computer Software and Applications	Digital Audio	
+WQC6HR	602	Maps & Navigation 	Technology & Computing	Computing	Computer Software and Applications	Maps & Navigation	
 614	602	Graphics Software	Technology & Computing	Computing	Computer Software and Applications	Graphics Software	
 615	602	Operating Systems	Technology & Computing	Computing	Computer Software and Applications	Operating Systems	
 604	602	Photo Editing Software	Technology & Computing	Computing	Computer Software and Applications	Photo Editing Software	
