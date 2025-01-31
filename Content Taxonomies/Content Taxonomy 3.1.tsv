@@ -8,8 +8,8 @@ Unique ID	Parent	Name	Tier 1	Tier 2	Tier 3	Tier 4
 154	150	Malls & Shopping Centers	Attractions	Malls & Shopping Centers			
 155	150	Museums & Galleries	Attractions	Museums & Galleries			
 158	150	Nightclubs	Attractions	Nightclubs			
-159	150	Outdoor Attractions	Attractions	Outdoor Activities			
-160	150	Parks	Attractions	Parks & Nature			
+159	150	Outdoor Activities	Attractions	Outdoor Activities			
+160	150	Parks & Nature	Attractions	Parks & Nature			
 177	150	Theater Venues	Attractions	Theater Venues			
 178	150	Zoos & Aquariums	Attractions	Zoos & Aquariums			
 1		Automotive	Automotive				
@@ -205,7 +205,7 @@ JLBCU7		Entertainment	Entertainment
 213	210	Vegetarian Diets	Food & Drink	Vegetarian Diets			
 214	210	World Cuisines	Food & Drink	World Cuisines			
 SPSHQ5		Genres	Genres				
-VKIV56	SPSHQ5	Nature	Genres				
+VKIV56	SPSHQ5	Nature	Genres	Nature			
 325	SPSHQ5	Action/Adventure	Genres	Action/Adventure			
 641	SPSHQ5	Animation & Anime	Genres	Animation & Anime			
 44	SPSHQ5	Biographies	Genres	Biographies			
@@ -220,7 +220,7 @@ EZWB7V	SPSHQ5	History	Genres	History
 336	SPSHQ5	Horror	Genres	Horror			
 TIFQA5	SPSHQ5	Lifestyle	Genres	Lifestyle			
 650	SPSHQ5	Music Video	Genres	Music Video			
-156	SPSHQ5	Musicals	Genres	Musical			
+156	SPSHQ5	Musical	Genres	Musical			
 331	SPSHQ5	Mystery	Genres	Mystery			
 651	SPSHQ5	Reality TV	Genres	Reality TV			
 326	SPSHQ5	Romance	Genres	Romance			
@@ -313,7 +313,7 @@ KHPC6A	SPSHQ5	Western	Genres	Western			SCD
 316	287	Dental Health	Medical Health	Diseases and Conditions	Dental Health		SCD
 317	287	Diabetes	Medical Health	Diseases and Conditions	Diabetes		SCD
 318	287	Digestive Disorders	Medical Health	Diseases and Conditions	Digestive Disorders		SCD
-289	287	Ear, Nose and Throat Conditions	Medical Health	Diseases and Conditions	Ear, Nose and Throat Conditions		SCD
+289	287	"Ear, Nose and Throat Conditions"	Medical Health	Diseases and Conditions	"Ear, Nose and Throat Conditions"		SCD
 290	287	Endocrine and Metabolic Diseases	Medical Health	Diseases and Conditions	Endocrine and Metabolic Diseases		SCD
 291	290	Hormonal Disorders	Medical Health	Diseases and Conditions	Endocrine and Metabolic Diseases	Hormonal Disorders	SCD
 292	290	Menopause	Medical Health	Diseases and Conditions	Endocrine and Metabolic Diseases	Menopause	SCD
@@ -368,7 +368,7 @@ KHPC6A	SPSHQ5	Western	Genres	Western			SCD
 367	363	Hard Rock	Entertainment	Rock Music	Hard Rock		
 368	363	Soft Rock	Entertainment	Rock Music	Soft Rock		
 353	338	Songwriters/Folk	Entertainment	Songwriters/Folk			
-369	338	Soundtracks, TV and Showtunes	Entertainment	Soundtracks, TV and Showtunes			
+369	338	"Soundtracks, TV and Showtunes"	Entertainment	"Soundtracks, TV and Showtunes"			
 352	338	World/International Music	Entertainment	World/International Music			
 377	338	Urban Contemporary Music	Entertainment	Urban Contemporary Music			
 378	338	Variety (Music and Audio)	Entertainment	Variety (Music and Audio)			
@@ -427,7 +427,7 @@ KHPC6A	SPSHQ5	Western	Genres	Western			SCD
 386		Politics	Politics				
 8YPBBL	386	Civic affairs	Politics	Civic affairs			
 387	386	Elections	Politics	Elections			
-388	386	Political Issues & Policy	Politics	Political Issues & policy			
+388	386	Political Issues & Policy	Politics	Political Issues & Policy			
 432		Pop Culture	Pop Culture				
 433	432	Celebrity Deaths	Pop Culture	Celebrity Deaths			
 434	432	Celebrity Families	Pop Culture	Celebrity Families			
@@ -474,11 +474,11 @@ W3CW2J	602	Productivity	Productivity
 v9i3On		Sensitive Topics	Sensitive Topics				
 Rm3SiT	v9i3On	Adult & Explicit Sexual Content	Sensitive Topics	Adult & Explicit Sexual Content			
 avbNf2	v9i3On	Arms & Ammunition	Sensitive Topics	Arms & Ammunition			
-XtODT3	v9i3On	Crime & Harmful Acts to Individuals, Society & Human Right Violations	Sensitive Topics	Crime & Harmful Acts to Individuals, Society & Human Right Violations			
-I4GWl6	v9i3On	Death, Injury, or Military Conflict	Sensitive Topics	Death, Injury, or Military Conflict			
+XtODT3	v9i3On	"Crime & Harmful Acts to Individuals, Society & Human Right Violations"	Sensitive Topics	"Crime & Harmful Acts to Individuals, Society & Human Right Violations"			
+I4GWl6	v9i3On	"Death, Injury, or Military Conflict"	Sensitive Topics	"Death, Injury, or Military Conflict"			
 Z7rJBM	v9i3On	Debated Sensitive Social Issues	Sensitive Topics	Debated Sensitive Social Issues			
 HxqYV1	v9i3On	Hate Speech and Acts of Aggression	Sensitive Topics	Hate Speech and Acts of Aggression			
-pg0WhF	v9i3On	Illegal Drugs, Tobacco, eCigarettes, Vaping, Alcohol	Sensitive Topics	Illegal Drugs, Tobacco, eCigarettes, Vaping, Alcohol			
+pg0WhF	v9i3On	"Illegal Drugs, Tobacco, eCigarettes, Vaping, Alcohol"	Sensitive Topics	"Illegal Drugs, Tobacco, eCigarettes, Vaping, Alcohol"			
 j9PaO9	v9i3On	Obscenity and Profanity	Sensitive Topics	Obscenity and Profanity			
 mm3UXx	v9i3On	Online Piracy	Sensitive Topics	Online Piracy			
 6i4dB6	v9i3On	Spam or Harmful Content	Sensitive Topics	Spam or Harmful Content			
@@ -497,7 +497,7 @@ mm3UXx	v9i3On	Online Piracy	Sensitive Topics	Online Piracy
 483		Sports	Sports				
 484	483	American Football	Sports	American Football			
 507	483	Australian Rules Football	Sports	Australian Rules Football			
-518	483	Auto Racing	Sports	Auto Racing			SCD
+518	483	Auto Racing	Sports	Auto Racing			
 519	518	Motorcycle Sports	Sports	Auto Racing	Motorcycle Sports		
 534	483	Badminton	Sports	Badminton			
 545	483	Baseball	Sports	Baseball			
@@ -613,7 +613,7 @@ mm3UXx	v9i3On	Online Piracy	Sensitive Topics	Online Piracy
 599	596	Computing	Technology & Computing	Computing			
 600	599	Computer Networking	Technology & Computing	Computing	Computer Networking		
 601	599	Computer Peripherals	Technology & Computing	Computing	Computer Peripherals		
-602	599	Software and Applications	Technology & Computing	Computing	Computer Software and Applications		
+602	599	Computer Software and Applications	Technology & Computing	Computing	Computer Software and Applications		
 603	602	3-D Graphics	Technology & Computing	Computing	Computer Software and Applications	3-D Graphics	
 608	602	Antivirus Software	Technology & Computing	Computing	Computer Software and Applications	Antivirus Software	
 609	602	Browsers	Technology & Computing	Computing	Computer Software and Applications	Browsers	
@@ -621,7 +621,7 @@ mm3UXx	v9i3On	Online Piracy	Sensitive Topics	Online Piracy
 611	602	Databases	Technology & Computing	Computing	Computer Software and Applications	Databases	
 612	602	Desktop Publishing	Technology & Computing	Computing	Computer Software and Applications	Desktop Publishing	
 613	602	Digital Audio	Technology & Computing	Computing	Computer Software and Applications	Digital Audio	
-WQC6HR	602	Maps & Navigation 	Technology & Computing	Computing	Computer Software and Applications	Maps & Navigation	
+WQC6HR	602	Maps & Navigation	Technology & Computing	Computing	Computer Software and Applications	Maps & Navigation	
 614	602	Graphics Software	Technology & Computing	Computing	Computer Software and Applications	Graphics Software	
 615	602	Operating Systems	Technology & Computing	Computing	Computer Software and Applications	Operating Systems	
 604	602	Photo Editing Software	Technology & Computing	Computing	Computer Software and Applications	Photo Editing Software	
