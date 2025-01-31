@@ -313,7 +313,7 @@ KHPC6A	SPSHQ5	Western	Genres	Western			SCD
 316	287	Dental Health	Medical Health	Diseases and Conditions	Dental Health		SCD
 317	287	Diabetes	Medical Health	Diseases and Conditions	Diabetes		SCD
 318	287	Digestive Disorders	Medical Health	Diseases and Conditions	Digestive Disorders		SCD
-289	287	"Ear, Nose and Throat Conditions"	Medical Health	Diseases and Conditions	"Ear, Nose and Throat Conditions"		SCD
+289	287	Ear, Nose and Throat Conditions	Medical Health	Diseases and Conditions	Ear, Nose and Throat Conditions		SCD
 290	287	Endocrine and Metabolic Diseases	Medical Health	Diseases and Conditions	Endocrine and Metabolic Diseases		SCD
 291	290	Hormonal Disorders	Medical Health	Diseases and Conditions	Endocrine and Metabolic Diseases	Hormonal Disorders	SCD
 292	290	Menopause	Medical Health	Diseases and Conditions	Endocrine and Metabolic Diseases	Menopause	SCD
@@ -368,7 +368,7 @@ KHPC6A	SPSHQ5	Western	Genres	Western			SCD
 367	363	Hard Rock	Entertainment	Rock Music	Hard Rock		
 368	363	Soft Rock	Entertainment	Rock Music	Soft Rock		
 353	338	Songwriters/Folk	Entertainment	Songwriters/Folk			
-369	338	"Soundtracks, TV and Showtunes"	Entertainment	"Soundtracks, TV and Showtunes"			
+369	338	Soundtracks, TV and Showtunes	Entertainment	Soundtracks, TV and Showtunes			
 352	338	World/International Music	Entertainment	World/International Music			
 377	338	Urban Contemporary Music	Entertainment	Urban Contemporary Music			
 378	338	Variety (Music and Audio)	Entertainment	Variety (Music and Audio)			
@@ -474,11 +474,11 @@ W3CW2J	602	Productivity	Productivity
 v9i3On		Sensitive Topics	Sensitive Topics				
 Rm3SiT	v9i3On	Adult & Explicit Sexual Content	Sensitive Topics	Adult & Explicit Sexual Content			
 avbNf2	v9i3On	Arms & Ammunition	Sensitive Topics	Arms & Ammunition			
-XtODT3	v9i3On	"Crime & Harmful Acts to Individuals, Society & Human Right Violations"	Sensitive Topics	"Crime & Harmful Acts to Individuals, Society & Human Right Violations"			
-I4GWl6	v9i3On	"Death, Injury, or Military Conflict"	Sensitive Topics	"Death, Injury, or Military Conflict"			
+XtODT3	v9i3On	Crime & Harmful Acts to Individuals, Society & Human Right Violations	Sensitive Topics	Crime & Harmful Acts to Individuals, Society & Human Right Violations			
+I4GWl6	v9i3On	Death, Injury, or Military Conflict	Sensitive Topics	Death, Injury, or Military Conflict			
 Z7rJBM	v9i3On	Debated Sensitive Social Issues	Sensitive Topics	Debated Sensitive Social Issues			
 HxqYV1	v9i3On	Hate Speech and Acts of Aggression	Sensitive Topics	Hate Speech and Acts of Aggression			
-pg0WhF	v9i3On	"Illegal Drugs, Tobacco, eCigarettes, Vaping, Alcohol"	Sensitive Topics	"Illegal Drugs, Tobacco, eCigarettes, Vaping, Alcohol"			
+pg0WhF	v9i3On	Illegal Drugs, Tobacco, eCigarettes, Vaping, Alcohol	Sensitive Topics	Illegal Drugs, Tobacco, eCigarettes, Vaping, Alcohol			
 j9PaO9	v9i3On	Obscenity and Profanity	Sensitive Topics	Obscenity and Profanity			
 mm3UXx	v9i3On	Online Piracy	Sensitive Topics	Online Piracy			
 6i4dB6	v9i3On	Spam or Harmful Content	Sensitive Topics	Spam or Harmful Content			
