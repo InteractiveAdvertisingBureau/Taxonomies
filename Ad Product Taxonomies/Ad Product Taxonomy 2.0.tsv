@@ -366,7 +366,7 @@ Unique ID	Parent ID	Name	Tier 1	Tier 2	Tier 3
 1364	1361	Give Aways	Gambling	Give Aways	
 1365	1361	Lottery	Gambling	Lottery	
 1366	1361	Sports Betting	Gambling	Sports Betting	
-1367	1361	Virtual Betting	Gambling	Virtal Betting	
+1367	1361	Virtual Betting	Gambling	Virtual Betting	
 1368		Green/Eco	Green/Eco		
 1369	1368	Green/Eco Products	Green/Eco	Green/Eco Products	
 1370	1368	Green/Eco Services	Green/Eco	Green/Eco Services	
@@ -581,4 +581,4 @@ Unique ID	Parent ID	Name	Tier 1	Tier 2	Tier 3
 1579	1576	Gun Accessories	Weapons and Ammunition	Gun Accessories	
 1580	1576	Gun Shows and Auctions	Weapons and Ammunition	Gun Shows and Auctions	
 1581	1576	Non-Projectile Weapons	Weapons and Ammunition	Non-Projectile Weapons	
-1582	1576	Taster and Stun Guns	Weapons and Ammunition	Taster and Stun Guns	
+1582	1576	Taser and Stun Guns	Weapons and Ammunition	Taser and Stun Guns	
