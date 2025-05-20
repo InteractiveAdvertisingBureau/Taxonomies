@@ -1,9 +1,8 @@
 # Table of Contents
 
-- [Ad Product 2.0 Implementation Guidance](https://github.com/katieshell/Taxonomies/blob/main/implementation.md#implementation-guidance)
-- [Migrating from Content 1.0](https://github.com/katieshell/Taxonomies/blob/main/implementation.md#migrating-from-content-taxonomy-10)
-- [Implementation Guidance for Content 1.0 → Content 2.0](https://github.com/katieshell/Taxonomies/blob/main/implementation.md#implementation-guidance-for-content-1--content-2-mapping)
-- [Content Taxonomy 3.0 Implementation Guidance]
+- [Ad Product 2.0 Implementation Guidance](https://github.com/InteractiveAdvertisingBureau/Taxonomies/blob/develop/implementation.md#implementation-guidance)
+- [Migrating from Content 1.0](https://github.com/InteractiveAdvertisingBureau/Taxonomies/blob/develop/implementation.md#migrating-from-content-taxonomy-10)
+- [Implementation Guidance for Content 1.0 → Content 2.0](https://github.com/InteractiveAdvertisingBureau/Taxonomies/blob/develop/implementation.md#implementation-guidance-for-content-1--content-2-mapping)
 
 # Implementation Guidance
 
@@ -161,11 +160,11 @@ As its a critical feature, we have more detailed mapping of commonly blocked cat
 | Prescription Drugs | IAB7 | Health & Fitness | 1473 | Pharmaceuticals |
 | Religion | IAB23 | Religion & Spirituality | 1487 | Religion and Spirituality |
 | Sexual & Reproductive Health | IAB7-30,IAB7-31,IAB7-39 | Infertility, Men's Health, Sexuality | 1519 | Sexual Health |
-| Significant Skin Exposure: | IAB25-3,IAB25-4 | Pornography, Profane Content | 1001 | Adult Products and Services |
+| Significant Skin Exposure | IAB25-3,IAB25-4 | Pornography, Profane Content | 1001 | Adult Products and Services |
 | Software | IAB3-4,IAB19-3,IAB19-16 | Business Software, Antivirus Software, Graphics Software | 1028 | Computer Software |
 | Tobacco/ Smoking Products | IAB9-9 | Cigars | 1544 | Tobacco |
-| Video Games (Casual & Online): | IAB9-30,IAB9-25 | Video & Computer Games, Roleplaying Games | 1120 | Video Games |
-| Weight Loss: | IAB7-44 | Weight Loss | 1291 | Dieting and Weightloss |
+| Video Games (Casual & Online) | IAB9-30,IAB9-25 | Video & Computer Games, Roleplaying Games | 1120 | Video Games |
+| Weight Loss | IAB7-44 | Weight Loss | 1291 | Dieting and Weightloss |
 
 
 
