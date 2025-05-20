@@ -3,6 +3,7 @@
 - [Ad Product 2.0 Implementation Guidance](https://github.com/katieshell/Taxonomies/blob/main/implementation.md#implementation-guidance)
 - [Migrating from Content 1.0](https://github.com/katieshell/Taxonomies/blob/main/implementation.md#migrating-from-content-taxonomy-10)
 - [Implementation Guidance for Content 1.0 → Content 2.0](https://github.com/katieshell/Taxonomies/blob/main/implementation.md#implementation-guidance-for-content-1--content-2-mapping)
+- [Content Taxonomy 3.0 Implementation Guidance]
 
 # Implementation Guidance
 
@@ -138,62 +139,33 @@ As its a critical feature, we have more detailed mapping of commonly blocked cat
 | **Special Mappings** | **Content 1.0 Unique IDs** | **Content 1.0 Categories** | **Ad Product 2.0 Unique IDs** | **Ad Product 2.0 Categories** |
 | --- | --- | --- | --- | --- |
 | Alcohol | IAB8-5,IAB8-18 | Cocktails/Beer, Wine | 1002 | Alcohol |
-| --- | --- | --- | --- | --- |
 | Baked Goods | IAB8-8 | Desserts & Baking | 1156, 1231 | Frozen Baked Goods, Refrigerated Baked Goods |
-| --- | --- | --- | --- | --- |
 | Baking Ingredients | IAB8-8 | Desserts & Baking | 1168 | Baking |
-| --- | --- | --- | --- | --- |
 | Black Magic, Astrology & Esoteric | IAB9-20,IAB15-1 | Magic & Illusion, Astrology | 1487, 1488 | Religion and Spirituality, Astrology |
-| --- | --- | --- | --- | --- |
 | Cannabis/Marijuana | IAB7-5 | Alternative Medicine | 1049 | Cannabis |
-| --- | --- | --- | --- | --- |
 | Cosmetic Procedures & Body Modifications | IAB18-2 | Body Art | 1383 | Cosmetic Medical Services |
-| --- | --- | --- | --- | --- |
 | Cryptocurrency | IAB13-7 | Investing | 1448 | Non-Fiat Currency |
-| --- | --- | --- | --- | --- |
 | Dating | IAB14-1 | Dating | 1259 | Dating |
-| --- | --- | --- | --- | --- |
 | Desserts | IAB8-8 | Desserts & Baking | 1158, 1234 | Frozen Desserts, Refrigerated Desserts |
-| --- | --- | --- | --- | --- |
 | Downloadable Utilities | IAB9-30,IAB26-1,IAB26-2,IAB26-3,IAB26-4 | Video & Computer Games, Illegal Content, Illegal Content, Warez, Spyware/Malware, Copyright Infringement | 1028 | Computer Software |
-| --- | --- | --- | --- | --- |
 | Drugs & Supplements | IAB7-41,IAB7-43,IAB7-27,IAB7-22,IAB7-20,IAB7-3,IAB7-38,IAB7-6 | Smoking Cessation, Thyroid Disease, IBS/Crohn's Disease, GERD/Acid Reflux, Diabetes, AIDS/HIV, Senior Health, Arthritis | 1473 | Pharmaceuticals |
-| --- | --- | --- | --- | --- |
 | Fast Food | IAB8-9 | Dining Out | 1358 | Fast Food |
-| --- | --- | --- | --- | --- |
 | Gambling & Betting | IAB9-7 | Card Games | 1361 | Gambling |
-| --- | --- | --- | --- | --- |
 | Guns & Firearms | IAB17-18 | Hunting/Shooting | 1576 | Weapons and Ammunition |
-| --- | --- | --- | --- | --- |
 | Health Ads | IAB7 | Health & Fitness | 1378 | Health and Medical Services |
-| --- | --- | --- | --- | --- |
 | Hemp Based CBD | IAB7-5,IAB7-25,IAB7-26 | Alternative Medicine, Herbs for Health, Holistic Health | 1049 | Cannabis |
-| --- | --- | --- | --- | --- |
 | Hunting & Shooting | IAB17-18 | Hunting/Shooting | 1576 | Weapons and Ammunition |
-| --- | --- | --- | --- | --- |
 | Political (Elections) | IAB11-4 | Politics | 1474 | Politics |
-| --- | --- | --- | --- | --- |
 | Political Issues (Non-Election) | IAB11-4 | Politics | 1474 | Politics |
-| --- | --- | --- | --- | --- |
 | Politics | IAB11-4 | Politics | 1474 | Politics |
-| --- | --- | --- | --- | --- |
 | Prescription Drugs | IAB7 | Health & Fitness | 1473 | Pharmaceuticals |
-| --- | --- | --- | --- | --- |
 | Religion | IAB23 | Religion & Spirituality | 1487 | Religion and Spirituality |
-| --- | --- | --- | --- | --- |
 | Sexual & Reproductive Health | IAB7-30,IAB7-31,IAB7-39 | Infertility, Men's Health, Sexuality | 1519 | Sexual Health |
-| --- | --- | --- | --- | --- |
 | Significant Skin Exposure: | IAB25-3,IAB25-4 | Pornography, Profane Content | 1001 | Adult Products and Services |
-| --- | --- | --- | --- | --- |
 | Software | IAB3-4,IAB19-3,IAB19-16 | Business Software, Antivirus Software, Graphics Software | 1028 | Computer Software |
-| --- | --- | --- | --- | --- |
 | Tobacco/ Smoking Products | IAB9-9 | Cigars | 1544 | Tobacco |
-| --- | --- | --- | --- | --- |
 | Video Games (Casual & Online): | IAB9-30,IAB9-25 | Video & Computer Games, Roleplaying Games | 1120 | Video Games |
-| --- | --- | --- | --- | --- |
 | Weight Loss: | IAB7-44 | Weight Loss | 1291 | Dieting and Weightloss |
-| --- | --- | --- | --- | --- |
-
 
 
 
@@ -319,56 +291,27 @@ Below are categories from Content 1 that do not have a related category in Conte
 
 ## Content Taxonomy Overview
 
-The IAB Tech Lab Content Taxonomy provides a “common language” that all parties—publishers, Server-
-Side Providers (SSPs), Demand-Side Providers (DSPs), verification vendors, and advertisers—can use and
-understand when describing the content of a page, app, or other user environment. The content
-taxonomy is useful in two main use cases— addressability (or contextual targeting) and brand
-safety/suitability (introduced in 2.2).
+The IAB Tech Lab Content Taxonomy provides a “common language” that all parties—publishers, Server- Side Providers (SSPs), Demand-Side Providers (DSPs), verification vendors, and advertisers—can use and understand when describing the content of a page, app, or other user environment. The content taxonomy is useful in two main use cases— addressability (or contextual targeting) and brand safety/suitability (introduced in 2.2).
 
-In addition to the Content Taxonomy, the Taxonomy Working Group has also defined an “Ad Product
-Taxonomy” and an “Audience Taxonomy” (to describe the product being advertised and an audience
-segment, respectively). The relevant taxonomies should be used based on the use case.
+In addition to the Content Taxonomy, the Taxonomy Working Group has also defined an “Ad Product Taxonomy” and an “Audience Taxonomy” (to describe the product being advertised and an audience segment, respectively). The relevant taxonomies should be used based on the use case.
 
-The 3.0 version of the taxonomy does not introduce new concepts, but did result in breaking changes
-(not backwards compatible due to removal of parent categories) when updating to better support video,
-news, podcasts, games and app categories. It also included updates to the “vectors”.
+The 3.0 version of the taxonomy does not introduce new concepts, but did result in breaking changes (not backwards compatible due to removal of parent categories) when updating to better support video, news, podcasts, games and app categories. It also included updates to the “vectors”.
 
 ## Using the Content Taxonomy
 
-The 2.x & 3.x content taxonomy includes two parts – a set of categories that describe the topic context
-or “aboutness”, and an additional set of orthogonal content attributes / “vectors” such as content
-language, format, language, source, media type, etc. These are all associated with IDs that are used
-when communicating information about a piece of content.
+The 2.x & 3.x content taxonomy includes two parts – a set of categories that describe the topic context or “aboutness”, and an additional set of orthogonal content attributes / “vectors” such as content language, format, language, source, media type, etc. These are all associated with IDs that are used when communicating information about a piece of content.
 
-The IDs within the Taxonomy specs should be used when tagging content. The IDs are alphanumeric
-strings (though a large number are currently sequential numbers to maintain backwards compatibility)
-associated with each category or orthogonal attribute. The implementations involved may be different
-depending on the application—OpenRTB (real-time bidding) or digital video ad serving template (VAST)
-or proprietary application programming interfaces (APIs)—but the most common usage is to associate a
-piece of content with an array of IDs.
+The IDs within the Taxonomy specs should be used when tagging content. The IDs are alphanumeric strings (though a large number are currently sequential numbers to maintain backwards compatibility) associated with each category or orthogonal attribute. The implementations involved may be different depending on the application—OpenRTB (real-time bidding) or digital video ad serving template (VAST) or proprietary application programming interfaces (APIs)—but the most common usage is to associate a piece of content with an array of IDs.
 
-With OpenRTB / AdCOM (Advertising Common Object Model), the “cat” attribute should be used to
-transmit a list of categories associated with the content and the “cattax” attribute should be set to 2 (for
-Content Taxonomy version 2.x and higher). These attributes are available on Ad, Site, App, Publisher,
-Producer, and Content objects.
+With OpenRTB / AdCOM (Advertising Common Object Model), the “cat” attribute should be used to transmit a list of categories associated with the content and the “cattax” attribute should be set to 2 (for Content Taxonomy version 2.x and higher). These attributes are available on Ad, Site, App, Publisher, Producer, and Content objects.
 
 
-_Note 1 : The SCD (“Special Category Data”) extension in the Taxonomy is an additional utility aimed at
-minimizing the risk that content categorization signals could be used to generate sensitive data points
-about things like race, politics, religion or other personal characteristics that could result in
-discrimination. While the Content Taxonomy itself doesn’t constitute sensitive data – it simply
-categorizes page content, and does not on its own reveal information about a user – there are few
-technical controls preventing taxonomy nodes being associated with individual IDs to build behavioral
-profiles over time based on content preferences. Content Taxonomy 2.1 helps to limit this possibility by
-introducing a “sensitive data” flag to taxonomy nodes that could be used to generate this data, and
-provides a clear signal to supply chain participants regarding the privacy implications of storing it._
+_Note 1 : The SCD (“Special Category Data”) extension in the Taxonomy is an additional utility aimed at minimizing the risk that content categorization signals could be used to generate sensitive data points about things like race, politics, religion or other personal characteristics that could result in discrimination. While the Content Taxonomy itself doesn’t constitute sensitive data – it simply categorizes page content, and does not on its own reveal information about a user – there are few technical controls preventing taxonomy nodes being associated with individual IDs to build behavioral profiles over time based on content preferences. Content Taxonomy 2.1 helps to limit this possibility by introducing a “sensitive data” flag to taxonomy nodes that could be used to generate this data, and provides a clear signal to supply chain participants regarding the privacy implications of storing it._
 
 
 ### Descriptions of the “Vectors”
 
-Given the large number of items in the taxonomy, we are not providing descriptions for every item.
-However, we believe it is important to provide some basic guidance around the “Vectors” in the
-taxonomy, as part of this implementation guide.
+Given the large number of items in the taxonomy, we are not providing descriptions for every item. However, we believe it is important to provide some basic guidance around the “Vectors” in the taxonomy, as part of this implementation guide.
 
 
 |Category |Description|
@@ -391,8 +334,7 @@ taxonomy, as part of this implementation guide.
 |Informational -> Instructional Content| Content that has the purpose of describing how to do things or how things work|
 |Informational → News Content| that has the purpose of providing previously unknown information (for the majority of the audience)|
 |Informational → News -> Opinions and Op Eds| Content that presents views or judgements about current events, world affairs or other topics as a part of a news publication.|
-|Informational -> Review Content| that has the purpose of presenting a critical assessment of something, such as of a movie, book,
-restaurant, product, a company, practitioner or consumer experience|
+|Informational -> Review Content| that has the purpose of presenting a critical assessment of something, such as of a movie, book, restaurant, product, a company, practitioner or consumer experience|
 |Commerce Content| that supports or has the purpose of facilitating buying and selling goods or services|
 |Content Source| Describes the origin of the content and the authority of its producer.|
 |Professionally Produced Content| produced by professionals, with editorial oversight.|
@@ -445,13 +387,9 @@ The risk levels in the Framework that identify the levels of suitability are tre
 3. Medium Risk
 4. Low Risk
 
-_Note 1: at the time of release (October 2020), the only topics in the Content Taxonomy that are expected
-to carry risk associations are the 11 Brand Safety categories. The Tech Lab’s Taxonomy Working Group
-will work with our members as well as with GARM and IAB to determine whether the risk associations
-can be applied to other categories in the future._
+_Note 1: at the time of release (October 2020), the only topics in the Content Taxonomy that are expected to carry risk associations are the 11 Brand Safety categories. The Tech Lab’s Taxonomy Working Group will work with our members as well as with GARM and IAB to determine whether the risk associations can be applied to other categories in the future._
 
-_Note 2: the orthogonal attributes supported by the taxonomy, like content type and source, could be
-used as additional signals since they have implications to suitability (for example news)._
+_Note 2: the orthogonal attributes supported by the taxonomy, like content type and source, could be used as additional signals since they have implications to suitability (for example news)._
 
 
 ## Content Taxonomy Usage Guidance for Buyers
@@ -524,25 +462,14 @@ In order to allow buyers to target campaigns based on interest, DSPs should make
 To support brand safety and suitability, there are two key areas publishers and server-side providers (SSPs) should be aware of and implement support for:
 
 1. Floor content
-    The key guidance to publishers and SSPs is that they should strongly consider preventing the
-    presence of content that would receive a “Floor” risk level in association with any of the 11
-    Brand Safety categories. Barring that, at a minimum they should consider not monetizing or
-    allowing advertising on any such content.
+    The key guidance to publishers and SSPs is that they should strongly consider preventing the presence of content that would receive a “Floor” risk level in association with any of the 11 Brand Safety categories. Barring that, at a minimum they should consider not monetizing or allowing advertising on any such content.
 2. Providing context
-    When making ad requests, publishers and SSPs should tag each piece of content with the
-    relevant content categories from the Content Taxonomy and provide those in the OpenRTB or
-    VAST bid request (as described in section 2). It is very likely that the buy side platforms will want
-    to perform their own analysis using ad verification vendors of the content categories, as well as
-    the floor & suitability checks. So, Publishers/SSPs should also provide the URL of the content, so
-    that the ad verification vendors can perform their checks.
+    When making ad requests, publishers and SSPs should tag each piece of content with the relevant content categories from the Content Taxonomy and provide those in the OpenRTB or VAST bid request (as described in section 2). It is very likely that the buy side platforms will want to perform their own analysis using ad verification vendors of the content categories, as well as the floor & suitability checks. So, Publishers/SSPs should also provide the URL of the content, so that the ad verification vendors can perform their checks.
 
 
 At this time OpenRTB does not support the ability to pass suitability information per category (a general suitability level can be passed now). We are working on an OpenRTB extensions to support that capability. The extension would allow an array of objects with brand safety category and associated risk tolerance levels - similar to the sample in the Section 5.
 
-_Note: We would like to solicit feedback during public comment on whether publishers/SSPs plan to send
-suitability information in ad requests, and also whether DSPs/buyers would use that signal if it comes
-from publishers/SSPs. At a minimum this information could be a starting point that can be verified by the
-buy side._
+_Note: We would like to solicit feedback during public comment on whether publishers/SSPs plan to send suitability information in ad requests, and also whether DSPs/buyers would use that signal if it comes from publishers/SSPs. At a minimum this information could be a starting point that can be verified by the buy side._
 
 **_Addressability/Targeting:_**
 Publishers and SSPs should populate ad requests in OpenRTB or VAST (or other integrations) with relevant Content Taxonomy categories for each piece of content, so that buyers can execute contextual targeting on the requests. In addition, the pageurl should be sent along so that ad verification vendors and DSPs can confirm the categorization themselves.
@@ -551,9 +478,7 @@ Publishers and SSPs should populate ad requests in OpenRTB or VAST (or other int
 
 We introduced a number of changes in 3.0 to better support News use cases.
 
-First, we updated the “Content Purpose” vector with an “Informational” category, and child nodes including “News”, “Opinion & Op-Ed”, which are relevant to news. Second, we removed the “News & Politics” aboutness category to avoid limiting news to only
-that tree. Finally, we are recommending that any of the aboutness categories can be used along with the
-News related vectors.
+First, we updated the “Content Purpose” vector with an “Informational” category, and child nodes including “News”, “Opinion & Op-Ed”, which are relevant to news. Second, we removed the “News & Politics” aboutness category to avoid limiting news to only that tree. Finally, we are recommending that any of the aboutness categories can be used along with the News related vectors.
 
 This means, for any piece of content, at a minimum we recommend using:
 
@@ -566,14 +491,9 @@ This means, for any piece of content, at a minimum we recommend using:
 
 Similar to News, in Content Taxonomy 3.0 we have introduced some changes to better support Video genres.
 
-1. Television and Movies are no longer parent categories whose children are the only supported
-    genres. Now any aboutness category can be used to represent relevant genres. That said, added
-    an “Entertainment Genres” group of categories to better support Genres in general. In addition,
-    we have listed the most common video genres below - though other categories can be used too.
-2. Television and Movies are now only intended to be used to mark content related to TV or
-    Movies - not that they are TV shows or Movies themselves.
-3. We have now introduced a set of “Content Form Factor” vector values (Video, Show, Event, Clip,
-    Movie) that should be used for video content.
+1. Television and Movies are no longer parent categories whose children are the only supported genres. Now any aboutness category can be used to represent relevant genres. That said, added an “Entertainment Genres” group of categories to better support Genres in general. In addition, we have listed the most common video genres below - though other categories can be used too.
+2. Television and Movies are now only intended to be used to mark content related to TV or Movies - not that they are TV shows or Movies themselves.
+3. We have now introduced a set of “Content Form Factor” vector values (Video, Show, Event, Clip, Movie) that should be used for video content.
 
 **Common Video Genre categories recommended for Video (all under the “Genres” parent):**
 
@@ -619,12 +539,8 @@ Similar to News, in Content Taxonomy 3.0 we have introduced some changes to bett
 ## Using the Content Taxonomy for Podcasts
 
 1. Form factor Vector : Podcast
-2. Aboutness - Any of the aboutness categories can be used, but recommendations for the most
-    common podcast categories are listed below.
-3. The list below is just the generic recommendation for the podcast categories, but if more
-    intelligence about the podcast is available, a more accurate category should be used. **In fact, we**
-    **recommend that more intelligence should be applied since the generic categorization**
-    **provided by Apple or other platforms may not be sufficiently accurate.**
+2. Aboutness - Any of the aboutness categories can be used, but recommendations for the most common podcast categories are listed below.
+3. The list below is just the generic recommendation for the podcast categories, but if more intelligence about the podcast is available, a more accurate category should be used. **In fact, we** **recommend that more intelligence should be applied since the generic categorization** **provided by Apple or other platforms may not be sufficiently accurate.**
 4. Also, as always, multiple categories can also be used if there is overlap across categories.
 
 Refer to Podcast Mapping to Content 3.1
@@ -643,183 +559,89 @@ Refer to Podcast Mapping to Content 3.1
 
 
 |Apple| Google| Playstation| Xbox| PC/Steam| IABTL Content Taxonomy Aboutness categories|
+|-----|-----|-----|-----|-----|-----|
 |Action| Action| Action| Action &Adventure| Action| Action-Adventure Video Games|
-Adventure Adventure Adventure Action &
-Adventure
-```
-```
-Adventure Action-Adventure Video
-Games
-Adult Adult Video Games
-Arcade Arcade Arcade Action Video Games
-AR Games *Use most relevant
-aboutness depending on
-game
-And use the VR/AR form
-factor in addition to the
-Game form factor
-Board Board Card &
-Board
-```
-```
-Puzzle Video Games
-```
-```
-Card Card Card &
-Board
-```
-```
-Puzzle Video Games
-```
-```
-Casino Casino Casino and Gambling
-Video Games
-Casual Casual Casual Casual Casual Games
-Educational Educational Educational Video Games
-Family Family Kids &
-Family
-```
-```
-Family Video Games
-```
-```
-Fighting Fighting Fighting &
-Martial Arts
-```
-```
-Action Video Games
-```
-```
-Fitness Exercise and Fitness Video
-Games
-Horror Horror Video Games
-Indie Indie *Use most relevant
-aboutness depending on
-game
-```
-
-```
-Apple Google Playstation Xbox PC/Steam IABTL Content Taxonomy
-Aboutness categories
-Kids Kids &
-Family
-```
-```
-Family Video Games
-```
-```
-Music Music Music/Rhyt
-hm
-```
-```
-Music and Party Video
-Games
-Party Music and Party Video
-Games
-Platform Platformer
-& Runner
-```
-```
-Action Video Games
-```
-```
-Puzzle Puzzle Puzzle Puzzle Puzzle Video Games
-Racing Racing Racing Racing &
-Flying
-```
-```
-Racing Racing Video Games
-```
-```
-Role-Playing Role-
-Playing
-```
-```
-Role-Playing Role-Playing Role-Playing Role-Playing Video Games
-```
-```
-Shooter Shooter Shooter Action Video Games
-Simulation Simulation Simulation Simulation Simulation Video Games
-Sports Sports Sports Sports Sports Sports Video Games
-Strategy Strategy Strategy Strategy Strategy Strategy Video Games
-Trivia Trivia Puzzle Video Games
-Unique N/A - Would not include
-Word Word Puzzle Video Games
+|Adventure| Adventure| Adventure| Action & Adventure| Adventure Action-Adventure Video Games|
+| | |Adult| | | Adult Video Games|
+| |Arcade| Arcade| | Arcade| Action Video Games|
+|AR Games| | | | | *Use most relevant aboutness depending on game And use the VR/AR form factor in addition to the Game form factor|
+|Board| Board| | | Card & Board| Puzzle Video Games|
+|Card| Card| | | Card & Board| Puzzle Video Games|
+|Casino| Casino| | | | Casino and Gambling Video Games|
+|Casual| Casual| Casual| | Casual| Casual Games|
+| |Educational| Educational| | | Educational Video Games|
+|Family| | Family| Kids & Family| | Family Video Games|
+| | Fighting| Fighting| Fighting & Martial Arts| Action Video Games|
+| | |Fitness| | | Exercise and Fitness Video Games|
+| | |Horror| | | Horror Video Games|
+|Indie| | | Indie | |*Use most relevant aboutness depending on game|
+|Kids| | | Kids & Family| | Family Video Games|
+|Music| Music| Music/Rhythm| | |Music and Party Video Games|
+| | |Party| | | Music and Party Video Games|
+| | |Platform| | Platformer & Runner| Action Video Games|
+|Puzzle| Puzzle| Puzzle| | Puzzle |Puzzle Video Games|
+|Racing| Racing| Racing| Racing & Flying| Racing Racing Video Games|
+|Role-Playing| Role-Playing| Role-Playing| Role-Playing| Role-Playing| Role-Playing Video Games|
+| | |Shooter| Shooter| Shooter| Action Video Games|
+|Simulation| Simulation| Simulation| | Simulation |Simulation Video Games|
+|Sports| Sports| Sports| Sports| Sports| Sports Video Games|
+|Strategy| Strategy| Strategy| Strategy| Strategy| Strategy Video Games|
+|Trivia| Trivia| | | | Puzzle Video Games|
+| | |Unique| | | N/A - Would not include|
+|Word| Word| | | | Puzzle Video Games|
 
 ## Using the Content Taxonomy for App store categories
 
-Any of the aboutness categories can be used, but the most common ones are listed below, based on
-current app store categories on the most popular app stores (iOS and Google Play). The list below is just
-the generic recommendation for the app store categories, for any given app, if more intelligence about
-the app is available, a more accurate category should be used. In fact, we recommend that more
-intelligence should be applied since the generic categorization provided by the platforms may not be
-sufficiently accurate. As always, multiple categories can also be used if there is overlap across
-categories.
+Any of the aboutness categories can be used, but the most common ones are listed below, based on current app store categories on the most popular app stores (iOS and Google Play). The list below is just the generic recommendation for the app store categories, for any given app, if more intelligence about the app is available, a more accurate category should be used. In fact, we recommend that more intelligence should be applied since the generic categorization provided by the platforms may not be sufficiently accurate. As always, multiple categories can also be used if there is overlap across categories.
 
-```
-iOS App store categories Google Play categories IABTL Content Taxonomy Aboutness
-categories
-Graphics & Design Art & Design Design
-Auto & Vehicles Automotive^
-Beauty Beauty^
-Books Books & Reference Books and Literature^
-Reference *Use most relevant aboutness depending
-on the app
-Business Business Business and Finance^
-Comics Comics and Graphic Novels^
-```
 
-**iOS App store categories Google Play categories IABTL Content Taxonomy Aboutness
-categories**
-Communications Communication^
-Dating Dating^
-Education Education Education^
-Entertainment Entertainment Entertainment
-Events Events^
-Finance Finance Business and Finance^
-Food & Drink Food & Drink Food & Drink^
-Games Games Video Gaming
-Health & Fitness Health & Fitness Fitness and Exercise???^
-House & Home Home & Garden^
-Kids Genres -> Family/Children^
-Developer Tools Libraries & Demo Technology & Computing
-(Or other relevant aboutness categories)
-
-Also use the “Educational content” vector
-Lifestyle Lifestyle Genres -> Lifestyle
-Navigation Maps & Navigation Maps & Navigation^
-Medical Medical Medical Health^
-Music Music & Audio Music^
-Magazines & Newspapers News & Magazines *Use most relevant aboutness depending
-on the app
-Also use Entertainment and/or News vectors
-as relevant
-News *Use most relevant aboutness depending
-on the app
-And use the News vector
-Parenting Parenting^
-Personalisation Software and Applications^
-Photo & Video Photography Photo Editing Software^
-Productivity Productivity Productivity^
-Safari Extensions Productivity^
-Shopping Shopping Shopping^
-Social Networking Social Social Networking^
-Sports Sports Sports^
-Stickers *Use most relevant aboutness depending
-on the app
-Utilities Tools Productivity
-Travel Travel and local Travel^
-Video players and editors Software and Applications^
-Weather Weather Weather^
+|iOS App store categories| Google Play categories| IABTL Content Taxonomy Aboutness categories|
+|-----|-----|-----|
+|Graphics & Design| Art & Design| Design|
+| |Auto & Vehicles| Automotive|
+| |Beauty| Beauty|
+|Books| Books & Reference| Books and Literature|
+|Reference| | *Use most relevant aboutness depending on the app|
+|Business| Business| Business and Finance|
+| |Comics| Comics and Graphic Novels|
+| |Communications| Communication|
+| |Dating| Dating|
+|Education| Education| Education|
+|Entertainment| Entertainment|Entertainment|
+| |Events| Events|
+|Finance| Finance| Business and Finance|
+|Food & Drink| Food & Drink| Food & Drink|
+|Games| Games| Video Gaming|
+|Health & Fitness| Health & Fitness| Fitness and Exercise|
+| |House & Home| Home & Garden|
+|Kids| | Genres -> Family/Children|
+|Developer Tools| Libraries & Demo| Technology & Computing (Or other relevant aboutness categories) Also use the “Educational content” vector|
+|Lifestyle| Lifestyle| Genres -> Lifestyle|
+|Navigation| Maps & Navigation| Maps & Navigation|
+|Medical| Medical| Medical Health|
+|Music| Music & Audio| Music|
+|Magazines & Newspapers| News & Magazines| *Use most relevant aboutness depending on the app Also use Entertainment and/or News vectors as relevant|
+|News| |*Use most relevant aboutness depending on the app And use the News vector|
+| |Parenting |Parenting|
+| |Personalisation| Software and Applications|
+|Photo & Video| Photography| Photo Editing Software|
+|Productivity| Productivity| Productivity|
+|Safari Extensions| | Productivity|
+|Shopping| Shopping| Shopping|
+|Social Networking| Social| Social Networking|
+|Sports |Sports |Sports|
+|Stickers| | *Use most relevant aboutness depending on the app|
+|Utilities| Tools| Productivity|
+|Travel| Travel and local| Travel|
+| |Video players and editors| Software and Applications|
+|Weather| Weather| Weather|
 
 
 ## Using the Content Taxonomy for Radio use cases
 
 1. Form factor Vector : Radio
-2. Aboutness - Any of the aboutness categories can be used, but recommendations for the most
-    common Radio related genres are listed below.
-3. The list below is just the generic recommendation for the Radio categories, but if more
-    intelligence about the content is available, a more accurate category should be used.
+2. Aboutness - Any of the aboutness categories can be used, but recommendations for the most common Radio related genres are listed below.
+3. The list below is just the generic recommendation for the Radio categories, but if more intelligence about the content is available, a more accurate category should be used.
 4. Also, as always, multiple categories can also be used if there is overlap across categories.
 
 **IABTL Content Taxonomy Aboutness categories**
@@ -861,8 +683,6 @@ Weather Weather Weather^
     - Urban Contemporary Music
     - Variety (Music and Audio)
 
-_Note 1: For news, refer to the news section, and use the news related vectors, as well as any relevant
-aboutness categories - like “Business” to reflect Business News_
+_Note 1: For news, refer to the news section, and use the news related vectors, as well as any relevant aboutness categories - like “Business” to reflect Business News_
 
-_Note 2: For Educational, use the “Educational Content” vector, along with any relevant aboutness
-categories._
+_Note 2: For Educational, use the “Educational Content” vector, along with any relevant aboutness categories._
