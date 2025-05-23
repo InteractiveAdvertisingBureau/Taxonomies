@@ -229,7 +229,7 @@ TIFQA5	SPSHQ5	Lifestyle	Genres	Lifestyle
 643	SPSHQ5	Special Interest (Indie/Art House)	Genres	Special Interest (Indie/Art House)			
 370	SPSHQ5	Sports Radio	Genres	Sports Radio			
 371	SPSHQ5	Talk Radio	Genres	Talk Radio			
-376	SPSHQ5	Public Radio	Genres	Talk Radio	Public Radio		
+376	371	Public Radio	Genres	Talk Radio	Public Radio		
 A0AH3G	SPSHQ5	Talk Show	Genres	Talk Show			
 KHPC5A	SPSHQ5	True Crime	Genres	True Crime			
 KHPC6A	SPSHQ5	Western	Genres	Western			SCD
@@ -517,7 +517,7 @@ mm3UXx	v9i3On	Online Piracy	Sensitive Topics	Online Piracy
 494	483	Disabled Sports	Sports	Disabled Sports			
 495	483	Diving	Sports	Diving			
 496	483	Equine Sports	Sports	Equine Sports			
-497	483	Horse Racing	Sports	Equine Sports	Horse Racing		
+497	496	Horse Racing	Sports	Equine Sports	Horse Racing		
 498	483	Extreme Sports	Sports	Extreme Sports			
 499	498	Canoeing and Kayaking	Sports	Extreme Sports	Canoeing and Kayaking		
 500	498	Climbing	Sports	Extreme Sports	Climbing		
