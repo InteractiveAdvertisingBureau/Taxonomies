@@ -1320,10 +1320,10 @@
 	1376	1368	Purchase Intent* | Education and Careers | Teaching Resources |	Purchase Intent*	Education and Careers	Teaching Resources				See *Purchase Intent Classification* Extension
 	1377	752	Purchase Intent* | Family and Parenting	Purchase Intent*	Family and Parenting					See *Purchase Intent Classification* Extension
 	1378	1377	Purchase Intent* | Family and Parenting | Childcare |	Purchase Intent*	Family and Parenting	Childcare				See *Purchase Intent Classification* Extension
-	1379	1379	Purchase Intent* | Family and Parenting | Day Care Centers |	Purchase Intent*	Family and Parenting	Childcare	Day Care Centers			See *Purchase Intent Classification* Extension
-	1380	1379	Purchase Intent* | Family and Parenting | Nanny Services |	Purchase Intent*	Family and Parenting	Childcare	Nanny Services			See *Purchase Intent Classification* Extension
-	1381	1378	Purchase Intent* | Family and Parenting | Genealogy and Family Trees |	Purchase Intent*	Family and Parenting	Genealogy and Family Trees				See *Purchase Intent Classification* Extension
-	1382	1378	Purchase Intent* | Family and Parenting | Kids Activities |	Purchase Intent*	Family and Parenting	Kids Activities				See *Purchase Intent Classification* Extension
+	1379	1378	Purchase Intent* | Family and Parenting | Childcare | Day Care Centers |	Purchase Intent*	Family and Parenting	Childcare	Day Care Centers			See *Purchase Intent Classification* Extension
+	1380	1378	Purchase Intent* | Family and Parenting | Childcare | Nanny Services |	Purchase Intent*	Family and Parenting	Childcare	Nanny Services			See *Purchase Intent Classification* Extension
+	1381	1377	Purchase Intent* | Family and Parenting | Genealogy and Family Trees |	Purchase Intent*	Family and Parenting	Genealogy and Family Trees				See *Purchase Intent Classification* Extension
+	1382	1377	Purchase Intent* | Family and Parenting | Kids Activities |	Purchase Intent*	Family and Parenting	Kids Activities				See *Purchase Intent Classification* Extension
 	1383	752	Purchase Intent* | Finance and Insurance	Purchase Intent*	Finance and Insurance					See *Purchase Intent Classification* Extension
 	1384	1383	Purchase Intent* | Finance and Insurance | Accountants |	Purchase Intent*	Finance and Insurance	Accountants				See *Purchase Intent Classification* Extension
 	1385	1383	Purchase Intent* | Finance and Insurance | Banking |	Purchase Intent*	Finance and Insurance	Banking				See *Purchase Intent Classification* Extension
