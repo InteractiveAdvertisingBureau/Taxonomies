@@ -1,0 +1,1199 @@
+Unique ID	Parent	Name	Tier 1	Tier 2	Tier 3	Tier 4		Unique ID	Name	
+1		Automotive	Automotive					1551	Vehicles	
+2	1	Auto Body Styles	Automotive	Auto Body Styles				1551	Vehicles	
+3	2	Commercial Trucks	Automotive	Auto Body Styles	Commercial Trucks			1551	Vehicles	
+4	2	Sedan	Automotive	Auto Body Styles	Sedan			1551	Vehicles	
+5	2	Station Wagon	Automotive	Auto Body Styles	Station Wagon			1551	Vehicles	
+6	2	SUV	Automotive	Auto Body Styles	SUV			1551	Vehicles	
+7	2	Van	Automotive	Auto Body Styles	Van			1551	Vehicles	
+8	2	Convertible	Automotive	Auto Body Styles	Convertible			1551	Vehicles	
+9	2	Coupe	Automotive	Auto Body Styles	Coupe			1551	Vehicles	
+10	2	Crossover	Automotive	Auto Body Styles	Crossover			1551	Vehicles	
+11	2	Hatchback	Automotive	Auto Body Styles	Hatchback			1551	Vehicles	
+12	2	Microcar	Automotive	Auto Body Styles	Microcar			1551	Vehicles	
+13	2	Minivan	Automotive	Auto Body Styles	Minivan			1551	Vehicles	
+14	2	Off-Road Vehicles	Automotive	Auto Body Styles	Off-Road Vehicles			1551	Vehicles	
+15	2	Pickup Trucks	Automotive	Auto Body Styles	Pickup Trucks			1551	Vehicles	
+16	1	Auto Type	Automotive	Auto Type				1551	Vehicles	
+17	16	Budget Cars	Automotive	Auto Type	Budget Cars			1551	Vehicles	
+18	16	Certified Pre-Owned Cars	Automotive	Auto Type	Certified Pre-Owned Cars			1551	Vehicles	
+19	16	Classic Cars	Automotive	Auto Type	Classic Cars			1551	Vehicles	
+20	16	Concept Cars	Automotive	Auto Type	Concept Cars			1551	Vehicles	
+21	16	Driverless Cars	Automotive	Auto Type	Driverless Cars			1551	Vehicles	
+22	16	Green Vehicles	Automotive	Auto Type	Green Vehicles			1551	Vehicles	
+23	16	Luxury Cars	Automotive	Auto Type	Luxury Cars			1551	Vehicles	
+24	16	Performance Cars	Automotive	Auto Type	Performance Cars			1551	Vehicles	
+25	1	Car Culture	Automotive	Car Culture				1551	Vehicles	
+26	1	Dash Cam Videos	Automotive	Dash Cam Videos				1551	Vehicles	
+27	1	Motorcycles	Automotive	Motorcycles				1551	Vehicles	
+28	1	Road-Side Assistance	Automotive	Road-Side Assistance				1551	Vehicles	
+29	1	Scooters	Automotive	Scooters				1551	Vehicles	
+30	1	Auto Buying and Selling	Automotive	Auto Buying and Selling				1551	Vehicles	
+31	1	Auto Insurance	Automotive	Auto Insurance				1551	Vehicles	
+32	1	Auto Parts	Automotive	Auto Parts				1558	Automotive Parts and Accessories	
+33	1	Auto Recalls	Automotive	Auto Recalls				1562	Auto Repair	
+34	1	Auto Repair	Automotive	Auto Repair				1562	Auto Repair	
+35	1	Auto Safety	Automotive	Auto Safety				1551	Vehicles	
+36	1	Auto Shows	Automotive	Auto Shows				1562	Auto Repair	
+37	1	Auto Technology	Automotive	Auto Technology				1551	Vehicles	
+38	37	Auto Infotainment Technologies	Automotive	Auto Technology	Auto Infotainment Technologies			1551	Vehicles	
+39	37	Auto Navigation Systems	Automotive	Auto Technology	Auto Navigation Systems			1551	Vehicles	
+40	37	Auto Safety Technologies	Automotive	Auto Technology	Auto Safety Technologies			1551	Vehicles	
+41	1	Auto Rentals	Automotive	Auto Rentals				1551	Vehicles	
+42		Books and Literature	Books and Literature					1422	Books and Audio Books	
+43	42	Art and Photography Books	Books and Literature	Art and Photography Books				1422	Books and Audio Books	
+44	42	Biographies	Books and Literature	Biographies				1422	Books and Audio Books	
+45	42	Children's Literature	Books and Literature	Children's Literature				1422	Books and Audio Books	
+46	42	Comics and Graphic Novels	Books and Literature	Comics and Graphic Novels				1422	Books and Audio Books	
+47	42	Cookbooks	Books and Literature	Cookbooks				1422	Books and Audio Books	
+48	42	Fiction	Books and Literature	Fiction				1422	Books and Audio Books	
+49	42	Poetry	Books and Literature	Poetry				1422	Books and Audio Books	
+50	42	Travel Books	Books and Literature	Travel Books				1422	Books and Audio Books	
+51	42	Young Adult Literature	Books and Literature	Young Adult Literature				1422	Books and Audio Books	
+52		Business and Finance	Business and Finance					1010	Business and Industrial	
+53	52	Business	Business and Finance	Business				1010	Business and Industrial	
+54	53	Business Accounting & Finance	Business and Finance	Business	Business Accounting & Finance			339	FInance and Insurance	
+55	53	Human Resources	Business and Finance	Business	Human Resources			1016	Human Resources and Recruiting	
+56	53	Large Business	Business and Finance	Business	Large Business			1010	Business and Industrial	
+57	53	Logistics	Business and Finance	Business	Logistics			1019	Logistics and Delivery	
+58	53	Marketing and Advertising	Business and Finance	Business	Marketing and Advertising			1011	Advertising and Marketing	
+59	53	Sales	Business and Finance	Business	Sales			1010	Business and Industrial	
+60	53	Small and Medium-sized Business	Business and Finance	Business	Small and Medium-sized Business			1047	Small Business	
+61	53	Startups	Business and Finance	Business	Startups			1010	Business and Industrials	
+62	53	Business Administration	Business and Finance	Business	Business Administration			1010	Business and Industrials	
+63	53	Business Banking & Finance	Business and Finance	Business	Business Banking & Finance			1010	Business and Industrials	
+64	63	Angel Investment	Business and Finance	Business	Business Banking & Finance	Angel Investment		1010	Business and Industrials	
+65	63	Bankruptcy	Business and Finance	Business	Business Banking & Finance	Bankruptcy		1010	Business and Industrials	
+66	63	Business Loans	Business and Finance	Business	Business Banking & Finance	Business Loans		1010	Business and Industrials	
+67	63	Debt Factoring & Invoice Discounting	Business and Finance	Business	Business Banking & Finance	Debt Factoring & Invoice Discounting		1010	Business and Industrials	
+68	63	Mergers and Acquisitions	Business and Finance	Business	Business Banking & Finance	Mergers and Acquisitions		1010	Business and Industrials	
+69	63	Private Equity	Business and Finance	Business	Business Banking & Finance	Private Equity		1010	Business and Industrials	
+70	63	Sale & Lease Back	Business and Finance	Business	Business Banking & Finance	Sale & Lease Back		1010	Business and Industrials	
+71	63	Venture Capital	Business and Finance	Business	Business Banking & Finance	Venture Capital		1010	Business and Industrials	
+72	53	Business I.T.	Business and Finance	Business	Business I.T.			1010	Business and Industrials	
+73	53	Business Operations	Business and Finance	Business	Business Operations			1010	Business and Industrials	
+74	53	Consumer Issues	Business and Finance	Business	Consumer Issues			1010	Business and Industrials	
+75	74	Recalls	Business and Finance	Business	Consumer Issues	Recalls		1010	Business and Industrials	
+76	53	Executive Leadership & Management	Business and Finance	Business	Executive Leadership & Management			1010	Business and Industrials	
+77	53	Government Business	Business and Finance	Business	Government Business			1010	Business and Industrials	
+78	53	Green Solutions	Business and Finance	Business	Green Solutions			1032	Green Energy	
+79	53	Business Utilities	Business and Finance	Business	Business Utilities			1010	Business and Industrials	
+80	52	Economy	Business and Finance	Economy				339	FInance and Insurance	
+81	80	Commodities	Business and Finance	Economy	Commodities			339	FInance and Insurance	
+82	80	Currencies	Business and Finance	Economy	Currencies			339	FInance and Insurance	
+83	80	Financial Crisis	Business and Finance	Economy	Financial Crisis			339	Finance and Insurance	
+84	80	Financial Reform	Business and Finance	Economy	Financial Reform			339	Finance and Insurance	
+85	80	Financial Regulation	Business and Finance	Economy	Financial Regulation			339	Finance and Insurance	
+86	80	Gasoline Prices	Business and Finance	Economy	Gasoline Prices			339	Finance and Insurance	
+87	80	Housing Market	Business and Finance	Economy	Housing Market			339	Finance and Insurance	
+88	80	Interest Rates	Business and Finance	Economy	Interest Rates			339	Finance and Insurance	
+89	80	Job Market	Business and Finance	Economy	Job Market			1010	Business and Industrials	
+90	52	Industries	Business and Finance	Industries				1036	Industrials	
+91	90	Advertising Industry	Business and Finance	Industries	Advertising Industry			1036	Industrials	
+92	90	Education industry	Business and Finance	Industries	Education industry			1036	Industrials	
+93	90	Entertainment Industry	Business and Finance	Industries	Entertainment Industry			1036	Industrials	
+94	90	Environmental Services Industry	Business and Finance	Industries	Environmental Services Industry			1036	Industrials	
+95	90	Financial Industry	Business and Finance	Industries	Financial Industry			1036	Industrials	
+96	90	Food Industry	Business and Finance	Industries	Food Industry			1036	Industrials	
+97	90	Healthcare Industry	Business and Finance	Industries	Healthcare Industry			1036	Industrials	
+98	90	Hospitality Industry	Business and Finance	Industries	Hospitality Industry			1036	Industrials	
+99	90	Information Services Industry	Business and Finance	Industries	Information Services Industry			1036	Industrials	
+100	90	Legal Services Industry	Business and Finance	Industries	Legal Services Industry			1036	Industrials	
+101	90	Logistics and Transportation Industry	Business and Finance	Industries	Logistics and Transportation Industry			1036	Industrials	
+102	90	Agriculture	Business and Finance	Industries	Agriculture			1036	Industrials	
+103	90	Management Consulting Industry	Business and Finance	Industries	Management Consulting Industry			1036	Industrials	
+104	90	Manufacturing Industry	Business and Finance	Industries	Manufacturing Industry			1042	Manufacturing	
+105	90	Mechanical and Industrial Engineering Industry	Business and Finance	Industries	Mechanical and Industrial Engineering Industry			1036	Industrials	
+106	90	Media Industry	Business and Finance	Industries	Media Industry			1036	Industrials	
+107	90	Metals Industry	Business and Finance	Industries	Metals Industry			1036	Industrials	
+108	90	Non-Profit Organizations	Business and Finance	Industries	Non-Profit Organizations			1036	Industrials	
+109	90	Pharmaceutical Industry	Business and Finance	Industries	Pharmaceutical Industry			1036	Industrials	
+110	90	Power and Energy Industry	Business and Finance	Industries	Power and Energy Industry			1036	Industrials	
+111	90	Publishing Industry	Business and Finance	Industries	Publishing Industry			1036	Industrials	
+112	90	Real Estate Industry	Business and Finance	Industries	Real Estate Industry			1036	Industrials	
+113	90	Apparel Industry	Business and Finance	Industries	Apparel Industry			1036	Industrials	
+114	90	Retail Industry	Business and Finance	Industries	Retail Industry			1036	Industrials	
+115	90	Technology Industry	Business and Finance	Industries	Technology Industry			1036	Industrials	
+116	90	Telecommunications Industry	Business and Finance	Industries	Telecommunications Industry			1036	Industrials	
+117	90	Automotive Industry	Business and Finance	Industries	Automotive Industry			1041	Transportation	
+118	90	Aviation Industry	Business and Finance	Industries	Aviation Industry			1037	Aerospace and Defense	
+119	90	Biotech and Biomedical Industry	Business and Finance	Industries	Biotech and Biomedical Industry			1043	Medical and Biotechnology	
+120	90	Civil Engineering Industry	Business and Finance	Industries	Civil Engineering Industry			1038	Construction and Engineering	
+121	90	Construction Industry	Business and Finance	Industries	Construction Industry			1038	Construction and Engineering	
+122	90	Defense Industry	Business and Finance	Industries	Defense Industry			1037	Aerospace and Defense	
+123		Careers	Careers					1295	Education and Careers	
+124	123	Apprenticeships	Careers	Apprenticeships				1295	Education and Careers	
+125	123	Career Advice	Careers	Career Advice				1295	Education and Careers	
+126	123	Career Planning	Careers	Career Planning				1295	Education and Careers	
+127	123	Job Search	Careers	Job Search				1295	Education and Careers	
+128	127	Job Fairs	Careers	Job Search	Job Fairs			1295	Education and Careers	
+129	127	Resume Writing and Advice	Careers	Job Search	Resume Writing and Advice			1295	Education and Careers	
+130	123	Remote Working	Careers	Remote Working				1295	Education and Careers	
+131	123	Vocational Training	Careers	Vocational Training				1295	Education and Careers	
+132		Education	Education					1295	Education and Careers	
+133	132	Adult Education	Education	Adult Education				1296	Adult Education	
+134	132	Private School	Education	Private School				1295	Education and Careers	
+135	132	Secondary Education	Education	Secondary Education				1295	Education and Careers	
+136	132	Special Education	Education	Special Education			SCD	1295	Education and Careers	
+137	132	College Education	Education	College Education				1302	Higher Education	
+138	137	College Planning	Education	College Education	College Planning			1295	Education and Careers	
+139	137	Postgraduate Education	Education	College Education	Postgraduate Education			1302	Higher Education	
+140	139	Professional School	Education	College Education	Postgraduate Education	Professional School		1295	Education and Careers	
+141	137	Undergraduate Education	Education	College Education	Undergraduate Education			1302	Higher Education	
+142	132	Early Childhood Education	Education	Early Childhood Education				1295	Education and Careers	
+143	132	Educational Assessment	Education	Educational Assessment				1295	Education and Careers	
+144	143	Standardized Testing	Education	Educational Assessment	Standardized Testing			1295	Education and Careers	
+145	132	Homeschooling	Education	Homeschooling				1308	Homeschooling	
+146	132	Homework and Study	Education	Homework and Study				1295	Education and Careers	
+147	132	Language Learning	Education	Language Learning				1303	Language Learning	
+148	132	Online Education	Education	Online Education				1304	Online Education	
+149	132	Primary Education	Education	Primary Education				1305	Primary Education	
+150		Events and Attractions	Events and Attractions					1315	Events and Performances	
+151	150	Amusement and Theme Parks	Events and Attractions	Amusement and Theme Parks				1315	Events and Performances	
+152	150	Fashion Events	Events and Attractions	Fashion Events				1315	Events and Performances	
+153	150	Historic Site and Landmark Tours	Events and Attractions	Historic Site and Landmark Tours				1315	Events and Performances	
+154	150	Malls & Shopping Centers	Events and Attractions	Malls & Shopping Centers				1315	Events and Performances	
+155	150	Museums & Galleries	Events and Attractions	Museums & Galleries				1315	Events and Performances	
+156	150	Musicals	Events and Attractions	Musicals				1315	Events and Performances	
+157	150	National & Civic Holidays	Events and Attractions	National & Civic Holidays				1315	Events and Performances	
+158	150	Nightclubs	Events and Attractions	Nightclubs				1315	Events and Performances	
+159	150	Outdoor Activities	Events and Attractions	Outdoor Activities				1315	Events and Performances	
+160	150	Parks & Nature	Events and Attractions	Parks & Nature				1315	Events and Performances	
+161	150	Party Supplies and Decorations	Events and Attractions	Party Supplies and Decorations				1315	Events and Performances	
+162	150	Awards Shows	Events and Attractions	Awards Shows				1315	Events and Performances	
+163	150	Personal Celebrations & Life Events	Events and Attractions	Personal Celebrations & Life Events				1315	Events and Performances	
+164	163	Anniversary	Events and Attractions	Personal Celebrations & Life Events	Anniversary			1315	Events and Performances	
+165	163	Wedding	Events and Attractions	Personal Celebrations & Life Events	Wedding			1315	Events and Performances	
+166	163	Baby Shower	Events and Attractions	Personal Celebrations & Life Events	Baby Shower			1315	Events and Performances	
+167	163	Bachelor Party	Events and Attractions	Personal Celebrations & Life Events	Bachelor Party			1315	Events and Performances	
+168	163	Bachelorette Party	Events and Attractions	Personal Celebrations & Life Events	Bachelorette Party			1315	Events and Performances	
+169	163	Birth	Events and Attractions	Personal Celebrations & Life Events	Birth			1315	Events and Performances	
+170	163	Birthday	Events and Attractions	Personal Celebrations & Life Events	Birthday			1315	Events and Performances	
+171	163	Funeral	Events and Attractions	Personal Celebrations & Life Events	Funeral			1315	Events and Performances	
+172	163	Graduation	Events and Attractions	Personal Celebrations & Life Events	Graduation			1315	Events and Performances	
+173	163	Prom	Events and Attractions	Personal Celebrations & Life Events	Prom			1315	Events and Performances	
+174	150	Political Event	Events and Attractions	Political Event				1315	Events and Performances	
+175	150	Religious Events	Events and Attractions	Religious Events				1315	Events and Performances	
+176	150	Sporting Events	Events and Attractions	Sporting Events				1325	Sporting Events	
+177	150	Theater Venues and Events	Events and Attractions	Theater Venues and Events				1327	Theatre and Musicals	
+178	150	Zoos & Aquariums	Events and Attractions	Zoos & Aquariums				1315	Events and Performances	
+179	150	Bars & Restaurants	Events and Attractions	Bars & Restaurants				1315	Events and Performances	
+180	150	Business Expos & Conferences	Events and Attractions	Business Expos & Conferences				1320	Conferences, Lectures and Workshops	
+181	150	Casinos & Gambling	Events and Attractions	Casinos & Gambling				1361	Gambling	
+182	150	Cinemas and Events	Events and Attractions	Cinemas and Events				1317	Cinemas and Movie Events	
+183	150	Comedy Events	Events and Attractions	Comedy Events				1318	Comedy Events	
+184	150	Concerts & Music Events	Events and Attractions	Concerts & Music Events				1319	Concerts	
+185	150	Fan Conventions	Events and Attractions	Fan Conventions				1322	Fan Conventions	
+186		Family and Relationships	Family and Relationships					1328	Family and Parenting	
+187	186	Bereavement	Family and Relationships	Bereavement				1328	Family and Parenting	
+188	186	Dating	Family and Relationships	Dating			SCD	1259	Dating	
+189	186	Divorce	Family and Relationships	Divorce			SCD	1328	Family and Parenting	
+190	186	Eldercare	Family and Relationships	Eldercare				1334	Senior Living	
+191	186	Marriage and Civil Unions	Family and Relationships	Marriage and Civil Unions				1328	Family and Parenting	
+192	186	Parenting	Family and Relationships	Parenting				1328	Family and Parenting	
+193	192	Adoption and Fostering	Family and Relationships	Parenting	Adoption and Fostering			1328	Family and Parenting	
+194	192	Daycare and Pre-School	Family and Relationships	Parenting	Daycare and Pre-School			1330	Day Care Centers	
+195	192	Internet Safety	Family and Relationships	Parenting	Internet Safety			1328	Family and Parenting	
+196	192	Parenting Babies and Toddlers	Family and Relationships	Parenting	Parenting Babies and Toddlers			1329	Childcare	
+197	192	Parenting Children Aged 4-11	Family and Relationships	Parenting	Parenting Children Aged 4-11			1329	Childcare	
+198	192	Parenting Teens	Family and Relationships	Parenting	Parenting Teens			1328	Family and Parenting	
+199	192	Special Needs Kids	Family and Relationships	Parenting	Special Needs Kids		SCD	1328	Family and Parenting	
+200	186	Single Life	Family and Relationships	Single Life			SCD	1259	Dating	
+201		Fine Art	Fine Art					1008	Culture and Fine Art	
+202	201	Costume	Fine Art	Costume				1008	Culture and Fine Art	
+203	201	Dance	Fine Art	Dance				1008	Culture and Fine Art	
+204	201	Design	Fine Art	Design				1008	Culture and Fine Art	
+205	201	Digital Arts	Fine Art	Digital Arts				1008	Culture and Fine Art	
+206	201	Fine Art Photography	Fine Art	Fine Art Photography				1008	Culture and Fine Art	
+207	201	Modern Art	Fine Art	Modern Art				1008	Culture and Fine Art	
+208	201	Opera	Fine Art	Opera				1008	Culture and Fine Art	
+209	201	Theater	Fine Art	Theater				1327	Theatre and Musicals	
+210		Food & Drink	Food & Drink					1165	General Food	
+211	210	Alcoholic Beverages	Food & Drink	Alcoholic Beverages			SCD	1002	Alcohol	
+212	210	Vegan Diets	Food & Drink	Vegan Diets				1165	General Food	
+213	210	Vegetarian Diets	Food & Drink	Vegetarian Diets				1165	General Food	
+214	210	World Cuisines	Food & Drink	World Cuisines			SCD	1165	General Food	
+215	210	Barbecues and Grilling	Food & Drink	Barbecues and Grilling				1128	Barbecue	
+216	210	Cooking	Food & Drink	Cooking				1165	General Food	
+217	210	Desserts and Baking	Food & Drink	Desserts and Baking				1168	Baking	
+218	210	Dining Out	Food & Drink	Dining Out				1165	General Food	
+219	210	Food Allergies	Food & Drink	Food Allergies				1378	Health and Medical Services	
+220	210	Food Movements	Food & Drink	Food Movements				1165	General Food	
+221	210	Healthy Cooking and Eating	Food & Drink	Healthy Cooking and Eating				1165	General Food	
+222	210	Non-Alcoholic Beverages	Food & Drink	Non-Alcoholic Beverages				1131	Beverages	
+223		Healthy Living	Healthy Living					1378	Health and Medical Services	
+224	223	Children's Health	Healthy Living	Children's Health			SCD	1378	Health and Medical Services	
+225	223	Fitness and Exercise	Healthy Living	Fitness and Exercise				1510	Fitness Activities	
+226	225	Participant Sports	Healthy Living	Fitness and Exercise	Participant Sports			1513	Participant Sports Leagues	
+227	225	Running and Jogging	Healthy Living	Fitness and Exercise	Running and Jogging			1510	Fitness Activities	
+228	223	Men's Health	Healthy Living	Men's Health				1378	Health and Medical Services	
+229	223	Nutrition	Healthy Living	Nutrition				1378	Health and Medical Services	
+230	223	Senior Health	Healthy Living	Senior Health				1378	Health and Medical Services	
+231	223	Weight Loss	Healthy Living	Weight Loss			SCD	1263	Dieting and Weightloss	
+232	223	Wellness	Healthy Living	Wellness				1378	Health and Medical Services	
+233	232	Alternative Medicine	Healthy Living	Wellness	Alternative Medicine			1379	Alternative and Natural Medicine	
+234	233	Herbs and Supplements	Healthy Living	Wellness	Alternative Medicine	Herbs and Supplements		1379	Alternative and Natural Medicine	
+235	233	Holistic Health	Healthy Living	Wellness	Alternative Medicine	Holistic Health		1379	Alternative and Natural Medicine	
+236	232	Physical Therapy	Healthy Living	Wellness	Physical Therapy			1392	Physical Therapists	
+237	232	Smoking Cessation	Healthy Living	Wellness	Smoking Cessation		SCD	1544	Tobacco	
+238	223	Women's Health	Healthy Living	Women's Health				1378	Health and Medical Services	
+239		Hobbies & Interests	Hobbies & Interests					1123	Consumer Packaged Goods	
+240	239	Antiquing and Antiques	Hobbies & Interests	Antiquing and Antiques				1076	Antiques	
+241	239	Magic and Illusion	Hobbies & Interests	Magic and Illusion				1495	Arts and Crafts Supplies	
+242	239	Model Toys	Hobbies & Interests	Model Toys				1248	Toys and Games	
+243	239	Musical Instruments	Hobbies & Interests	Musical Instruments				1503	Musical Instruments and Record Stores	
+244	239	Paranormal Phenomena	Hobbies & Interests	Paranormal Phenomena				1422	Books and Audio Books	
+245	239	Radio Control	Hobbies & Interests	Radio Control				1433	Radio and Podcasts	
+246	239	Sci-fi and Fantasy	Hobbies & Interests	Sci-fi and Fantasy				1419	Media	
+247	239	Workshops and Classes	Hobbies & Interests	Workshops and Classes				1295	Education and Careers	
+248	239	Arts and Crafts	Hobbies & Interests	Arts and Crafts				1495	Arts and Crafts Supplies	
+249	248	Beadwork	Hobbies & Interests	Arts and Crafts	Beadwork			1495	Arts and Crafts Supplies	
+250	248	Candle and Soap Making	Hobbies & Interests	Arts and Crafts	Candle and Soap Making			1495	Arts and Crafts Supplies	
+251	248	Drawing and Sketching	Hobbies & Interests	Arts and Crafts	Drawing and Sketching			1495	Arts and Crafts Supplies	
+252	248	Jewelry Making	Hobbies & Interests	Arts and Crafts	Jewelry Making			1495	Arts and Crafts Supplies	
+253	248	Needlework	Hobbies & Interests	Arts and Crafts	Needlework			1495	Arts and Crafts Supplies	
+254	248	Painting	Hobbies & Interests	Arts and Crafts	Painting			1495	Arts and Crafts Supplies	
+255	248	Photography	Hobbies & Interests	Arts and Crafts	Photography			1495	Arts and Crafts Supplies	
+256	248	Scrapbooking	Hobbies & Interests	Arts and Crafts	Scrapbooking			1495	Arts and Crafts Supplies	
+257	248	Woodworking	Hobbies & Interests	Arts and Crafts	Woodworking			1495	Arts and Crafts Supplies	
+258	239	Beekeeping	Hobbies & Interests	Beekeeping				1281	Home and Garden Products	
+259	239	Birdwatching	Hobbies & Interests	Birdwatching				1281	Home and Garden Products	
+260	239	Cigars	Hobbies & Interests	Cigars				1545	Cigars	
+261	239	Collecting	Hobbies & Interests	Collecting				1075	Collectables and Antiques	
+262	261	Comic Books	Hobbies & Interests	Collecting	Comic Books			1078	Collectibles	
+263	261	Stamps and Coins	Hobbies & Interests	Collecting	Stamps and Coins			1077	Coins and Paper Money	Stamps
+264	239	Content Production	Hobbies & Interests	Content Production				1419	Media	
+265	264	Audio Production	Hobbies & Interests	Content Production	Audio Production			1419	Media	
+266	264	Freelance Writing	Hobbies & Interests	Content Production	Freelance Writing			1207	Writing Instruments	
+267	264	Screenwriting	Hobbies & Interests	Content Production	Screenwriting			1419	Media	
+268	264	Video Production	Hobbies & Interests	Content Production	Video Production			1419	Media	
+269	239	Games and Puzzles	Hobbies & Interests	Games and Puzzles				1248	Toys and Games	
+270	269	Board Games and Puzzles	Hobbies & Interests	Games and Puzzles	Board Games and Puzzles			1248	Toys and Games	
+271	269	Card Games	Hobbies & Interests	Games and Puzzles	Card Games			1249	Games	
+272	269	Roleplaying Games	Hobbies & Interests	Games and Puzzles	Roleplaying Games			1249	Games	
+273	239	Genealogy and Ancestry	Hobbies & Interests	Genealogy and Ancestry				1332	Geneaology and Family Trees	
+274		Home & Garden	Home & Garden					1396	Home and Garden Services	
+275	274	Gardening	Home & Garden	Gardening				1396	Home and Garden Services	
+276	274	Remodeling & Construction	Home & Garden	Remodeling & Construction				1413	Remodeling and Construction	
+277	274	Smart Home	Home & Garden	Smart Home				1396	Home and Garden Services	
+278	274	Home Appliances	Home & Garden	Home Appliances				1396	Home and Garden Services	
+279	274	Home Entertaining	Home & Garden	Home Entertaining				1396	Home and Garden Services	
+280	274	Home Improvement	Home & Garden	Home Improvement				1404	Home Improvement and Repair	
+281	274	Home Security	Home & Garden	Home Security				1405	Home Security and Monitoring Applications	
+282	274	Indoor Environmental Quality	Home & Garden	Indoor Environmental Quality				1396	Home and Garden Services	
+283	274	Interior Decorating	Home & Garden	Interior Decorating				1396	Home and Garden Services	
+284	274	Landscaping	Home & Garden	Landscaping				1408	Landscaping Services	
+285	274	Outdoor Decorating	Home & Garden	Outdoor Decorating				1396	Home and Garden Services	
+286		Medical Health	Medical Health					1378	Health and Medical Services	
+287	286	Diseases and Conditions	Medical Health	Diseases and Conditions			SCD	1378	Health and Medical Services	
+288	287	Allergies	Medical Health	Diseases and Conditions	Allergies		SCD	1378	Health and Medical Services	
+289	287	Ear, Nose and Throat Conditions	Medical Health	Diseases and Conditions	Ear, Nose and Throat Conditions		SCD	1378	Health and Medical Services	
+290	287	Endocrine and Metabolic Diseases	Medical Health	Diseases and Conditions	Endocrine and Metabolic Diseases		SCD	1378	Health and Medical Services	
+291	290	Hormonal Disorders	Medical Health	Diseases and Conditions	Endocrine and Metabolic Diseases	Hormonal Disorders	SCD	1378	Health and Medical Services	
+292	290	Menopause	Medical Health	Diseases and Conditions	Endocrine and Metabolic Diseases	Menopause	SCD	1378	Health and Medical Services	
+293	290	Thyroid Disorders	Medical Health	Diseases and Conditions	Endocrine and Metabolic Diseases	Thyroid Disorders	SCD	1378	Health and Medical Services	
+294	287	Eye and Vision Conditions	Medical Health	Diseases and Conditions	Eye and Vision Conditions		SCD	1378	Health and Medical Services	
+295	287	Foot Health	Medical Health	Diseases and Conditions	Foot Health		SCD	1378	Health and Medical Services	
+296	287	Heart and Cardiovascular Diseases	Medical Health	Diseases and Conditions	Heart and Cardiovascular Diseases		SCD	1378	Health and Medical Services	
+297	287	Infectious Diseases	Medical Health	Diseases and Conditions	Infectious Diseases		SCD	1378	Health and Medical Services	
+298	287	Injuries	Medical Health	Diseases and Conditions	Injuries		SCD	1378	Health and Medical Services	
+299	298	First Aid	Medical Health	Diseases and Conditions	Injuries	First Aid	SCD	1378	Health and Medical Services	
+300	287	Lung and Respiratory Health	Medical Health	Diseases and Conditions	Lung and Respiratory Health		SCD	1378	Health and Medical Services	
+301	287	Mental Health	Medical Health	Diseases and Conditions	Mental Health		SCD	1391	Mental Health	
+302	287	Reproductive Health	Medical Health	Diseases and Conditions	Reproductive Health		SCD	1387	Fertility and Family Planning	
+303	302	Birth Control	Medical Health	Diseases and Conditions	Reproductive Health	Birth Control	SCD	1387	Fertility and Family Planning	
+304	302	Infertility	Medical Health	Diseases and Conditions	Reproductive Health	Infertility	SCD	1387	Fertility and Family Planning	
+305	302	Pregnancy	Medical Health	Diseases and Conditions	Reproductive Health	Pregnancy	SCD	1387	Fertility and Family Planning	
+306	287	Blood Disorders	Medical Health	Diseases and Conditions	Blood Disorders		SCD	1378	Health and Medical Services	
+307	287	Sexual Health	Medical Health	Diseases and Conditions	Sexual Health		SCD	1378	Health and Medical Services	
+308	307	Sexual Conditions	Medical Health	Diseases and Conditions	Sexual Health	Sexual Conditions	SCD	1378	Health and Medical Services	
+309	287	Skin and Dermatology	Medical Health	Diseases and Conditions	Skin and Dermatology		SCD	1385	Dermatology	
+310	287	Sleep Disorders	Medical Health	Diseases and Conditions	Sleep Disorders		SCD	1378	Health and Medical Services	
+311	287	Substance Abuse	Medical Health	Diseases and Conditions	Substance Abuse		SCD	1378	Health and Medical Services	
+312	287	Bone and Joint Conditions	Medical Health	Diseases and Conditions	Bone and Joint Conditions		SCD	1378	Health and Medical Services	
+313	287	Brain and Nervous System Disorders	Medical Health	Diseases and Conditions	Brain and Nervous System Disorders		SCD	1378	Health and Medical Services	
+314	287	Cancer	Medical Health	Diseases and Conditions	Cancer		SCD	1378	Health and Medical Services	
+315	287	Cold and Flu	Medical Health	Diseases and Conditions	Cold and Flu		SCD	1378	Health and Medical Services	
+316	287	Dental Health	Medical Health	Diseases and Conditions	Dental Health		SCD	1384	Dental Care	
+317	287	Diabetes	Medical Health	Diseases and Conditions	Diabetes		SCD	1378	Health and Medical Services	
+318	287	Digestive Disorders	Medical Health	Diseases and Conditions	Digestive Disorders		SCD	1378	Health and Medical Services	
+319	286	Medical Tests	Medical Health	Medical Tests			SCD	1378	Health and Medical Services	
+320	286	Pharmaceutical Drugs	Medical Health	Pharmaceutical Drugs			SCD	1378	Health and Medical Services	
+321	286	Surgery	Medical Health	Surgery			SCD	1378	Health and Medical Services	
+322	286	Vaccines	Medical Health	Vaccines			SCD	1378	Health and Medical Services	
+323	286	Cosmetic Medical Services	Medical Health	Cosmetic Medical Services			SCD	1383	Cosmetic Medical Services	
+324		Movies	Movies					1419	Media	
+325	324	Action and Adventure Movies	Movies	Action and Adventure Movies				1419	Media	
+326	324	Romance Movies	Movies	Romance Movies				1419	Media	
+327	324	Science Fiction Movies	Movies	Science Fiction Movies				1419	Media	
+328	324	Special Interest Movies	Movies	Indie and Arthouse Movies				1419	Media	
+329	324	Animation Movies	Movies	Animation Movies				1419	Media	
+330	324	Comedy Movies	Movies	Comedy Movies				1419	Media	
+331	324	Crime and Mystery Movies	Movies	Crime and Mystery Movies				1419	Media	
+332	324	Documentary Movies	Movies	Documentary Movies				1419	Media	
+333	324	Drama Movies	Movies	Drama Movies				1419	Media	
+334	324	Family and Children Movies	Movies	Family and Children Movies				1419	Media	
+335	324	Fantasy Movies	Movies	Fantasy Movies				1419	Media	
+336	324	Horror Movies	Movies	Horror Movies				1419	Media	
+337	324	World Movies	Movies	World Movies				1419	Media	
+338		Music and Audio	Music and Audio					1419	Media	
+339	338	Adult Contemporary Music	Music and Audio	Adult Contemporary Music				1419	Media	
+340	339	Soft AC Music	Music and Audio	Adult Contemporary Music	Soft AC Music			1419	Media	
+341	339	Urban AC Music	Music and Audio	Adult Contemporary Music	Urban AC Music			1419	Media	
+342	338	Adult Album Alternative	Music and Audio	Adult Album Alternative				1419	Media	
+343	338	Alternative Music	Music and Audio	Alternative Music				1419	Media	
+344	338	Children's Music	Music and Audio	Children's Music				1419	Media	
+345	338	Classic Hits	Music and Audio	Classic Hits				1419	Media	
+346	338	Classical Music	Music and Audio	Classical Music				1419	Media	
+347	338	College Radio	Music and Audio	College Radio				1419	Media	
+348	338	Comedy (Music and Audio)	Music and Audio	Comedy (Music and Audio)				1419	Media	
+349	338	Contemporary Hits/Pop/Top 40	Music and Audio	Contemporary Hits/Pop/Top 40				1419	Media	
+350	338	Country Music	Music and Audio	Country Music				1419	Media	
+351	338	Dance and Electronic Music	Music and Audio	Dance and Electronic Music				1419	Media	
+352	338	World/International Music	Music and Audio	World/International Music				1419	Media	
+353	338	Songwriters/Folk	Music and Audio	Songwriters/Folk				1419	Media	
+354	338	Gospel Music	Music and Audio	Gospel Music				1419	Media	
+355	338	Hip Hop Music	Music and Audio	Hip Hop Music				1419	Media	
+356	338	Inspirational/New Age Music	Music and Audio	Inspirational/New Age Music				1419	Media	
+357	338	Jazz	Music and Audio	Jazz				1419	Media	
+358	338	Oldies/Adult Standards	Music and Audio	Oldies/Adult Standards				1419	Media	
+359	338	Reggae	Music and Audio	Reggae				1419	Media	
+360	338	Blues	Music and Audio	Blues				1419	Media	
+361	338	Religious (Music and Audio)	Music and Audio	Religious (Music and Audio)				1419	Media	
+362	338	R&B/Soul/Funk	Music and Audio	R&B/Soul/Funk				1419	Media	
+363	338	Rock Music	Music and Audio	Rock Music				1419	Media	
+364	363	Album-oriented Rock	Music and Audio	Rock Music	Album-oriented Rock			1419	Media	
+365	363	Alternative Rock	Music and Audio	Rock Music	Alternative Rock			1419	Media	
+366	363	Classic Rock	Music and Audio	Rock Music	Classic Rock			1419	Media	
+367	363	Hard Rock	Music and Audio	Rock Music	Hard Rock			1419	Media	
+368	363	Soft Rock	Music and Audio	Rock Music	Soft Rock			1419	Media	
+369	338	Soundtracks, TV and Showtunes	Music and Audio	Soundtracks, TV and Showtunes				1419	Media	
+370	338	Sports Radio	Music and Audio	Sports Radio				1419	Media	
+371	338	Talk Radio	Music and Audio	Talk Radio				1419	Media	
+372	371	Business News Radio	Music and Audio	Talk Radio	Business News Radio			1419	Media	
+373	371	Educational Radio	Music and Audio	Talk Radio	Educational Radio			1419	Media	
+374	371	News Radio	Music and Audio	Talk Radio	News Radio			1419	Media	
+375	371	News/Talk Radio	Music and Audio	Talk Radio	News/Talk Radio			1419	Media	
+376	371	Public Radio	Music and Audio	Talk Radio	Public Radio			1419	Media	
+377	338	Urban Contemporary Music	Music and Audio	Urban Contemporary Music				1419	Media	
+378	338	Variety (Music and Audio)	Music and Audio	Variety (Music and Audio)				1419	Media	
+379		News and Politics	News and Politics					1474	Politics	
+380	379	Crime	News and Politics	Crime					N/A	
+381	379	Disasters	News and Politics	Disasters					N/A	
+382	379	International News	News and Politics	International News				1432	News and Analysis	
+383	379	Law	News and Politics	Law				1432	News and Analysis	
+384	379	Local News	News and Politics	Local News				1432	News and Analysis	
+385	379	National News	News and Politics	National News				1432	News and Analysis	
+386	379	Politics	News and Politics	Politics				1474	Politics	
+387	386	Elections	News and Politics	Politics	Elections		SCD	1476	Elections	
+388	386	Political Issues	News and Politics	Politics	Political Issues		SCD	1474	Politics	
+389	386	War and Conflicts	News and Politics	Politics	War and Conflicts				N/A	
+390	379	Weather	News and Politics	Weather				1442	Weather Apps	
+391		Personal Finance	Personal Finance					1335	Finance and Insurance	
+392	391	Consumer Banking	Personal Finance	Consumer Banking				1337	Banking	
+393	391	Financial Assistance	Personal Finance	Financial Assistance				1335	Finance and Insurance	
+394	393	Government Support and Welfare	Personal Finance	Financial Assistance	Government Support and Welfare			1335	Finance and Insurance	
+395	393	Student Financial Aid	Personal Finance	Financial Assistance	Student Financial Aid			1353	Student Financial Aid	
+396	391	Financial Planning	Personal Finance	Financial Planning				1335	Finance and Insurance	
+397	391	Frugal Living	Personal Finance	Frugal Living				1335	Finance and Insurance	
+398	391	Insurance	Personal Finance	Insurance				1340	Insurance	
+399	398	Health Insurance	Personal Finance	Insurance	Health Insurance			1344	Medical Insurance	
+400	398	Home Insurance	Personal Finance	Insurance	Home Insurance			1342	Home Insurance	
+401	398	Life Insurance	Personal Finance	Insurance	Life Insurance			1343	Life Insurance	
+402	398	Motor Insurance	Personal Finance	Insurance	Motor Insurance			1341	Auto Insurance	
+403	398	Pet Insurance	Personal Finance	Insurance	Pet Insurance			1345	Pet Insurance	
+404	398	Travel Insurance	Personal Finance	Insurance	Travel Insurance			1346	Travel Insurance	
+405	391	Personal Debt	Personal Finance	Personal Debt				1335	Finance and Insurance	
+406	405	Credit Cards	Personal Finance	Personal Debt	Credit Cards			1339	Credit Cards	
+407	405	Home Financing	Personal Finance	Personal Debt	Home Financing			1248	Mortgage Lenders and Brokers	
+408	405	Personal Loans	Personal Finance	Personal Debt	Personal Loans			1335	Finance and Insurance	
+409	405	Student Loans	Personal Finance	Personal Debt	Student Loans			1335	Finance and Insurance	
+410	391	Personal Investing	Personal Finance	Personal Investing			SCD	1351	Stocks and Investments	
+411	410	Hedge Funds	Personal Finance	Personal Investing	Hedge Funds			1351	Stocks and Investments	
+412	410	Mutual Funds	Personal Finance	Personal Investing	Mutual Funds			1351	Stocks and Investments	
+413	410	Options	Personal Finance	Personal Investing	Options			1351	Stocks and Investments	
+414	410	Stocks and Bonds	Personal Finance	Personal Investing	Stocks and Bonds			1351	Stocks and Investments	
+415	391	Personal Taxes	Personal Finance	Personal Taxes				1354	Tax Preparation Services	
+416	391	Retirement Planning	Personal Finance	Retirement Planning				1350	Retirement Planning	
+417	391	Home Utilities	Personal Finance	Home Utilities				1335	Finance and Insurance	
+418	417	Gas and Electric	Personal Finance	Home Utilities	Gas and Electric			1335	Finance and Insurance	
+419	417	Internet Service Providers	Personal Finance	Home Utilities	Internet Service Providers			1335	Finance and Insurance	
+420	417	Phone Services	Personal Finance	Home Utilities	Phone Services			1335	Finance and Insurance	
+421	417	Water Services	Personal Finance	Home Utilities	Water Services			1335	Finance and Insurance	
+422		Pets	Pets					1460	Pet Ownership	
+423	422	Birds	Pets	Birds				1460	Pet Ownership	
+424	422	Cats	Pets	Cats				1460	Pet Ownership	
+425	422	Dogs	Pets	Dogs				1460	Pet Ownership	
+426	422	Fish and Aquariums	Pets	Fish and Aquariums				1460	Pet Ownership	
+427	422	Large Animals	Pets	Large Animals				1460	Pet Ownership	
+428	422	Pet Adoptions	Pets	Pet Adoptions				1461	Pet Adoption	
+429	422	Reptiles	Pets	Reptiles				1460	Pet Ownership	
+430	422	Veterinary Medicine	Pets	Veterinary Medicine				1466	Veterinary Services	
+431	422	Pet Supplies	Pets	Pet Supplies				1463	Pet Care and Supply Applications	
+432		Pop Culture	Pop Culture						N/A	
+433	432	Celebrity Deaths	Pop Culture	Celebrity Deaths					N/A	
+434	432	Celebrity Families	Pop Culture	Celebrity Families					N/A	
+435	432	Celebrity Homes	Pop Culture	Celebrity Homes					N/A	
+436	432	Celebrity Pregnancy	Pop Culture	Celebrity Pregnancy					N/A	
+437	432	Celebrity Relationships	Pop Culture	Celebrity Relationships					N/A	
+438	432	Celebrity Scandal	Pop Culture	Celebrity Scandal					N/A	
+439	432	Celebrity Style	Pop Culture	Celebrity Style					N/A	
+440	432	Humor and Satire	Pop Culture	Humor and Satire					N/A	
+441		Real Estate	Real Estate					1482	Real Estate	
+442	441	Apartments	Real Estate	Apartments				1482	Real Estate	
+443	441	Retail Property	Real Estate	Retail Property				1482	Real Estate	
+444	441	Vacation Properties	Real Estate	Vacation Properties				1482	Real Estate	
+445	441	Developmental Sites	Real Estate	Developmental Sites				1482	Real Estate	
+446	441	Hotel Properties	Real Estate	Hotel Properties				1482	Real Estate	
+447	441	Houses	Real Estate	Houses				1482	Real Estate	
+448	441	Industrial Property	Real Estate	Industrial Property				1482	Real Estate	
+449	441	Land and Farms	Real Estate	Land and Farms				1482	Real Estate	
+450	441	Office Property	Real Estate	Office Property				1483	Commercials Real Estate	
+451	441	Real Estate Buying and Selling	Real Estate	Real Estate Buying and Selling				1485	Real Estate Sales	
+452	441	Real Estate Renting and Leasing	Real Estate	Real Estate Renting and Leasing				1484	Real Estate Rentals	
+453		Religion & Spirituality	Religion & Spirituality				SCD	1487	Religion and Spirituality	
+454	453	Agnosticism	Religion & Spirituality	Agnosticism			SCD	1487	Religion and Spirituality	
+455	453	Spirituality	Religion & Spirituality	Spirituality			SCD	1487	Religion and Spirituality	
+456	453	Astrology	Religion & Spirituality	Astrology			SCD	1488	Astrology	
+457	453	Atheism	Religion & Spirituality	Atheism			SCD	1487	Religion and Spirituality	
+458	453	Buddhism	Religion & Spirituality	Buddhism			SCD	1487	Religion and Spirituality	
+459	453	Christianity	Religion & Spirituality	Christianity			SCD	1487	Religion and Spirituality	
+460	453	Hinduism	Religion & Spirituality	Hinduism			SCD	1487	Religion and Spirituality	
+461	453	Islam	Religion & Spirituality	Islam			SCD	1487	Religion and Spirituality	
+462	453	Judaism	Religion & Spirituality	Judaism			SCD	1487	Religion and Spirituality	
+463	453	Sikhism	Religion & Spirituality	Sikhism			SCD	1487	Religion and Spirituality	
+464		Science	Science					1045	Science and Laboratory	
+465	464	Biological Sciences	Science	Biological Sciences			SCD	1045	Science and Laboratory	
+466	464	Chemistry	Science	Chemistry				1045	Science and Laboratory	
+467	464	Environment	Science	Environment				1045	Science and Laboratory	
+468	464	Genetics	Science	Genetics			SCD	1045	Science and Laboratory	
+469	464	Geography	Science	Geography				1045	Science and Laboratory	
+470	464	Geology	Science	Geology				1045	Science and Laboratory	
+471	464	Physics	Science	Physics				1045	Science and Laboratory	
+472	464	Space and Astronomy	Science	Space and Astronomy				1045	Science and Laboratory	
+473		Shopping	Shopping					1123	Consumer Packaged Goods	
+474	473	Coupons and Discounts	Shopping	Coupons and Discounts				1374	Gift Cards and Coupons	
+475	473	Flower Shopping	Shopping	Flower Shopping				1372	Flowers	
+476	473	Gifts and Greetings Cards	Shopping	Gifts and Greetings Cards				1376	Greeting Cards	
+477	473	Grocery Shopping	Shopping	Grocery Shopping				1123	Consumer Packaged Goods	
+478	473	Holiday Shopping	Shopping	Holiday Shopping				1371	Gifts and Holiday Items	
+479	473	Household Supplies	Shopping	Household Supplies				1123	Consumer Packaged Goods	
+480	473	Lotteries and Scratchcards	Shopping	Lotteries and Scratchcards				1366	Lottery	
+481	473	Sales and Promotions	Shopping	Sales and Promotions				1374	Gift Cards and Coupons	
+482	473	Children's Games and Toys	Shopping	Children's Games and Toys				1248	Toys and Games	
+483		Sports	Sports					1524	Sporting Goods	
+484	483	American Football	Sports	American Football				1524	Sporting Goods	
+485	483	Boxing	Sports	Boxing				1524	Sporting Goods	
+486	483	Cheerleading	Sports	Cheerleading				1524	Sporting Goods	
+487	483	College Sports	Sports	College Sports				1524	Sporting Goods	
+488	487	College Football	Sports	College Sports	College Football			1524	Sporting Goods	
+489	487	College Basketball	Sports	College Sports	College Basketball			1524	Sporting Goods	
+490	487	College Baseball	Sports	College Sports	College Baseball			1524	Sporting Goods	
+491	483	Cricket	Sports	Cricket				1524	Sporting Goods	
+492	483	Cycling	Sports	Cycling				1524	Sporting Goods	
+493	483	Darts	Sports	Darts				1524	Sporting Goods	
+494	483	Disabled Sports	Sports	Disabled Sports				1524	Sporting Goods	
+495	483	Diving	Sports	Diving				1524	Sporting Goods	
+496	483	Equine Sports	Sports	Equine Sports				1524	Sporting Goods	
+497	483	Horse Racing	Sports	Equine Sports	Horse Racing			1524	Sporting Goods	
+498	483	Extreme Sports	Sports	Extreme Sports				1524	Sporting Goods	
+499	498	Canoeing and Kayaking	Sports	Extreme Sports	Canoeing and Kayaking			1524	Sporting Goods	
+500	498	Climbing	Sports	Extreme Sports	Climbing			1524	Sporting Goods	
+501	498	Paintball	Sports	Extreme Sports	Paintball			1524	Sporting Goods	
+502	498	Scuba Diving	Sports	Extreme Sports	Scuba Diving			1524	Sporting Goods	
+503	498	Skateboarding	Sports	Extreme Sports	Skateboarding			1524	Sporting Goods	
+504	498	Snowboarding	Sports	Extreme Sports	Snowboarding			1524	Sporting Goods	
+505	498	Surfing and Bodyboarding	Sports	Extreme Sports	Surfing and Bodyboarding			1524	Sporting Goods	
+506	498	Waterskiing and Wakeboarding	Sports	Extreme Sports	Waterskiing and Wakeboarding			1524	Sporting Goods	
+507	483	Australian Rules Football	Sports	Australian Rules Football				1524	Sporting Goods	
+508	483	Fantasy Sports	Sports	Fantasy Sports				1524	Sporting Goods	
+509	483	Field Hockey	Sports	Field Hockey				1524	Sporting Goods	
+510	483	Figure Skating	Sports	Figure Skating				1524	Sporting Goods	
+511	483	Fishing Sports	Sports	Fishing Sports				1524	Sporting Goods	
+512	483	Golf	Sports	Golf				1524	Sporting Goods	
+513	483	Gymnastics	Sports	Gymnastics				1524	Sporting Goods	
+514	483	Hunting and Shooting	Sports	Hunting and Shooting				1524	Sporting Goods	
+515	483	Ice Hockey	Sports	Ice Hockey				1524	Sporting Goods	
+516	483	Inline Skating	Sports	Inline Skating				1524	Sporting Goods	
+517	483	Lacrosse	Sports	Lacrosse				1524	Sporting Goods	
+518	483	Auto Racing	Sports	Auto Racing				1524	Sporting Goods	
+519	518	Motorcycle Sports	Sports	Auto Racing	Motorcycle Sports			1524	Sporting Goods	
+520	483	Martial Arts	Sports	Martial Arts				1524	Sporting Goods	
+521	483	Olympic Sports	Sports	Olympic Sports				1524	Sporting Goods	
+522	521	Summer Olympic Sports	Sports	Olympic Sports	Summer Olympic Sports			1524	Sporting Goods	
+523	521	Winter Olympic Sports	Sports	Olympic Sports	Winter Olympic Sports			1524	Sporting Goods	
+524	483	Poker and Professional Gambling	Sports	Poker and Professional Gambling				1524	Sporting Goods	
+525	483	Rodeo	Sports	Rodeo				1524	Sporting Goods	
+526	483	Rowing	Sports	Rowing				1524	Sporting Goods	
+527	483	Rugby	Sports	Rugby				1524	Sporting Goods	
+528	527	Rugby League	Sports	Rugby	Rugby League			1524	Sporting Goods	
+529	527	Rugby Union	Sports	Rugby	Rugby Union			1524	Sporting Goods	
+530	483	Sailing	Sports	Sailing				1524	Sporting Goods	
+531	483	Skiing	Sports	Skiing				1524	Sporting Goods	
+532	483	Snooker/Pool/Billiards	Sports	Snooker/Pool/Billiards				1524	Sporting Goods	
+533	483	Soccer	Sports	Soccer				1524	Sporting Goods	
+534	483	Badminton	Sports	Badminton				1524	Sporting Goods	
+535	483	Softball	Sports	Softball				1524	Sporting Goods	
+536	483	Squash	Sports	Squash				1524	Sporting Goods	
+537	483	Swimming	Sports	Swimming				1524	Sporting Goods	
+538	483	Table Tennis	Sports	Table Tennis				1524	Sporting Goods	
+539	483	Tennis	Sports	Tennis				1524	Sporting Goods	
+540	483	Track and Field	Sports	Track and Field				1524	Sporting Goods	
+541	483	Volleyball	Sports	Volleyball				1524	Sporting Goods	
+542	483	Walking	Sports	Walking				1524	Sporting Goods	
+543	483	Water Polo	Sports	Water Polo				1524	Sporting Goods	
+544	483	Weightlifting	Sports	Weightlifting				1524	Sporting Goods	
+545	483	Baseball	Sports	Baseball				1524	Sporting Goods	
+546	483	Wrestling	Sports	Wrestling				1524	Sporting Goods	
+547	483	Basketball	Sports	Basketball				1524	Sporting Goods	
+548	483	Beach Volleyball	Sports	Beach Volleyball				1524	Sporting Goods	
+549	483	Bodybuilding	Sports	Bodybuilding			SCD	1524	Sporting Goods	
+550	483	Bowling	Sports	Bowling				1524	Sporting Goods	
+551	483	Sports Equipment	Sports	Sports Equipment				1524	Sporting Goods	
+552		Style & Fashion	Style & Fashion					1058	Clothing and Accessories	
+553	552	Beauty	Style & Fashion	Beauty				1088	Cosmetic Services	
+554	553	Hair Care	Style & Fashion	Beauty	Hair Care			1090	Hair Salons	
+555	553	Makeup and Accessories	Style & Fashion	Beauty	Makeup and Accessories			1138	Cosmetics	
+556	553	Nail Care	Style & Fashion	Beauty	Nail Care			1093	Nail Salons	
+557	553	Natural and Organic Beauty	Style & Fashion	Beauty	Natural and Organic Beauty			1138	Cosmetics	
+558	553	Perfume and Fragrance	Style & Fashion	Beauty	Perfume and Fragrance			1152	Fragrance	
+559	553	Skin Care	Style & Fashion	Beauty	Skin Care			1244	Skin Care	
+560	552	Women's Fashion	Style & Fashion	Women's Fashion				1067	Women's Clothing	
+561	560	Women's Accessories	Style & Fashion	Women's Fashion	Women's Accessories			1068	Clothing Accessories	
+562	561	Women's Glasses	Style & Fashion	Women's Fashion	Women's Accessories	Women's Glasses		1074	Sunglasses	
+563	561	Women's Handbags and Wallets	Style & Fashion	Women's Fashion	Women's Accessories	Women's Handbags and Wallets		1072	Handbags and Wallets	
+564	561	Women's Hats and Scarves	Style & Fashion	Women's Fashion	Women's Accessories	Women's Hats and Scarves		1068	Clothing Accessories	
+565	561	Women's Jewelry and Watches	Style & Fashion	Women's Fashion	Women's Accessories	Women's Jewelry and Watches		1073	Jewelry and Watches	
+566	560	Women's Clothing	Style & Fashion	Women's Fashion	Women's Clothing			1067	Women's Clothing	
+567	566	Women's Business Wear	Style & Fashion	Women's Fashion	Women's Clothing	Women's Business Wear		1067	Women's Clothing	
+568	566	Women's Casual Wear	Style & Fashion	Women's Fashion	Women's Clothing	Women's Casual Wear		1067	Women's Clothing	
+569	566	Women's Formal Wear	Style & Fashion	Women's Fashion	Women's Clothing	Women's Formal Wear		1067	Women's Clothing	
+570	566	Women's Intimates and Sleepwear	Style & Fashion	Women's Fashion	Women's Clothing	Women's Intimates and Sleepwear		1065	Underwear and Lingerine	
+571	566	Women's Outerwear	Style & Fashion	Women's Fashion	Women's Clothing	Women's Outerwear		1067	Women's Clothing	
+572	566	Women's Sportswear	Style & Fashion	Women's Fashion	Women's Clothing	Women's Sportswear		1067	Women's Clothing	
+573	560	Women's Shoes and Footwear	Style & Fashion	Women's Fashion	Women's Shoes and Footwear			1070	Footwear	
+574	552	Body Art	Style & Fashion	Body Art				1088	Cosmetic Services	
+575	552	Children's Clothing	Style & Fashion	Children's Clothing				1060	Children's Clothing	
+576	552	Designer Clothing	Style & Fashion	Designer Clothing				1059	Clothing	
+577	552	Fashion Trends	Style & Fashion	Fashion Trends				1058	Clothing and Accessories	
+578	552	High Fashion	Style & Fashion	High Fashion				1058	Clothing and Accessories	
+579	552	Men's Fashion	Style & Fashion	Men's Fashion				1062	Men's Clothing	
+580	579	Men's Accessories	Style & Fashion	Men's Fashion	Men's Accessories			1068	Clothing Accessories	
+581	580	Men's Jewelry and Watches	Style & Fashion	Men's Fashion	Men's Accessories	Men's Jewelry and Watches		1073	Jewelry and Watches	
+582	579	Men's Clothing	Style & Fashion	Men's Fashion	Men's Clothing			1062	Men's Clothing	
+583	582	Men's Business Wear	Style & Fashion	Men's Fashion	Men's Clothing	Men's Business Wear		1062	Men's Clothing	
+584	582	Men's Casual Wear	Style & Fashion	Men's Fashion	Men's Clothing	Men's Casual Wear		1062	Men's Clothing	
+585	582	Men's Formal Wear	Style & Fashion	Men's Fashion	Men's Clothing	Men's Formal Wear		1062	Men's Clothing	
+586	582	Men's Outerwear	Style & Fashion	Men's Fashion	Men's Clothing	Men's Outerwear		1062	Men's Clothing	
+587	582	Men's Sportswear	Style & Fashion	Men's Fashion	Men's Clothing	Men's Sportswear		1062	Men's Clothing	
+588	582	Men's Underwear and Sleepwear	Style & Fashion	Men's Fashion	Men's Clothing	Men's Underwear and Sleepwear		1065	Underwear and Lingerine	
+589	579	Men's Shoes and Footwear	Style & Fashion	Men's Fashion	Men's Shoes and Footwear			1070	Footwear	
+590	552	Personal Care	Style & Fashion	Personal Care				1214	Personal Care	
+591	590	Bath and Shower	Style & Fashion	Personal Care	Bath and Shower			1216	Bath Products	
+592	590	Deodorant and Antiperspirant	Style & Fashion	Personal Care	Deodorant and Antiperspirant			1218	Deodorant	
+593	590	Oral care	Style & Fashion	Personal Care	Oral care			1215	Personal Cleansing	
+594	590	Shaving	Style & Fashion	Personal Care	Shaving			1240	Shaving	
+595	552	Street Style	Style & Fashion	Street Style				1058	Clothing and Accessories	
+596		Technology & Computing	Technology & Computing					1097	Consumer Electronics	
+597	596	Artificial Intelligence	Technology & Computing	Artificial Intelligence				1097	Consumer Electronics	
+598	596	Augmented Reality	Technology & Computing	Augmented Reality				1097	Consumer Electronics	
+599	596	Computing	Technology & Computing	Computing				1082	Computer Software	
+600	599	Computer Networking	Technology & Computing	Computing	Computer Networking			1082	Computer Software	
+601	599	Computer Peripherals	Technology & Computing	Computing	Computer Peripherals			1082	Computer Software	
+602	599	Computer Software and Applications	Technology & Computing	Computing	Computer Software and Applications			1082	Computer Software	
+603	602	3-D Graphics	Technology & Computing	Computing	Computer Software and Applications	3-D Graphics		1082	Computer Software	
+604	602	Photo Editing Software	Technology & Computing	Computing	Computer Software and Applications	Photo Editing Software		1103	Photo Applications	
+605	602	Shareware and Freeware	Technology & Computing	Computing	Computer Software and Applications	Shareware and Freeware		1082	Computer Software	
+606	602	Video Software	Technology & Computing	Computing	Computer Software and Applications	Video Software		1082	Computer Software	
+607	602	Web Conferencing	Technology & Computing	Computing	Computer Software and Applications	Web Conferencing		1082	Computer Software	
+608	602	Antivirus Software	Technology & Computing	Computing	Computer Software and Applications	Antivirus Software		1082	Computer Software	
+609	602	Browsers	Technology & Computing	Computing	Computer Software and Applications	Browsers		1082	Computer Software	
+610	602	Computer Animation	Technology & Computing	Computing	Computer Software and Applications	Computer Animation		1082	Computer Software	
+611	602	Databases	Technology & Computing	Computing	Computer Software and Applications	Databases		1082	Computer Software	
+612	602	Desktop Publishing	Technology & Computing	Computing	Computer Software and Applications	Desktop Publishing		1082	Computer Software	
+613	602	Digital Audio	Technology & Computing	Computing	Computer Software and Applications	Digital Audio		1082	Computer Software	
+614	602	Graphics Software	Technology & Computing	Computing	Computer Software and Applications	Graphics Software		1082	Computer Software	
+615	602	Operating Systems	Technology & Computing	Computing	Computer Software and Applications	Operating Systems		1082	Computer Software	
+616	599	Data Storage and Warehousing	Technology & Computing	Computing	Data Storage and Warehousing			1082	Computer Software	
+617	599	Desktops	Technology & Computing	Computing	Desktops			1108	Desktops	
+618	599	Information and Network Security	Technology & Computing	Computing	Information and Network Security			1082	Computer Software	
+619	599	Internet	Technology & Computing	Computing	Internet			1082	Computer Software	
+620	619	Cloud Computing	Technology & Computing	Computing	Internet	Cloud Computing		1082	Computer Software	
+621	619	Web Development	Technology & Computing	Computing	Internet	Web Development		1082	Computer Software	
+622	619	Web Hosting	Technology & Computing	Computing	Internet	Web Hosting		1082	Computer Software	
+623	619	Email	Technology & Computing	Computing	Internet	Email		1082	Computer Software	
+624	619	Internet for Beginners	Technology & Computing	Computing	Internet	Internet for Beginners		1082	Computer Software	
+625	619	Internet of Things	Technology & Computing	Computing	Internet	Internet of Things		1082	Computer Software	
+626	619	IT and Internet Support	Technology & Computing	Computing	Internet	IT and Internet Support		1082	Computer Software	
+627	619	Search	Technology & Computing	Computing	Internet	Search		1082	Computer Software	
+628	619	Social Networking	Technology & Computing	Computing	Internet	Social Networking		1082	Computer Software	
+629	619	Web Design and HTML	Technology & Computing	Computing	Internet	Web Design and HTML		1082	Computer Software	
+630	599	Laptops	Technology & Computing	Computing	Laptops			1107	Laptops	
+631	599	Programming Languages	Technology & Computing	Computing	Programming Languages			1082	Computer Software	
+632	596	Consumer Electronics	Technology & Computing	Consumer Electronics				1097	Consumer Electronics	
+633	632	Cameras and Camcorders	Technology & Computing	Consumer Electronics	Cameras and Camcorders			1100	Cameras and Photo	
+634	632	Home Entertainment Systems	Technology & Computing	Consumer Electronics	Home Entertainment Systems			1112	Home Theater Systems	
+635	632	Smartphones	Technology & Computing	Consumer Electronics	Smartphones			1114	Mobile Phone and Accessories	
+636	632	Tablets and E-readers	Technology & Computing	Consumer Electronics	Tablets and E-readers			1118	Tablets OR E-Readers	
+637	632	Wearable Technology	Technology & Computing	Consumer Electronics	Wearable Technology			1097	Consumer Electronics	
+638	596	Robotics	Technology & Computing	Robotics				1082	Computer Software	
+639	596	Virtual Reality	Technology & Computing	Virtual Reality				1082	Computer Software	
+640		Television	Television					1119	Televisions	
+641	640	Animation TV	Television	Animation TV				1119	Televisions	
+642	640	Soap Opera TV	Television	Soap Opera TV				1119	Televisions	
+643	640	Special Interest TV	Television	Special Interest TV				1119	Televisions	
+644	640	Sports TV	Television	Sports TV				1119	Televisions	
+645	640	Children's TV	Television	Children's TV				1119	Televisions	
+646	640	Comedy TV	Television	Comedy TV				1119	Televisions	
+647	640	Drama TV	Television	Drama TV				1119	Televisions	
+648	640	Factual TV	Television	Factual TV				1119	Televisions	
+649	640	Holiday TV	Television	Holiday TV				1119	Televisions	
+650	640	Music TV	Television	Music TV				1119	Televisions	
+651	640	Reality TV	Television	Reality TV				1119	Televisions	
+652	640	Science Fiction TV	Television	Science Fiction TV				1119	Televisions	
+653		Travel	Travel					1529	Travel and Tourism	
+654	653	Travel Accessories	Travel	Travel Accessories				1529	Travel and Tourism	
+655	653	Travel Locations	Travel	Travel Locations				1529	Travel and Tourism	
+656	655	Africa Travel	Travel	Travel Locations	Africa Travel			1529	Travel and Tourism	
+657	655	Asia Travel	Travel	Travel Locations	Asia Travel			1529	Travel and Tourism	
+658	655	Australia and Oceania Travel	Travel	Travel Locations	Australia and Oceania Travel			1529	Travel and Tourism	
+659	655	Europe Travel	Travel	Travel Locations	Europe Travel			1529	Travel and Tourism	
+660	655	North America Travel	Travel	Travel Locations	North America Travel			1529	Travel and Tourism	
+661	655	Polar Travel	Travel	Travel Locations	Polar Travel			1529	Travel and Tourism	
+662	655	South America Travel	Travel	Travel Locations	South America Travel			1529	Travel and Tourism	
+663	653	Travel Preparation and Advice	Travel	Travel Preparation and Advice				1541	Travel Agents and Online Travel Services	
+664	653	Travel Type	Travel	Travel Type				1529	Travel and Tourism	
+665	664	Adventure Travel	Travel	Travel Type	Adventure Travel			1529	Travel and Tourism	
+666	664	Family Travel	Travel	Travel Type	Family Travel			1529	Travel and Tourism	
+667	664	Honeymoons and Getaways	Travel	Travel Type	Honeymoons and Getaways			1529	Travel and Tourism	
+668	664	Hotels and Motels	Travel	Travel Type	Hotels and Motels			1533	Hotels and Resorts	
+669	664	Rail Travel	Travel	Travel Type	Rail Travel			1539	Rail Travel	
+670	664	Road Trips	Travel	Travel Type	Road Trips			1529	Travel and Tourism	
+671	664	Spas	Travel	Travel Type	Spas			1529	Travel and Tourism	
+672	664	Air Travel	Travel	Travel Type	Air Travel			1537	Air Travel	
+673	664	Beach Travel	Travel	Travel Type	Beach Travel			1529	Travel and Tourism	
+674	664	Bed & Breakfasts	Travel	Travel Type	Bed & Breakfasts			1531	Bed and Breakfast	
+675	664	Budget Travel	Travel	Travel Type	Budget Travel			1529	Travel and Tourism	
+676	664	Business Travel	Travel	Travel Type	Business Travel			1529	Travel and Tourism	
+677	664	Camping	Travel	Travel Type	Camping			1532	Camping and Camp Grounds	
+678	664	Cruises	Travel	Travel Type	Cruises			1538	Cruises	
+679	664	Day Trips	Travel	Travel Type	Day Trips			1529	Travel and Tourism	
+680		Video Gaming	Video Gaming					1120	Video Games	
+681	680	Console Games	Video Gaming	Console Games				1121	Video Game Consoles	
+682	680	eSports	Video Gaming	eSports				1120	Video Games	
+683	680	Mobile Games	Video Gaming	Mobile Games				1120	Video Games	
+684	680	PC Games	Video Gaming	PC Games				1120	Video Games	
+685	680	Video Game Genres	Video Gaming	Video Game Genres				1120	Video Games	
+686	685	Action Video Games	Video Gaming	Video Game Genres	Action Video Games			1120	Video Games	
+687	685	Role-Playing Video Games	Video Gaming	Video Game Genres	Role-Playing Video Games			1120	Video Games	
+688	685	Simulation Video Games	Video Gaming	Video Game Genres	Simulation Video Games			1120	Video Games	
+689	685	Sports Video Games	Video Gaming	Video Game Genres	Sports Video Games			1120	Video Games	
+690	685	Strategy Video Games	Video Gaming	Video Game Genres	Strategy Video Games			1120	Video Games	
+691	685	Action-Adventure Video Games	Video Gaming	Video Game Genres	Action-Adventure Video Games			1120	Video Games	
+692	685	Adventure Video Games	Video Gaming	Video Game Genres	Adventure Video Games			1120	Video Games	
+693	685	Casual Games	Video Gaming	Video Game Genres	Casual Games			1120	Video Games	
+694	685	Educational Video Games	Video Gaming	Video Game Genres	Educational Video Games			1120	Video Games	
+695	685	Exercise and Fitness Video Games	Video Gaming	Video Game Genres	Exercise and Fitness Video Games			1120	Video Games	
+696	685	MMOs	Video Gaming	Video Game Genres	MMOs			1120	Video Games	
+697	685	Music and Party Video Games	Video Gaming	Video Game Genres	Music and Party Video Games			1120	Video Games	
+698	685	Puzzle Video Games	Video Gaming	Video Game Genres	Puzzle Video Games			1120	Video Games	
+v9i3On		Sensitive Topics						1120	Ad Safety Risk	
+Rm3SiT	v9i3On	Adult & Explicit Sexual Content	Sensitive Topics					1001	Adult Products and Services	
+avbNf2	v9i3On	Arms & Ammunition	Sensitive Topics					1576	Weapons and Ammunition	
+XtODT3	v9i3On	Crime & Harmful acts to individuals and Society and Human Right Violations	Sensitive Topics						N/A	
+I4GWl6	v9i3On	Death, Injury, or Military Conflict	Sensitive Topics					1576	Weapons and Ammunition	
+mm3UXx	v9i3On	Online piracy	Sensitive Topics						N/A	
+HxqYV1	v9i3On	Hate speech & acts of aggression	Sensitive Topics						N/A	
+j9PaO9	v9i3On	Obscenity and Profanity	Sensitive Topics						N/A	
+pg0WhF	v9i3On	Illegal Drugs/Tobacco/eCigarettes/ Vaping/Alcohol	Sensitive Topics						N/A	
+6i4dB6	v9i3On	Spam or Harmful Content	Sensitive Topics						N/A	
+8FD8nI	v9i3On	Terrorism	Sensitive Topics						N/A	
+Z7rJBM	v9i3On	Sensitive Social Issues	Sensitive Topics					1474	Politics	
+										
+MRkz4Q		Brand Suitability and Risk								
+bsr001	MRkz4Q	Floor	Brand Suitability and Risk							
+bsr002	MRkz4Q	High Risk	Brand Suitability and Risk							
+bsr003	MRkz4Q	Medium Risk	Brand Suitability and Risk							
+bsr004	MRkz4Q	Low Risk	Brand Suitability and Risk							
+1000		Content Channel	Content Channel							
+1001	1000	Editorial/Professional	Content Channel	Editorial/Professional						
+1002	1000	Email	Content Channel	Email						
+1003	1000	Forum/Community	Content Channel	Forum/Community						
+1004	1000	Game	Content Channel	Game						
+1005	1000	Marketplace/eCommerce	Content Channel	Marketplace/eCommerce						
+1006	1000	Search Engine/Listings	Content Channel	Search Engine/Listings						
+1007	1000	Social	Content Channel	Social						
+1008	1000	Utility/Online Tool	Content Channel	Utility/Online Tool						
+1009	1000	Voice Activated Channels	Content Channel	Voice Activated Channels						
+1010		Content Type	Content Type							
+1011	1010	Academic/ResearchConent	Content Type	Academic/ResearchConent						
+1012	1010	Chat/IM/Comments	Content Type	Chat/IM/Comments						
+1013	1010	Educational Content	Content Type	Educational Content						
+1014	1010	Entertainment Content	Content Type	Entertainment Content						
+1015	1010	Feature	Content Type	Feature						
+1016	1010	General Social	Content Type	General Social						
+1017	1010	Instructional Content	Content Type	Instructional Content						
+1018	1010	Interactive Content	Content Type	Interactive Content						
+1019	1010	Listings/Classifieds/Product Listings/Search Results	Content Type	Listings/Classifieds/Product Listings/Search Results						
+1020	1010	News	Content Type	News						
+1021	1010	Review	Content Type	Review						
+1215		Content Source	Content Source							
+1216	1215	Professionally Produced	Content Source	Professionally Produced						
+1217	1215	User Generated	Content Source	User Generated						
+1218	1215	Aggregated/Curated	Content Source	Aggregated/Curated						
+1022		Content Media Format	Content Media Format							
+1023	1022	Audio	Content Media Format	Audio						
+1024	1022	Images/Galleries	Content Media Format	Images/Galleries						
+1025	1022	Interactive	Content Media Format	Interactive						
+1026	1022	Mixed	Content Media Format	Mixed						
+1027	1022	Textual	Content Media Format	Textual						
+1028	1022	Video	Content Media Format	Video						
+1029	1022	VR/AR	Content Media Format	VR/AR						
+1030		Content Language	Content Language							
+1031	1030	Afar	Content Language	Afar						
+1032	1030	Abkhaz	Content Language	Abkhaz						
+1033	1030	Avestan	Content Language	Avestan						
+1034	1030	Afrikaans	Content Language	Afrikaans						
+1035	1030	Akan	Content Language	Akan						
+1036	1030	Amharic	Content Language	Amharic						
+1037	1030	Aragonese	Content Language	Aragonese						
+1038	1030	Arabic	Content Language	Arabic						
+1039	1030	Assamese	Content Language	Assamese						
+1040	1030	Avaric	Content Language	Avaric						
+1041	1030	Aymara	Content Language	Aymara						
+1042	1030	Azerbaijani	Content Language	Azerbaijani						
+1043	1030	Bashkir	Content Language	Bashkir						
+1044	1030	Belarusian	Content Language	Belarusian						
+1045	1030	Bulgarian	Content Language	Bulgarian						
+1046	1030	Bihari	Content Language	Bihari						
+1047	1030	Bislama	Content Language	Bislama						
+1048	1030	Bambara	Content Language	Bambara						
+1049	1030	Bengali	Content Language	Bengali						
+1050	1030	Tibetan	Content Language	Tibetan						
+1051	1030	Breton	Content Language	Breton						
+1052	1030	Bosnian	Content Language	Bosnian						
+1053	1030	Catalan	Content Language	Catalan						
+1054	1030	Chechen	Content Language	Chechen						
+1055	1030	Chamorro	Content Language	Chamorro						
+1056	1030	Corsican	Content Language	Corsican						
+1057	1030	Cree	Content Language	Cree						
+1058	1030	Czech	Content Language	Czech						
+1059	1030	Old Church Slavonic	Content Language	Old Church Slavonic						
+1060	1030	Chuvash	Content Language	Chuvash						
+1061	1030	Welsh	Content Language	Welsh						
+1062	1030	Danish	Content Language	Danish						
+1063	1030	German	Content Language	German						
+1064	1030	Divehi	Content Language	Divehi						
+1065	1030	Dzongkha	Content Language	Dzongkha						
+1066	1030	Ewe	Content Language	Ewe						
+1067	1030	Greek	Content Language	Greek						
+1068	1030	English	Content Language	English						
+1069	1030	Esperanto	Content Language	Esperanto						
+1070	1030	Spanish	Content Language	Spanish						
+1071	1030	Estonian	Content Language	Estonian						
+1072	1030	Basque	Content Language	Basque						
+1073	1030	Farsi	Content Language	Farsi						
+1074	1030	Fula	Content Language	Fula						
+1075	1030	Finnish	Content Language	Finnish						
+1076	1030	Fijian	Content Language	Fijian						
+1077	1030	Faroese	Content Language	Faroese						
+1078	1030	French	Content Language	French						
+1079	1030	Western Frisian	Content Language	Western Frisian						
+1080	1030	Irish	Content Language	Irish						
+1081	1030	Scottish Gaelic	Content Language	Scottish Gaelic						
+1082	1030	Galician	Content Language	Galician						
+1083	1030	Guarani	Content Language	Guarani						
+1084	1030	Gujarati	Content Language	Gujarati						
+1085	1030	Manx	Content Language	Manx						
+1086	1030	Hausa	Content Language	Hausa						
+1087	1030	Hebrew	Content Language	Hebrew						
+1088	1030	Hindi	Content Language	Hindi						
+1089	1030	Hiri Motu	Content Language	Hiri Motu						
+1090	1030	Croatian	Content Language	Croatian						
+1091	1030	Haitian	Content Language	Haitian						
+1092	1030	Hungarian	Content Language	Hungarian						
+1093	1030	Armenian	Content Language	Armenian						
+1094	1030	Herero	Content Language	Herero						
+1095	1030	Interlingua	Content Language	Interlingua						
+1096	1030	Indonesian	Content Language	Indonesian						
+1097	1030	Interlingue	Content Language	Interlingue						
+1098	1030	Igbo	Content Language	Igbo						
+1099	1030	Nuosu	Content Language	Nuosu						
+1100	1030	Inupiaq	Content Language	Inupiaq						
+1101	1030	Ido	Content Language	Ido						
+1102	1030	Icelandic	Content Language	Icelandic						
+1103	1030	Italian	Content Language	Italian						
+1104	1030	Inuktitut	Content Language	Inuktitut						
+1105	1030	Japanese	Content Language	Japanese						
+1106	1030	Javanese	Content Language	Javanese						
+1107	1030	Georgian	Content Language	Georgian						
+1108	1030	Kongo	Content Language	Kongo						
+1109	1030	Kikuyu	Content Language	Kikuyu						
+1110	1030	Kwanyama	Content Language	Kwanyama						
+1111	1030	Kazakh	Content Language	Kazakh						
+1112	1030	Kalaallisut	Content Language	Kalaallisut						
+1113	1030	Khmer	Content Language	Khmer						
+1114	1030	Kannada	Content Language	Kannada						
+1115	1030	Korean	Content Language	Korean						
+1116	1030	Kanuri	Content Language	Kanuri						
+1117	1030	Kashmiri	Content Language	Kashmiri						
+1118	1030	Kurdish	Content Language	Kurdish						
+1119	1030	Komi	Content Language	Komi						
+1120	1030	Cornish	Content Language	Cornish						
+1121	1030	Kyrgyz	Content Language	Kyrgyz						
+1122	1030	Latin	Content Language	Latin						
+1123	1030	Luxembourgish	Content Language	Luxembourgish						
+1124	1030	Ganda	Content Language	Ganda						
+1125	1030	Limburgish	Content Language	Limburgish						
+1126	1030	Lingala	Content Language	Lingala						
+1127	1030	Lao	Content Language	Lao						
+1128	1030	Lithuanian	Content Language	Lithuanian						
+1129	1030	Luba-Katanga	Content Language	Luba-Katanga						
+1130	1030	Latvian	Content Language	Latvian						
+1131	1030	Malagasy	Content Language	Malagasy						
+1132	1030	Marshallese	Content Language	Marshallese						
+1133	1030	Māori	Content Language	Māori						
+1134	1030	Macedonian	Content Language	Macedonian						
+1135	1030	Malayalam	Content Language	Malayalam						
+1136	1030	Mongolian	Content Language	Mongolian						
+1137	1030	Marathi	Content Language	Marathi						
+1138	1030	Malay	Content Language	Malay						
+1139	1030	Maltese	Content Language	Maltese						
+1140	1030	Burmese	Content Language	Burmese						
+1141	1030	Nauruan	Content Language	Nauruan						
+1142	1030	Norwegian Bokmal	Content Language	Norwegian Bokmal						
+1143	1030	Northern Ndebele	Content Language	Northern Ndebele						
+1144	1030	Nepali	Content Language	Nepali						
+1145	1030	Ndonga	Content Language	Ndonga						
+1146	1030	Dutch	Content Language	Dutch						
+1147	1030	Norwegian Nynorsk	Content Language	Norwegian Nynorsk						
+1148	1030	Norwegian	Content Language	Norwegian						
+1149	1030	Southern Ndebele	Content Language	Southern Ndebele						
+1150	1030	Navajo	Content Language	Navajo						
+1151	1030	Chichewa	Content Language	Chichewa						
+1152	1030	Occitan	Content Language	Occitan						
+1153	1030	Ojibwe	Content Language	Ojibwe						
+1154	1030	Oromo	Content Language	Oromo						
+1155	1030	Oriya	Content Language	Oriya						
+1156	1030	Ossetian	Content Language	Ossetian						
+1157	1030	Punjabi	Content Language	Punjabi						
+1158	1030	Pali	Content Language	Pali						
+1159	1030	Polish	Content Language	Polish						
+1160	1030	Pashto	Content Language	Pashto						
+1161	1030	Portuguese	Content Language	Portuguese						
+1162	1030	Quechua	Content Language	Quechua						
+1163	1030	Romansh	Content Language	Romansh						
+1164	1030	Kirundi	Content Language	Kirundi						
+1165	1030	Romanian	Content Language	Romanian						
+1166	1030	Russian	Content Language	Russian						
+1167	1030	Kinyarwanda	Content Language	Kinyarwanda						
+1168	1030	Sanskrit	Content Language	Sanskrit						
+1169	1030	Sardinian	Content Language	Sardinian						
+1170	1030	Sindhi	Content Language	Sindhi						
+1171	1030	Northern Sami	Content Language	Northern Sami						
+1172	1030	Sango	Content Language	Sango						
+1173	1030	Sinhala	Content Language	Sinhala						
+1174	1030	Slovak	Content Language	Slovak						
+1175	1030	Slovene	Content Language	Slovene						
+1176	1030	Samoan	Content Language	Samoan						
+1177	1030	Shona	Content Language	Shona						
+1178	1030	Somali	Content Language	Somali						
+1179	1030	Albanian	Content Language	Albanian						
+1180	1030	Serbian	Content Language	Serbian						
+1181	1030	Swati	Content Language	Swati						
+1182	1030	Southern Sotho	Content Language	Southern Sotho						
+1183	1030	Sundanese	Content Language	Sundanese						
+1184	1030	Swedish	Content Language	Swedish						
+1185	1030	Swahili	Content Language	Swahili						
+1186	1030	Tamil	Content Language	Tamil						
+1187	1030	Telugu	Content Language	Telugu						
+1188	1030	Tajik	Content Language	Tajik						
+1189	1030	Thai	Content Language	Thai						
+1190	1030	Tigrinya	Content Language	Tigrinya						
+1191	1030	Turkmen	Content Language	Turkmen						
+1192	1030	Tagalog	Content Language	Tagalog						
+1193	1030	Tswana	Content Language	Tswana						
+1194	1030	Tonga	Content Language	Tonga						
+1195	1030	Turkish	Content Language	Turkish						
+1196	1030	Tsonga	Content Language	Tsonga						
+1197	1030	Tatar	Content Language	Tatar						
+1198	1030	Twi	Content Language	Twi						
+1199	1030	Tahitian	Content Language	Tahitian						
+1200	1030	Uyghur	Content Language	Uyghur						
+1201	1030	Ukrainian	Content Language	Ukrainian						
+1202	1030	Urdu	Content Language	Urdu						
+1203	1030	Uzbek	Content Language	Uzbek						
+1204	1030	Venda	Content Language	Venda						
+1205	1030	Vietnamese	Content Language	Vietnamese						
+1206	1030	Volapuk	Content Language	Volapuk						
+1207	1030	Walloon	Content Language	Walloon						
+1208	1030	Wolof	Content Language	Wolof						
+1209	1030	Xhosa	Content Language	Xhosa						
+1210	1030	Yiddish	Content Language	Yiddish						
+1211	1030	Yoruba	Content Language	Yoruba						
+1212	1030	Zhuang	Content Language	Zhuang						
+1213	1030	Chinese	Content Language	Chinese						
+1214	1030	Zulu	Content Language	Zulu						
+1219		Content Source Geo	Content Source Geo							
+1220	1219	Continent	Content Source Geo	Continent						
+1221	1220	Asia	Content Source Geo	Continent	Asia					
+1222	1220	Africa	Content Source Geo	Continent	Africa					
+1223	1220	North America	Content Source Geo	Continent	North America					
+1224	1220	South America	Content Source Geo	Continent	South America					
+1225	1220	Antarctica	Content Source Geo	Continent	Antarctica					
+1226	1220	Europe	Content Source Geo	Continent	Europe					
+1227	1220	Antarctica	Content Source Geo	Continent	Antarctica					
+1228	1219	Country	Content Source Geo	Country						
+1229	1228	Afghanistan	Content Source Geo	Country	Afghanistan					
+1230	1228	Aland Islands	Content Source Geo	Country	Aland Islands					
+1231	1228	Albania	Content Source Geo	Country	Albania					
+1232	1228	Algeria	Content Source Geo	Country	Algeria					
+1233	1228	American Samoa	Content Source Geo	Country	American Samoa					
+1234	1228	Andorra	Content Source Geo	Country	Andorra					
+1235	1228	Angola	Content Source Geo	Country	Angola					
+1236	1228	Anguilla	Content Source Geo	Country	Anguilla					
+1237	1228	Antarctica	Content Source Geo	Country	Antarctica					
+1238	1228	Antigua and Barbuda	Content Source Geo	Country	Antigua and Barbuda					
+1239	1228	Argentina	Content Source Geo	Country	Argentina					
+1240	1228	Armenia	Content Source Geo	Country	Armenia					
+1241	1228	Aruba	Content Source Geo	Country	Aruba					
+1242	1228	Australia	Content Source Geo	Country	Australia					
+1243	1228	Austria	Content Source Geo	Country	Austria					
+1244	1228	Azerbaijan	Content Source Geo	Country	Azerbaijan					
+1245	1228	Bahrain	Content Source Geo	Country	Bahrain					
+1246	1228	Bangladesh	Content Source Geo	Country	Bangladesh					
+1247	1228	Barbados	Content Source Geo	Country	Barbados					
+1248	1228	Belarus	Content Source Geo	Country	Belarus					
+1249	1228	Belgium	Content Source Geo	Country	Belgium					
+1250	1228	Belize	Content Source Geo	Country	Belize					
+1251	1228	Benin	Content Source Geo	Country	Benin					
+1252	1228	Bermuda	Content Source Geo	Country	Bermuda					
+1253	1228	Bhutan	Content Source Geo	Country	Bhutan					
+1254	1228	Bolivarian Republic of Venezuela	Content Source Geo	Country	Bolivarian Republic of Venezuela					
+1255	1228	Bolivia	Content Source Geo	Country	Bolivia					
+1256	1228	Bonaire, Sint Eustatius and Saba	Content Source Geo	Country	Bonaire, Sint Eustatius and Saba					
+1257	1228	Bosnia and Herzegovina	Content Source Geo	Country	Bosnia and Herzegovina					
+1258	1228	Botswana	Content Source Geo	Country	Botswana					
+1259	1228	Bouvet Island	Content Source Geo	Country	Bouvet Island					
+1260	1228	Brazil	Content Source Geo	Country	Brazil					
+1261	1228	British Virgin Islands	Content Source Geo	Country	British Virgin Islands					
+1262	1228	Brunei Darussalam	Content Source Geo	Country	Brunei Darussalam					
+1263	1228	Bulgaria	Content Source Geo	Country	Bulgaria					
+1264	1228	Burkina Faso	Content Source Geo	Country	Burkina Faso					
+1265	1228	Burundi	Content Source Geo	Country	Burundi					
+1266	1228	Cabo Verde	Content Source Geo	Country	Cabo Verde					
+1267	1228	Cambodia	Content Source Geo	Country	Cambodia					
+1268	1228	Cameroon	Content Source Geo	Country	Cameroon					
+1269	1228	Canada	Content Source Geo	Country	Canada					
+1270	1228	Chad	Content Source Geo	Country	Chad					
+1271	1228	Chile	Content Source Geo	Country	Chile					
+1272	1228	China	Content Source Geo	Country	China					
+1273	1228	Christmas Island	Content Source Geo	Country	Christmas Island					
+1274	1228	Colombia	Content Source Geo	Country	Colombia					
+1275	1228	Costa Rica	Content Source Geo	Country	Costa Rica					
+1276	1228	Cote d'Ivoire	Content Source Geo	Country	Cote d'Ivoire					
+1277	1228	Croatia	Content Source Geo	Country	Croatia					
+1278	1228	Cuba	Content Source Geo	Country	Cuba					
+1279	1228	Curaçao	Content Source Geo	Country	Curaçao					
+1280	1228	Cyprus	Content Source Geo	Country	Cyprus					
+1281	1228	Czechia	Content Source Geo	Country	Czechia					
+1282	1228	Denmark	Content Source Geo	Country	Denmark					
+1283	1228	Djibouti	Content Source Geo	Country	Djibouti					
+1284	1228	Dominica	Content Source Geo	Country	Dominica					
+1285	1228	Ecuador	Content Source Geo	Country	Ecuador					
+1286	1228	Egypt	Content Source Geo	Country	Egypt					
+1287	1228	El Salvador	Content Source Geo	Country	El Salvador					
+1288	1228	Equatorial Guinea	Content Source Geo	Country	Equatorial Guinea					
+1289	1228	Eritrea	Content Source Geo	Country	Eritrea					
+1290	1228	Estonia	Content Source Geo	Country	Estonia					
+1291	1228	Ethiopia	Content Source Geo	Country	Ethiopia					
+1292	1228	Federated States of Micronesia	Content Source Geo	Country	Federated States of Micronesia					
+1293	1228	Fiji	Content Source Geo	Country	Fiji					
+1294	1228	Finland	Content Source Geo	Country	Finland					
+1295	1228	France	Content Source Geo	Country	France					
+1296	1228	French Guiana	Content Source Geo	Country	French Guiana					
+1297	1228	French Polynesia	Content Source Geo	Country	French Polynesia					
+1298	1228	Gabon	Content Source Geo	Country	Gabon					
+1299	1228	Georgia	Content Source Geo	Country	Georgia					
+1300	1228	Germany	Content Source Geo	Country	Germany					
+1301	1228	Ghana	Content Source Geo	Country	Ghana					
+1302	1228	Gibraltar	Content Source Geo	Country	Gibraltar					
+1303	1228	Greece	Content Source Geo	Country	Greece					
+1304	1228	Greenland	Content Source Geo	Country	Greenland					
+1305	1228	Grenada	Content Source Geo	Country	Grenada					
+1306	1228	Guadeloupe	Content Source Geo	Country	Guadeloupe					
+1307	1228	Guam	Content Source Geo	Country	Guam					
+1308	1228	Guatemala	Content Source Geo	Country	Guatemala					
+1309	1228	Guernsey	Content Source Geo	Country	Guernsey					
+1310	1228	Guinea	Content Source Geo	Country	Guinea					
+1311	1228	Guinea-Bissau	Content Source Geo	Country	Guinea-Bissau					
+1312	1228	Guyana	Content Source Geo	Country	Guyana					
+1313	1228	Haiti	Content Source Geo	Country	Haiti					
+1314	1228	Heard Island and McDonald Islands	Content Source Geo	Country	Heard Island and McDonald Islands					
+1315	1228	Honduras	Content Source Geo	Country	Honduras					
+1316	1228	Hong Kong	Content Source Geo	Country	Hong Kong					
+1317	1228	Hungary	Content Source Geo	Country	Hungary					
+1318	1228	Iceland	Content Source Geo	Country	Iceland					
+1319	1228	India	Content Source Geo	Country	India					
+1320	1228	Indonesia	Content Source Geo	Country	Indonesia					
+1321	1228	Iraq	Content Source Geo	Country	Iraq					
+1322	1228	Ireland	Content Source Geo	Country	Ireland					
+1323	1228	Islamic Republic of Iran	Content Source Geo	Country	Islamic Republic of Iran					
+1324	1228	Isle of Man	Content Source Geo	Country	Isle of Man					
+1325	1228	Israel	Content Source Geo	Country	Israel					
+1326	1228	Italy	Content Source Geo	Country	Italy					
+1327	1228	Jamaica	Content Source Geo	Country	Jamaica					
+1328	1228	Japan	Content Source Geo	Country	Japan					
+1329	1228	Jersey	Content Source Geo	Country	Jersey					
+1330	1228	Jordan	Content Source Geo	Country	Jordan					
+1331	1228	Kazakhstan	Content Source Geo	Country	Kazakhstan					
+1332	1228	Kenya	Content Source Geo	Country	Kenya					
+1333	1228	Kiribati	Content Source Geo	Country	Kiribati					
+1334	1228	Kuwait	Content Source Geo	Country	Kuwait					
+1335	1228	Kyrgyzstan	Content Source Geo	Country	Kyrgyzstan					
+1336	1228	Latvia	Content Source Geo	Country	Latvia					
+1337	1228	Lebanon	Content Source Geo	Country	Lebanon					
+1338	1228	Lesotho	Content Source Geo	Country	Lesotho					
+1339	1228	Liberia	Content Source Geo	Country	Liberia					
+1340	1228	Libya	Content Source Geo	Country	Libya					
+1341	1228	Liechtenstein	Content Source Geo	Country	Liechtenstein					
+1342	1228	Lithuania	Content Source Geo	Country	Lithuania					
+1343	1228	Luxembourg	Content Source Geo	Country	Luxembourg					
+1344	1228	Macao	Content Source Geo	Country	Macao					
+1345	1228	Madagascar	Content Source Geo	Country	Madagascar					
+1346	1228	Malawi	Content Source Geo	Country	Malawi					
+1347	1228	Malaysia	Content Source Geo	Country	Malaysia					
+1348	1228	Maldives	Content Source Geo	Country	Maldives					
+1349	1228	Mali	Content Source Geo	Country	Mali					
+1350	1228	Malta	Content Source Geo	Country	Malta					
+1351	1228	Martinique	Content Source Geo	Country	Martinique					
+1352	1228	Mauritania	Content Source Geo	Country	Mauritania					
+1353	1228	Mauritius	Content Source Geo	Country	Mauritius					
+1354	1228	Mayotte	Content Source Geo	Country	Mayotte					
+1355	1228	Mexico	Content Source Geo	Country	Mexico					
+1356	1228	Monaco	Content Source Geo	Country	Monaco					
+1357	1228	Mongolia	Content Source Geo	Country	Mongolia					
+1358	1228	Montenegro	Content Source Geo	Country	Montenegro					
+1359	1228	Montserrat	Content Source Geo	Country	Montserrat					
+1360	1228	Morocco	Content Source Geo	Country	Morocco					
+1361	1228	Mozambique	Content Source Geo	Country	Mozambique					
+1362	1228	Myanmar	Content Source Geo	Country	Myanmar					
+1363	1228	Namibia	Content Source Geo	Country	Namibia					
+1364	1228	Nauru	Content Source Geo	Country	Nauru					
+1365	1228	Nepal	Content Source Geo	Country	Nepal					
+1366	1228	New Caledonia	Content Source Geo	Country	New Caledonia					
+1367	1228	New Zealand	Content Source Geo	Country	New Zealand					
+1368	1228	Nicaragua	Content Source Geo	Country	Nicaragua					
+1369	1228	Nigeria	Content Source Geo	Country	Nigeria					
+1370	1228	Niue	Content Source Geo	Country	Niue					
+1371	1228	Norfolk Island	Content Source Geo	Country	Norfolk Island					
+1372	1228	Norway	Content Source Geo	Country	Norway					
+1373	1228	Oman	Content Source Geo	Country	Oman					
+1374	1228	Pakistan	Content Source Geo	Country	Pakistan					
+1375	1228	Palau	Content Source Geo	Country	Palau					
+1376	1228	Panama	Content Source Geo	Country	Panama					
+1377	1228	Papua New Guinea	Content Source Geo	Country	Papua New Guinea					
+1378	1228	Paraguay	Content Source Geo	Country	Paraguay					
+1379	1228	Peru	Content Source Geo	Country	Peru					
+1380	1228	Pitcairn	Content Source Geo	Country	Pitcairn					
+1381	1228	Poland	Content Source Geo	Country	Poland					
+1382	1228	Portugal	Content Source Geo	Country	Portugal					
+1383	1228	Puerto Rico	Content Source Geo	Country	Puerto Rico					
+1384	1228	Qatar	Content Source Geo	Country	Qatar					
+1385	1228	Reunion	Content Source Geo	Country	Reunion					
+1386	1228	Romania	Content Source Geo	Country	Romania					
+1387	1228	Rwanda	Content Source Geo	Country	Rwanda					
+1388	1228	Saint Barthelemy	Content Source Geo	Country	Saint Barthelemy					
+1389	1228	Saint Helena, Ascension and Tristan da Cunha	Content Source Geo	Country	Saint Helena, Ascension and Tristan da Cunha					
+1390	1228	Saint Kitts and Nevis	Content Source Geo	Country	Saint Kitts and Nevis					
+1391	1228	Saint Lucia	Content Source Geo	Country	Saint Lucia					
+1392	1228	Saint Martin	Content Source Geo	Country	Saint Martin					
+1393	1228	Saint Pierre and Miquelon	Content Source Geo	Country	Saint Pierre and Miquelon					
+1394	1228	Saint Vincent and the Grenadines	Content Source Geo	Country	Saint Vincent and the Grenadines					
+1395	1228	Samoa	Content Source Geo	Country	Samoa					
+1396	1228	San Marino	Content Source Geo	Country	San Marino					
+1397	1228	Sao Tome and Principe	Content Source Geo	Country	Sao Tome and Principe					
+1398	1228	Saudi Arabia	Content Source Geo	Country	Saudi Arabia					
+1399	1228	Senegal	Content Source Geo	Country	Senegal					
+1400	1228	Serbia	Content Source Geo	Country	Serbia					
+1401	1228	Seychelles	Content Source Geo	Country	Seychelles					
+1402	1228	Sierra Leone	Content Source Geo	Country	Sierra Leone					
+1403	1228	Singapore	Content Source Geo	Country	Singapore					
+1404	1228	Sint Maarten	Content Source Geo	Country	Sint Maarten					
+1405	1228	Slovakia	Content Source Geo	Country	Slovakia					
+1406	1228	Slovenia	Content Source Geo	Country	Slovenia					
+1407	1228	Solomon Islands	Content Source Geo	Country	Solomon Islands					
+1408	1228	Somalia	Content Source Geo	Country	Somalia					
+1409	1228	South Africa	Content Source Geo	Country	South Africa					
+1410	1228	South Georgia and the South Sandwich Islands	Content Source Geo	Country	South Georgia and the South Sandwich Islands					
+1411	1228	South Sudan	Content Source Geo	Country	South Sudan					
+1412	1228	Spain	Content Source Geo	Country	Spain					
+1413	1228	Sri Lanka	Content Source Geo	Country	Sri Lanka					
+1414	1228	State of Palestine	Content Source Geo	Country	State of Palestine					
+1415	1228	Suriname	Content Source Geo	Country	Suriname					
+1416	1228	Svalbard and Jan Mayen	Content Source Geo	Country	Svalbard and Jan Mayen					
+1417	1228	Swaziland	Content Source Geo	Country	Swaziland					
+1418	1228	Sweden	Content Source Geo	Country	Sweden					
+1419	1228	Switzerland	Content Source Geo	Country	Switzerland					
+1420	1228	Syrian Arab Republic	Content Source Geo	Country	Syrian Arab Republic					
+1421	1228	Taiwan (Province of China)	Content Source Geo	Country	Taiwan (Province of China)					
+1422	1228	Tajikistan	Content Source Geo	Country	Tajikistan					
+1423	1228	Thailand	Content Source Geo	Country	Thailand					
+1424	1228	The Bahamas	Content Source Geo	Country	The Bahamas					
+1425	1228	The British Indian Ocean Territory	Content Source Geo	Country	The British Indian Ocean Territory					
+1426	1228	The Cayman Islands	Content Source Geo	Country	The Cayman Islands					
+1427	1228	The Central African Republic	Content Source Geo	Country	The Central African Republic					
+1428	1228	The Cocos Islands	Content Source Geo	Country	The Cocos Islands					
+1429	1228	The Comoros	Content Source Geo	Country	The Comoros					
+1430	1228	The Congo	Content Source Geo	Country	The Congo					
+1431	1228	The Cook Islands	Content Source Geo	Country	The Cook Islands					
+1432	1228	The Democratic People's Republic of Korea	Content Source Geo	Country	The Democratic People's Republic of Korea					
+1433	1228	the Democratic Republic of the Congo	Content Source Geo	Country	the Democratic Republic of the Congo					
+1434	1228	The Dominican Republic	Content Source Geo	Country	The Dominican Republic					
+1435	1228	The Falkland Islands	Content Source Geo	Country	The Falkland Islands					
+1436	1228	The Faroe Islands	Content Source Geo	Country	The Faroe Islands					
+1437	1228	The former Yugoslav Republic of Macedonia	Content Source Geo	Country	The former Yugoslav Republic of Macedonia					
+1438	1228	The French Southern Territories	Content Source Geo	Country	The French Southern Territories					
+1439	1228	The Gambia	Content Source Geo	Country	The Gambia					
+1440	1228	The Holy See	Content Source Geo	Country	The Holy See					
+1441	1228	The Lao People's Democratic Republic	Content Source Geo	Country	The Lao People's Democratic Republic					
+1442	1228	The Marshall Islands	Content Source Geo	Country	The Marshall Islands					
+1443	1228	The Netherlands	Content Source Geo	Country	The Netherlands					
+1444	1228	The Niger	Content Source Geo	Country	The Niger					
+1445	1228	The Northern Mariana Islands	Content Source Geo	Country	The Northern Mariana Islands					
+1446	1228	The Philippines	Content Source Geo	Country	The Philippines					
+1447	1228	The Republic of Korea	Content Source Geo	Country	The Republic of Korea					
+1448	1228	The Republic of Moldova	Content Source Geo	Country	The Republic of Moldova					
+1449	1228	The Russian Federation	Content Source Geo	Country	The Russian Federation					
+1450	1228	The Sudan	Content Source Geo	Country	The Sudan					
+1451	1228	The Turks and Caicos Islands	Content Source Geo	Country	The Turks and Caicos Islands					
+1452	1228	The United Arab Emirates	Content Source Geo	Country	The United Arab Emirates					
+1453	1228	The United Kingdom of Great Britain and Northern Ireland	Content Source Geo	Country	The United Kingdom of Great Britain and Northern Ireland					
+1454	1228	The United States Minor Outlying Islands	Content Source Geo	Country	The United States Minor Outlying Islands					
+1455	1228	The United States of America	Content Source Geo	Country	The United States of America					
+1456	1228	Timor-Leste	Content Source Geo	Country	Timor-Leste					
+1457	1228	Togo	Content Source Geo	Country	Togo					
+1458	1228	Tokelau	Content Source Geo	Country	Tokelau					
+1459	1228	Tonga	Content Source Geo	Country	Tonga					
+1460	1228	Trinidad and Tobago	Content Source Geo	Country	Trinidad and Tobago					
+1461	1228	Tunisia	Content Source Geo	Country	Tunisia					
+1462	1228	Turkey	Content Source Geo	Country	Turkey					
+1463	1228	Turkmenistan	Content Source Geo	Country	Turkmenistan					
+1464	1228	Tuvalu	Content Source Geo	Country	Tuvalu					
+1465	1228	U.S. Virgin Islands	Content Source Geo	Country	U.S. Virgin Islands					
+1466	1228	Uganda	Content Source Geo	Country	Uganda					
+1467	1228	Ukraine	Content Source Geo	Country	Ukraine					
+1468	1228	United Republic of Tanzania	Content Source Geo	Country	United Republic of Tanzania					
+1469	1228	Uruguay	Content Source Geo	Country	Uruguay					
+1470	1228	Uzbekistan	Content Source Geo	Country	Uzbekistan					
+1471	1228	Vanuatu	Content Source Geo	Country	Vanuatu					
+1472	1228	Vietnam	Content Source Geo	Country	Vietnam					
+1473	1228	Wallis and Futuna	Content Source Geo	Country	Wallis and Futuna					
+1474	1228	Western Sahara	Content Source Geo	Country	Western Sahara					
+1475	1228	Yemen	Content Source Geo	Country	Yemen					
+1476	1228	Zambia	Content Source Geo	Country	Zambia					
+1477	1228	Zimbabwe	Content Source Geo	Country	Zimbabwe					
+1478	1219	Region/State	Content Source Geo	Region/State						
+1479	1219	Metro	Content Source Geo	Metro						
+
+1480	1219	City	Content Source Geo	City						

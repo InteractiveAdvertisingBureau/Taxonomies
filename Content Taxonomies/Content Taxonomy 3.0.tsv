@@ -1,6 +1,6 @@
 Relational ID System			Content Taxonomy v3.0 Tiered Categories				Extension
 Unique ID	Parent	Name	Tier 1	Tier 2	Tier 3	Tier 4	
-150	150	Attractions	Attractions				
+150		Attractions	Attractions				
 151	150	Amusement and Theme Parks	Attractions	Amusement and Theme Parks			
 179	150	Bars & Restaurants	Attractions	Bars & Restaurants			
 181	150	Casinos & Gambling	Attractions	Casinos & Gambling			
@@ -167,7 +167,7 @@ JLBCU7		Entertainment	Entertainment
 162	8VZQHL	Awards Shows	Events	Awards Shows			
 180	8VZQHL	Business Expos & Conferences	Events	Business Expos & Conferences			
 185	8VZQHL	Fan Conventions	Events	Fan Conventions			
-186	186	Family and Relationships	Family and Relationships				SCD
+186		Family and Relationships	Family and Relationships				SCD
 187	186	Bereavement	Family and Relationships	Bereavement			SCD
 188	186	Dating	Family and Relationships	Dating			
 189	186	Divorce	Family and Relationships	Divorce			
@@ -205,7 +205,7 @@ JLBCU7		Entertainment	Entertainment
 213	210	Vegetarian Diets	Food & Drink	Vegetarian Diets			
 214	210	World Cuisines	Food & Drink	World Cuisines			
 SPSHQ5		Genres	Genres				
-VKIV56	SPSHQ5	Nature	Genres				
+VKIV56	SPSHQ5	Nature	Genres	Nature			
 325	SPSHQ5	Action/Adventure	Genres	Action/Adventure			
 641	SPSHQ5	Animation & Anime	Genres	Animation & Anime			
 44	SPSHQ5	Biographies	Genres	Biographies			
@@ -229,7 +229,7 @@ TIFQA5	SPSHQ5	Lifestyle	Genres	Lifestyle
 643	SPSHQ5	Special Interest (Indie/Art House)	Genres	Special Interest (Indie/Art House)			
 370	SPSHQ5	Sports Radio	Genres	Sports Radio			
 371	SPSHQ5	Talk Radio	Genres	Talk Radio			
-376	SPSHQ5	Public Radio	Genres	Talk Radio	Public Radio		
+376	371	Public Radio	Genres	Talk Radio	Public Radio		
 A0AH3G	SPSHQ5	Talk Show	Genres	Talk Show			
 KHPC5A	SPSHQ5	True Crime	Genres	True Crime			
 KHPC6A	SPSHQ5	Western	Genres	Western			SCD
@@ -300,7 +300,7 @@ KHPC6A	SPSHQ5	Western	Genres	Western			SCD
 276	274	Remodeling & Construction	Home & Garden	Remodeling & Construction			
 277	274	Smart Home	Home & Garden	Smart Home			SCD
 383		Law	Law				SCD
-WQC6HR	602	Maps & Navigation	Maps & Navigation				SCD
+WQC6HR	602	Maps & Navigation	Technology & Computing	Computing	Computer Software and Applications	Maps & Navigation	SCD
 286		Medical Health	Medical Health				SCD
 323	286	Cosmetic Medical Services	Medical Health	Cosmetic Medical Services			SCD
 287	286	Diseases and Conditions	Medical Health	Diseases and Conditions			SCD
@@ -339,40 +339,40 @@ WQC6HR	602	Maps & Navigation	Maps & Navigation				SCD
 320	286	Pharmaceutical Drugs	Medical Health	Pharmaceutical Drugs			
 321	286	Surgery	Medical Health	Surgery			
 322	286	Vaccines	Medical Health	Vaccines			
-342	338	Adult Album Alternative	Music	Adult Album Alternative			
-339	338	Adult Contemporary Music	Music	Adult Contemporary Music			
-340	339	Soft AC Music	Music	Adult Contemporary Music	Soft AC Music		
-341	339	Urban AC Music	Music	Adult Contemporary Music	Urban AC Music		
-343	338	Alternative Music	Music	Alternative Music			
-360	338	Blues	Music	Blues			
-344	338	Children's Music	Music	Children's Music			
-345	338	Classic Hits	Music	Classic Hits			
-346	338	Classical Music	Music	Classical Music			
-347	338	College Radio	Music	College Radio			
-348	338	Comedy (Music and Audio)	Music	Comedy (Music and Audio)			
-349	338	Contemporary Hits/Pop/Top 40	Music	Contemporary Hits/Pop/Top 40			
-350	338	Country Music	Music	Country Music			
-351	338	Dance and Electronic Music	Music	Dance and Electronic Music			
-354	338	Gospel Music	Music	Gospel Music			
-355	338	Hip Hop Music	Music	Hip Hop Music			
-356	338	Inspirational/New Age Music	Music	Inspirational/New Age Music			
-357	338	Jazz	Music	Jazz			
-358	338	Oldies/Adult Standards	Music	Oldies/Adult Standards			
-362	338	R&B/Soul/Funk	Music	R&B/Soul/Funk			
-359	338	Reggae	Music	Reggae			
-361	338	Religious (Music and Audio)	Music	Religious (Music and Audio)			
-363	338	Rock Music	Music	Rock Music			
-364	363	Album-oriented Rock	Music	Rock Music	Album-oriented Rock		
-365	363	Alternative Rock	Music	Rock Music	Alternative Rock		
-366	363	Classic Rock	Music	Rock Music	Classic Rock		
-367	363	Hard Rock	Music	Rock Music	Hard Rock		
-368	363	Soft Rock	Music	Rock Music	Soft Rock		
-353	338	Songwriters/Folk	Music	Songwriters/Folk			
-369	338	Soundtracks, TV and Showtunes	Music	Soundtracks, TV and Showtunes			
-352	338	World/International Music	Music	World/International Music			
-377	338	Urban Contemporary Music	Music	Urban Contemporary Music			
-378	338	Variety (Music and Audio)	Music	Variety (Music and Audio)			
-163	163	Personal Celebrations & Life Events	Personal Celebrations & Life Events				
+342	338	Adult Album Alternative	Entertainment	Music	Adult Album Alternative		
+339	338	Adult Contemporary Music	Entertainment	Music	Adult Contemporary Music		
+340	339	Soft AC Music	Entertainment	Music	Adult Contemporary Music	Soft AC Music	
+341	339	Urban AC Music	Entertainment	Music	Adult Contemporary Music	Urban AC Music	
+343	338	Alternative Music	Entertainment	Music	Alternative Music		
+360	338	Blues	Entertainment	Music	Blues		
+344	338	Children's Music	Entertainment	Music	Children's Music		
+345	338	Classic Hits	Entertainment	Music	Classic Hits		
+346	338	Classical Music	Entertainment	Music	Classical Music		
+347	338	College Radio	Entertainment	Music	College Radio		
+348	338	Comedy (Music and Audio)	Entertainment	Music	Comedy (Music and Audio)		
+349	338	Contemporary Hits/Pop/Top 40	Entertainment	Music	Contemporary Hits/Pop/Top 40		
+350	338	Country Music	Entertainment	Music	Country Music		
+351	338	Dance and Electronic Music	Entertainment	Music	Dance and Electronic Music		
+354	338	Gospel Music	Entertainment	Music	Gospel Music		
+355	338	Hip Hop Music	Entertainment	Music	Hip Hop Music		
+356	338	Inspirational/New Age Music	Entertainment	Music	Inspirational/New Age Music		
+357	338	Jazz	Entertainment	Music	Jazz		
+358	338	Oldies/Adult Standards	Entertainment	Music	Oldies/Adult Standards		
+362	338	R&B/Soul/Funk	Entertainment	Music	R&B/Soul/Funk		
+359	338	Reggae	Entertainment	Music	Reggae		
+361	338	Religious (Music and Audio)	Entertainment	Music	Religious (Music and Audio)		
+363	338	Rock Music	Entertainment	Music	Rock Music		
+364	363	Album-oriented Rock	Entertainment	Music	Rock Music	Album-oriented Rock	
+365	363	Alternative Rock	Entertainment	Music	Rock Music	Alternative Rock	
+366	363	Classic Rock	Entertainment	Music	Rock Music	Classic Rock	
+367	363	Hard Rock	Entertainment	Music	Rock Music	Hard Rock	
+368	363	Soft Rock	Entertainment	Music	Rock Music	Soft Rock	
+353	338	Songwriters/Folk	Entertainment	Music	Songwriters/Folk		
+369	338	Soundtracks, TV and Showtunes	Entertainment	Music	Soundtracks, TV and Showtunes		
+352	338	World/International Music	Entertainment	Music	World/International Music		
+377	338	Urban Contemporary Music	Entertainment	Music	Urban Contemporary Music		
+378	338	Variety (Music and Audio)	Entertainment	Music	Variety (Music and Audio)		
+163		Personal Celebrations & Life Events	Personal Celebrations & Life Events				
 164	163	Anniversary	Personal Celebrations & Life Events	Anniversary			
 166	163	Baby Shower	Personal Celebrations & Life Events	Baby Shower			
 167	163	Bachelor Party	Personal Celebrations & Life Events	Bachelor Party			
@@ -437,7 +437,7 @@ WQC6HR	602	Maps & Navigation	Maps & Navigation				SCD
 438	432	Celebrity Scandal	Pop Culture	Celebrity Scandal			
 439	432	Celebrity Style	Pop Culture	Celebrity Style			
 440	432	Humor and Satire	Pop Culture	Humor and Satire			
-W3CW2J	602	Productivity	Productivity				
+W3CW2J	602	Productivity	Technology & Computing	Computing	Computer Software and Applications	Productivity	
 441		Real Estate	Real Estate				
 442	441	Apartments	Real Estate	Apartments			
 445	441	Developmental Sites	Real Estate	Developmental Sites			
@@ -517,7 +517,7 @@ mm3UXx	v9i3On	Online Piracy	Sensitive Topics	Online Piracy
 494	483	Disabled Sports	Sports	Disabled Sports			
 495	483	Diving	Sports	Diving			
 496	483	Equine Sports	Sports	Equine Sports			
-497	483	Horse Racing	Sports	Equine Sports	Horse Racing		
+497	496	Horse Racing	Sports	Equine Sports	Horse Racing		
 498	483	Extreme Sports	Sports	Extreme Sports			
 499	498	Canoeing and Kayaking	Sports	Extreme Sports	Canoeing and Kayaking		
 500	498	Climbing	Sports	Extreme Sports	Climbing		
