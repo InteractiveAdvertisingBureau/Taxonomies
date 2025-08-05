@@ -4,6 +4,7 @@
 - [Migrating from Content 1.0](https://github.com/InteractiveAdvertisingBureau/Taxonomies/blob/develop/implementation.md#migrating-from-content-taxonomy-10)
 - [Implementation Guidance for Content 1.0 → Content 2.0](https://github.com/InteractiveAdvertisingBureau/Taxonomies/blob/develop/implementation.md#implementation-guidance-for-content-1--content-2-mapping)
 - [Content 3.0 Implementation Guidance](https://github.com/InteractiveAdvertisingBureau/Taxonomies/blob/main/implementation.md#content-taxonomy-30-implementation-guidance)
+- [Content 2.1 to Ad Product 2.0 Taxonomy Mapping Implementation Guidance]()
 
 # Implementation Guidance
 
@@ -686,3 +687,103 @@ Any of the aboutness categories can be used, but the most common ones are listed
 _Note 1: For news, refer to the news section, and use the news related vectors, as well as any relevant aboutness categories - like “Business” to reflect Business News_
 
 _Note 2: For Educational, use the “Educational Content” vector, along with any relevant aboutness categories._
+
+# Content 2.1 to Ad Product 2.0 Taxonomy Mapping Implementation Guidance
+
+## Content Taxonomy 2.1 to Ad Product Taxonomy 2.0
+
+The mapping between Content Taxonomy 2.1 to Ad Product Taxonomy 2.0 helps advertisers clearly label the product categorization of their ads and helps publishers determine if that product is suitable for their audience. This taxonomy mapping allows partners using Content Taxonomy 2.1 to migrate their existing taxonomy to one specifically designed to describe the product or service being advertised.
+
+The predominant use case for this upgrade is to support more nuanced publisher ad blocking. For example, today, if a publisher does not want to run ads for cryptocurrency, they must block the entire Finance category. Publishers may have specific product category requirements but need additional fidelity when describing those categories to their buy-side partners. This could include legal requirements, such as when they can show alcohol related ads, or brand suitability requirements, ensuring that ads are appropriate to show to their audience.
+
+Since the content taxonomy and ad product  taxonomy were created for a different purpose, there are some categories without a perfect mapping or with no mapping at all. 
+
+Implementers will have to review each piece of content below to ensure that the mapping works for your use case.
+
+*Note about Content Taxonomy 2.1* The new taxonomy also introduces the notion of additional vectors, above and beyond topical context, to describe other contextual attributes of content. These include the geographic origin of the content, the production quality of the content, and the channel in which the content is being consumed. To read more about these vectors, view this [Press Release](https://iabtechlab.com/iab-tech-lab-announces-final-content-taxonomy-v2-ready-for-adoption/). 
+
+### Rows with One to Many Mapping
+
+In this mapping, the majority of rows have a 1:1 mapping, but there are a small number of cases where multiple rows from Content Taxonomy 2.1 may apply to the Ad Product Taxonomy 2.0. These mappings should be given special scrutiny  by implementers prior to beginning development.
+
+<b>Hobbies & Interests {Content Taxonomy 2.1 ID = 239}</b>
+
+-   Consumer Packaged Goods {Ad Product Taxonomy 2.0 ID = 1123}
+
+-   Culture and Fine Arts {Ad Product Taxonomy 2.0 ID = 1008}
+
+-   Media {Ad Product Taxonomy 2.0 ID = 1419}
+
+<b>Paranormal Phenomena {Content Taxonomy 2.1 ID = 244}</b>
+
+-   Books and Audio Books {Ad Product Taxonomy 2.0 ID = 1422}
+
+-   Media {Ad Product Taxonomy 2.0 ID = 1419} 
+
+<b>Sci-Fi and Fantasy {Content 2.1 Taxonomy ID = 246}</b>
+
+-   Media {Ad Product Taxonomy 2.0 ID = 1419} 
+
+-   Books and Audio Books {Ad Product Taxonomy 2.0 ID = 1422} 
+
+-   Cosmetics {Ad Product Taxonomy 2.0 ID = 1138}
+
+-   Arts & Crafts Supplies {Ad Product Taxonomy 2.0 ID = 1495}
+
+For these mappings, the Taxonomy and Mapping Working Group  looked specifically at what products could exist for each of these categories. For example, with Sci-Fi and Fantasy, we considered Sci-Fi or fantasy books and movies, but it could also apply to  sci-fi/fantasy based games or role-playing which would yield cosmetic products or arts and craft supplies.
+
+### No Mappings Available
+
+Below are categories from Content Taxonomy 2.1 that do not have a related category in Ad Product Taxonomy 2.0. It is strongly recommended to use the Ad Safety Risk (1000) category from the Ad Product Taxonomy to fill known brand suitability gaps in Content Taxonomy 2.1. These categories are indicated with an asterisk below.
+
+Crime (380)*
+
+Disasters (381)*
+
+War and Conflicts (389)*
+
+Pop Culture T1 (432 - 440)
+
+Sensitive Topics (v9i3On) *
+
+## Ad Product 2.0 to Content Taxonomy 2.1
+
+In the Ad Product Taxonomy, there are far more categories of potential products to be sold in ads than there are to describe content on webpage, apps, etc. Therefore, many categories from Ad Product do not have a direct translation to the Content Taxonomy.
+
+Ad Product Taxonomy 2.0 will give DSPs a much easier time categorizing their ads because the categories are designed for the specific use case.
+
+The majority of the mappings into the Content Taxonomy map back to a Tier 1 category in the Ad Product Taxonomy.  This is because the Ad Product Taxonomy categories are designed for describing advertisements instead of content.
+
+There were several categories from Ad Product Taxonomy 2.0 that were discussed as imperfect mappings. The thought process behind these mappings was based on what ads would be likely to be displayed with a piece of content. We have listed them below:
+
+### Rows Discussed
+
+<b>Disposable Tableware {Ad Product Taxonomy 2.0 ID = 1145}</b> - We have mapped Disposable Tableware in Ad Product Taxonomy 2.0 to Party Supplies and Decorations (161) in Content Taxonomy 2.1 for contextual targeting.
+
+<b>Cups and Plates {Ad Product Taxonomy 2.0 ID = 1146}</b> - We have mapped Cups and Plates in Ad Product Taxonomy 2.0 to Party Supplies and Decorations (161) in Content Taxonomy 2.1 for contextual targeting.
+
+<b>Disposable Tableware {Ad Product Taxonomy 2.0 ID = 1147}</b> - We have mapped Disposable Tableware in Ad Product Taxonomy 2.0 to Party Supplies and Decorations (161) in Content Taxonomy 2.1 for contextual targeting.
+
+<b>Water Treatment {Ad Product Taxonomy 2.0 ID = 1256}</b> - We have mapped Water Treatment in Ad Product Taxonomy 2.0 to Home Improvement (280) in Content Taxonomy 2.1 for contextual targeting.
+
+<b>Water Filter/Devices {Ad Product Taxonomy 2.0 ID = 1257}</b> - We have mapped Water Filter/Devices in Ad Product Taxonomy 2.0 to Home Improvement (280) in Content Taxonomy 2.1 for contextual targeting.
+
+<b>Water Softeners/Treatment {Ad Product Taxonomy 2.0 ID = 1258}</b> - We have mapped Water Softeners/Treatment in Ad Product Taxonomy 2.0 to Home Improvement (280) in Content Taxonomy 2.1 for contextual targeting.
+
+<b>Durable Goods {Ad Product Taxonomy 2.0 ID = 1263}</b> - We have mapped Durable Goods in Ad Product Taxonomy 2.0 to Home & Garden (274) because the majority of the categories T2s were mapped to categories within the Home & Garden T1.
+
+<b>Industrial Hardware Supplies {Ad Product Taxonomy 2.0 ID = 1276}</b> - We have mapped Industrial Hardware Supplies in Ad Product Taxonomy 2.0 to Industries (90) because this T1 category encompassed multiple industries that could use these products.
+
+<b>Utilities Apps {Ad Product Taxonomy 2.0 ID = 1438}</b> - We have mapped Utilities Apps in Ad Product Taxonomy 2.0 to Computer Software and Applications (602) for contextual targeting.
+
+<b>Productivity Apps {Ad Product Taxonomy 2.0 ID = 1439}</b> - We have mapped Productivity Apps in Ad Product Taxonomy 2.0 to Computer Software and Applications (602) for contextual targeting.
+
+<b>Reference Apps {Ad Product Taxonomy 2.0 ID = 1440}</b> - We have mapped Reference Apps in Ad Product Taxonomy 2.0 to Computer Software and Applications (602) for contextual targeting.
+
+<b>Non-Fiat Currency {Ad Product 2.0 ID = 1448} T1</b> - We have mapped Non-Fiat Currency in Ad Product Taxonomy 2.0 to Currencies (82) but they can also be marked as Sensitive Topics (v9i3On).
+
+<b>Cryptocurrency Exchanges {Ad Product 2.0 ID = 1449}</b> - We have mapped Cryptocurrency Exchanges in Ad Product Taxonomy 2.0 to Currencies (82) but it can also be marked as Sensitive Topics (v9i3On).
+
+<b>Cryptocurrency Stock {Ad Product 2.0 ID = 1450}</b> - We have mapped Cryptocurrency Stock in Ad Product Taxonomy 2.0 to Currencies (82) but they can also be marked as Sensitive Topics (v9i3On).
+
+<b>NFTs {Ad Product 2.0 ID = 1451}</b> - We have mapped NFTs in Ad Product Taxonomy 2.0 to Currencies (82) but they can also be marked as Sensitive Topics (v9i3On).
