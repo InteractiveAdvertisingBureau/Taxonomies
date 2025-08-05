@@ -1,5 +1,3 @@
-										
-Relational ID System			Content Taxonomy v2.1 with Tiered Categories				Extension	Ad Product 2.0		
 Unique ID	Parent	Name	Tier 1	Tier 2	Tier 3	Tier 4		Unique ID	Name	
 1		Automotive	Automotive					1551	Vehicles	
 2	1	Auto Body Styles	Automotive	Auto Body Styles				1551	Vehicles	
@@ -1197,4 +1195,5 @@ bsr004	MRkz4Q	Low Risk	Brand Suitability and Risk
 1477	1228	Zimbabwe	Content Source Geo	Country	Zimbabwe					
 1478	1219	Region/State	Content Source Geo	Region/State						
 1479	1219	Metro	Content Source Geo	Metro						
+
 1480	1219	City	Content Source Geo	City						
