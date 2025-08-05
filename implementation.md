@@ -3,6 +3,7 @@
 - [Ad Product 2.0 Implementation Guidance](https://github.com/InteractiveAdvertisingBureau/Taxonomies/blob/develop/implementation.md#implementation-guidance)
 - [Migrating from Content 1.0](https://github.com/InteractiveAdvertisingBureau/Taxonomies/blob/develop/implementation.md#migrating-from-content-taxonomy-10)
 - [Implementation Guidance for Content 1.0 → Content 2.0](https://github.com/InteractiveAdvertisingBureau/Taxonomies/blob/develop/implementation.md#implementation-guidance-for-content-1--content-2-mapping)
+- [Content 3.0 Implementation Guidance](https://github.com/InteractiveAdvertisingBureau/Taxonomies/blob/main/implementation.md#content-taxonomy-30-implementation-guidance)
 
 # Implementation Guidance
 
