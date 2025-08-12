@@ -8,8 +8,8 @@ Unique ID	Parent	Name	Tier 1	Tier 2	Tier 3	Tier 4
 154	150	Malls & Shopping Centers	Attractions	Malls & Shopping Centers			
 155	150	Museums & Galleries	Attractions	Museums & Galleries			
 158	150	Nightclubs	Attractions	Nightclubs			
-159	150	Outdoor Attractions	Attractions	Outdoor Activities			
-160	150	Parks	Attractions	Parks & Nature			
+159	150	Outdoor Activities	Attractions	Outdoor Activities			
+160	150	Parks & Nature	Attractions	Parks & Nature			
 177	150	Theater Venues	Attractions	Theater Venues			
 178	150	Zoos & Aquariums	Attractions	Zoos & Aquariums			
 1		Automotive	Automotive				
@@ -702,4 +702,5 @@ VK7KD0	685	Racing Video Games	Video Gaming	Video Game Genres	Racing Video Games
 688	685	Simulation Video Games	Video Gaming	Video Game Genres	Simulation Video Games		
 689	685	Sports Video Games	Video Gaming	Video Game Genres	Sports Video Games		
 690	685	Strategy Video Games	Video Gaming	Video Game Genres	Strategy Video Games		
+
 389		War and Conflicts	War and Conflicts				
