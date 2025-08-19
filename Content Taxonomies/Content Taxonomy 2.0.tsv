@@ -710,7 +710,7 @@ Unique ID	Parent	Name	Tier 1	Tier 2	Tier 3	Tier 4
 1008	1000	Utility/Online Tool	Content Channel	Utility/Online Tool		
 1009	1000	Voice Activated Channels	Content Channel	Voice Activated Channels		
 1010		Content Type	Content Type			
-1011	1010	Academic/ResearchConent	Content Type	Academic/ResearchConent		
+1011	1010	Academic/ResearchContent	Content Type	Academic/ResearchConent		
 1012	1010	Chat/IM/Comments	Content Type	Chat/IM/Comments		
 1013	1010	Educational Content	Content Type	Educational Content		
 1014	1010	Entertainment Content	Content Type	Entertainment Content		
@@ -1180,3 +1180,4 @@ Unique ID	Parent	Name	Tier 1	Tier 2	Tier 3	Tier 4
 1478	1219	Region/State	Content Source Geo	Region/State		
 1479	1219	Metro	Content Source Geo	Metro		
 1480	1219	City	Content Source Geo	City		
+
