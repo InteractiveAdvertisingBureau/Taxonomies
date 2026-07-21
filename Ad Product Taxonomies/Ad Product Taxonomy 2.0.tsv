@@ -36,11 +36,11 @@ Unique ID	Parent ID	Name	Tier 1	Tier 2	Tier 3
 1034	1010	Forestry and Logging	Business and Industrial	Forestry and Logging	
 1035	1010	Industrial Storage	Business and Industrial	Industrial Storage	
 1036	1010	Industrials	Business and Industrial	Industrials	
-1037	1037	Aerospace and Defense	Business and Industrial	Industrials	Aerospace and Defense
-1038	1037	Construction and Engineering	Business and Industrial	Industrials	Construction and Engineering
-1039	1037	Industrial Conglomerates	Business and Industrial	Industrials	Industrial Conglomerates
-1040	1037	Trading Companies and Distributors	Business and Industrial	Industrials	Trading Companies and Distributors
-1041	1037	Transportation	Business and Industrial	Industrials	Transportation
+1037	1036	Aerospace and Defense	Business and Industrial	Industrials	Aerospace and Defense
+1038	1036	Construction and Engineering	Business and Industrial	Industrials	Construction and Engineering
+1039	1036	Industrial Conglomerates	Business and Industrial	Industrials	Industrial Conglomerates
+1040	1036	Trading Companies and Distributors	Business and Industrial	Industrials	Trading Companies and Distributors
+1041	1036	Transportation	Business and Industrial	Industrials	Transportation
 1042	1010	Manufacturing	Business and Industrial	Manufacturing	
 1043	1010	Medical and Biotechnology	Business and Industrial	Medical and Biotechnology	
 1044	1010	Mining and Quarrying	Business and Industrial	Mining and Quarrying	
