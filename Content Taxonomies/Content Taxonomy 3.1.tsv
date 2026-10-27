@@ -405,6 +405,8 @@ KHPC6A	SPSHQ5	Western	Genres	Western			SCD
 405	391	Personal Debt	Personal Finance	Personal Debt			
 406	405	Credit Cards	Personal Finance	Personal Debt	Credit Cards		SCD
 407	405	Home Financing	Personal Finance	Personal Debt	Home Financing		
+701	407	Home Purchase	Personal Finance	Personal Debt	Home Financing	Home Purchase	
+702	407	Home Refinancing	Personal Finance	Personal Debt	Home Financing	Home Refinancing	
 408	405	Personal Loans	Personal Finance	Personal Debt	Personal Loans		
 409	405	Student Loans	Personal Finance	Personal Debt	Student Loans		
 410	391	Personal Investing	Personal Finance	Personal Investing			
