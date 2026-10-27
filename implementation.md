@@ -512,20 +512,20 @@ Similar to News, in Content Taxonomy 3.0 we have introduced some changes to bett
 - Mystery
 - Documentary
 - Horror
-    - History
-    - Lifestyle
-    - Talk Show
-    - Western
-    - Fantasy
-    - Musicals
-    - Holiday
-    - Nature
-    - Sports Radio
-    - Talk Radio
-    - Public Radio
-    - Biographies
-    - Young Adult
-    - Music Video
+- History
+- Lifestyle
+- Talk Show
+- Western
+- Fantasy
+- Musicals
+- Holiday
+- Nature
+- Sports Radio
+- Talk Radio
+- Public Radio
+- Biographies
+- Young Adult
+- Music Video
 
 **“Content Form Factor” vector values:**
 
