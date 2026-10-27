@@ -1,5 +1,5 @@
 Unique ID	Parent ID	Name	Tier 1	Tier 2	Tier 3
-1000	1000	Ad Safety Risk	Ad Safety Risk		
+1000		Ad Safety Risk	Ad Safety Risk	
 1001		Adult Products and Services	Adult Products and Services		
 1002		Alcohol	Alcohol		
 1003	1002	Bars	Alcohol	Bars	
@@ -36,11 +36,11 @@ Unique ID	Parent ID	Name	Tier 1	Tier 2	Tier 3
 1034	1010	Forestry and Logging	Business and Industrial	Forestry and Logging	
 1035	1010	Industrial Storage	Business and Industrial	Industrial Storage	
 1036	1010	Industrials	Business and Industrial	Industrials	
-1037	1037	Aerospace and Defense	Business and Industrial	Industrials	Aerospace and Defense
-1038	1037	Construction and Engineering	Business and Industrial	Industrials	Construction and Engineering
-1039	1037	Industrial Conglomerates	Business and Industrial	Industrials	Industrial Conglomerates
-1040	1037	Trading Companies and Distributors	Business and Industrial	Industrials	Trading Companies and Distributors
-1041	1037	Transportation	Business and Industrial	Industrials	Transportation
+1037	1036	Aerospace and Defense	Business and Industrial	Industrials	Aerospace and Defense
+1038	1036	Construction and Engineering	Business and Industrial	Industrials	Construction and Engineering
+1039	1036	Industrial Conglomerates	Business and Industrial	Industrials	Industrial Conglomerates
+1040	1036	Trading Companies and Distributors	Business and Industrial	Industrials	Trading Companies and Distributors
+1041	1036	Transportation	Business and Industrial	Industrials	Transportation
 1042	1010	Manufacturing	Business and Industrial	Manufacturing	
 1043	1010	Medical and Biotechnology	Business and Industrial	Medical and Biotechnology	
 1044	1010	Mining and Quarrying	Business and Industrial	Mining and Quarrying	
@@ -119,8 +119,8 @@ Unique ID	Parent ID	Name	Tier 1	Tier 2	Tier 3
 1117	1097	Security Devices	Consumer Electronics	Security Devices	
 1118	1097	Tablets	Consumer Electronics	Tablets	
 1119	1097	Televisions	Consumer Electronics	Televisions	
-1120	1097	Video Games 	Consumer Electronics	Video Games	
-1121	1097	Video Games and Consoles	Consumer Electronics	Video Game Consoles	
+1120	1097	Video Games	Consumer Electronics	Video Games	
+1121	1097	Video Game Consoles	Consumer Electronics	Video Game Consoles	
 1122	1097	Video Game Console Accessories	Consumer Electronics	Video Game Console Accessories	
 1123		Consumer Packaged Goods	Consumer Packaged Goods		
 1124	1123	Baby and Toddler Products	Consumer Packaged Goods	Baby and Toddler Products	
@@ -425,7 +425,7 @@ Unique ID	Parent ID	Name	Tier 1	Tier 2	Tier 3
 1423	1419	Casual Games	Media	Casual Games	
 1424	1423	Casual Games Apps	Media	Casual Games	Casual Games Apps
 1425	1419	Core Gaming	Media	Core Gaming	
-1426	1423	Core Gaming Apps	Media	Core Gaming	Core Gaming Apps
+1426	1425	Core Gaming Apps	Media	Core Gaming	Core Gaming Apps
 1427	1419	CDs and Vinyl Records	Media	CDs and Vinyl Records	
 1428	1419	DVDs	Media	DVDs	
 1429	1419	Live Television	Media	Live Television	
@@ -466,7 +466,7 @@ Unique ID	Parent ID	Name	Tier 1	Tier 2	Tier 3
 1464	1460	Pet Grooming	Pet Ownership	Pet Grooming	
 1465	1460	Pet Sitting	Pet Ownership	Pet Sitting	
 1466	1460	Veterinary Services	Pet Ownership	Veterinary Services	
-1467		Personal/Consumer Telcom	Personal/Consumer Telecom		
+1467		Personal/Consumer Telecom	Personal/Consumer Telecom		
 1468	1467	Home Internet Services	Personal/Consumer Telecom	Home Internet Services	
 1469	1467	Home Phone Services	Personal/Consumer Telecom	Home Phone Services	
 1470	1467	Home Television Services	Personal/Consumer Telecom	Home Television Services	
@@ -488,11 +488,11 @@ Unique ID	Parent ID	Name	Tier 1	Tier 2	Tier 3
 1486	1482	Real Estate Services For Owners	Real Estate	Real Estate Services For Owners	
 1487		Religion and Spirituality	Religion and Spirituality		
 1488	1487	Astrology	Religion and Spirituality	Astrology	
-1489	1487	Prayer and Mindfullness Applications	Religion and Spirituality	Prayer and Mindfullness Applications	
-1490	1487	Prayer and worship services	Religion and Spirituality	Prayer and Worship Services	
-1491	1487	Religious causes	Religion and Spirituality	Religious Causes	
-1492	1487	Religious charities	Religion and Spirituality	Religious Charities	
-1493	1487	Religious organizations	Religion and Spirituality	Religious Organizations	
+1489	1487	Prayer and Mindfulness Applications	Religion and Spirituality	Prayer and Mindfulness Applications	
+1490	1487	Prayer and Worship Services	Religion and Spirituality	Prayer and Worship Services	
+1491	1487	Religious Causes	Religion and Spirituality	Religious Causes	
+1492	1487	Religious Charities	Religion and Spirituality	Religious Charities	
+1493	1487	Religious Organizations	Religion and Spirituality	Religious Organizations	
 1494		Retail	Retail		
 1495	1494	Arts and Crafts Supplies	Retail	Arts and Crafts Supplies	
 1496	1494	Cell Phone Stores	Retail	Cell Phone Stores	
@@ -520,9 +520,9 @@ Unique ID	Parent ID	Name	Tier 1	Tier 2	Tier 3
 1518	1510	Yoga Studios	Fitness Activities	Yoga Studios	
 1519		Sexual Health	Sexual Health		
 1520	1519	Contraceptives	Sexual Health	Contraceptives	
-1521	1519	Doctor Perscribed Medicines	Sexual Health	Doctor Perscribed Medicines	
+1521	1519	Doctor Prescribed Medicines	Sexual Health	Doctor Prescribed Medicines	
 1522	1519	Fertility Tracking Applications	Sexual Health	Fertility Tracking Applications	
-1523	1519	Non-perscribed Performance Enhancers	Sexual Health	Non-Perscribed Performance Enhancers	
+1523	1519	Non-Prescribed Performance Enhancers	Sexual Health	Non-Prescribed Performance Enhancers	
 1524		Sporting Goods	Sporting Goods		
 1525	1524	Athletics Equipment	Sporting Goods	Athletics Equipment	
 1526	1524	Exercise and Fitness Equipment	Sporting Goods	Exercise and Fitness Equipment	
@@ -553,7 +553,7 @@ Unique ID	Parent ID	Name	Tier 1	Tier 2	Tier 3
 1551		Vehicles	Vehicles		
 1552	1551	Automotive Leasing	Vehicles	Automotive Leasing	
 1553	1551	Automotive Ownership	Vehicles	Automotive Ownership	
-1554	1553	New vehicle Ownership	Vehicles	Automotive Ownership	New Vehicle Ownership
+1554	1553	New Vehicle Ownership	Vehicles	Automotive Ownership	New Vehicle Ownership
 1555	1553	Pre-owned Automotive Ownership	Vehicles	Automotive Ownership	Pre-owned Automotive Ownership
 1556	1551	Automotive Products	Vehicles	Automotive Products	
 1557	1556	Automotive Care Products	Vehicles	Automotive Products	Automotive Care Products
