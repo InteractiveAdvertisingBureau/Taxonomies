@@ -1,6 +1,6 @@
 Unique ID	Parent ID	Name	Tier 1	Tier 2	Tier 3
-|1000|	|	Ad Safety Risk|	Ad Safety Risk|  |  |	  
-|1001|		|Adult Products and Services|	Adult Products and Services	|  |  |  
+1000		Ad Safety Risk	Ad Safety Risk		
+1001		Adult Products and Services	Adult Products and Services		
 1002		Alcohol	Alcohol		
 1003	1002	Bars	Alcohol	Bars	
 1004	1002	Beer	Alcohol	Beer	
